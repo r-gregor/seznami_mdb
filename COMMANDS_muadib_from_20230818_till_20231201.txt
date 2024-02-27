@@ -1,0 +1,654 @@
+apt-cache search go
+apt-cache search 'go[ -_]' | grep --color ^go
+apt-cache search go | grep --color ^go
+apt-cache search go-lang
+apt-cache search go-lang | grep --color ^go
+apt-cache search go-lang | grep --color go-lang
+apt search hexedit
+apt search libsatrup notification
+bash "$(cat BUILD_ALL.txt)"
+bash $(cat BUILD_ALL.txt)
+b-convert-txt-to-pdf_v2 c_bit-shift-and-bitwise-operations-to-encode-rgb-values-multif_20230413.txt 
+b_find_lnx_executables 
+b_find_win_executables 
+cacat 65_english.srt 
+cargo build
+cargo build --release
+cargo new guessing_game
+cargo run
+cargo update
+cargo upgrade
+cargo --version
+cat config | grep bindsym > ~/majstaf/metsys_muadib/i3_setup/i3_bindings_20230608.txt
+cat config | grep -v '^#' | less
+cat config.rasi 
+cat downloadani_filmi_20231122.txt | sort | uniq > downloadani_filmi_sorted_20231122_02.txt 
+cat file.csv | bin/readstdin_v2 
+cat hstld_20230* | cut -d' ' -f7- | less
+cat hstld_20230* > _seznam1.txt
+cat ~/majstaf/majmedia/downloadani_filmi_sorted_20231122_02.txt | sort | uniq > ~/majstaf/majmedia/downloadani_filmi_sorted_20231122_03.txt 
+cat _seznam1.txt | sort | uniq -c > _seznam2.txt 
+chmod 600 *
+chmod 600 ~/*
+chmod 700 .ssh
+chmod 755 ./*
+chmod 755 ~/*
+chmod 755 balenaEtcher-1.13.1-x64.AppImage 
+chmod 755 b-convert-txt-to-pdf_v2 
+chmod 755 b_find_*
+chmod 755 bin/constructing_longint_OR-ing_hexnum 
+chmod 755 build_main.sh 
+chmod 755 build.sh 
+chmod 755 compile_and_run.sh 
+chmod 755 generate_100MB_random_txt_file.sh 
+chmod 755 majstaf/majbin/ffn
+chmod 755 rewrapp 
+chmod 755 rf
+chmod 755 rfp
+chmod 755 *.sh
+chmod 755 *sh
+chmod 755 try-theme.sh 
+chmod 755 valgrind-test.sh 
+chmod 755 vmf*
+chmod 755 volpejpersafler.sh 
+chmod 755 wp_changer.sh
+chmod 775 firefox_install_ppa.sh 
+chmod +x _BRISI/cmpr.sh 
+chmod +x _BRISI/cmpr_v2.sh 
+chmod +x _BRISI/cmpr_v3.sh 
+chmod +x build.sh Build_and_Run.sh clear_binaries.sh 
+chmod +x ch
+chmod +x coding_diffs_d.sh 
+chmod +x danes.sh 
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+dbus-launch /usr/bin/firefox --browser
+diff -q Dropbox/ODPRTO/MCDN_d/coding/C_Cpp_d Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en | cut -d' ' -f3- | sed 's/\(.*\):.*/\1/' | xargs -I{} du -sh {} 
+diff -q Dropbox/ODPRTO/MCDN_d/coding/C_Cpp_d Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en | cut f3-
+diff -q ~/majstaf/majbin/dirlist/ . | grep -v Common | grepc '.:'
+diff -q ~/majstaf/majbin/ . | grepc '.:'
+diff -q ~/majstaf/majbin/ . | grep -v Common
+diff -q majstaf/majbin/ . | grep -v Common
+diff -q ~/majstaf/majbin/ . | grep -v Common | grepc '.:'
+diff -q ~/majstaf/majbin/ ~/majstaf/d_metsys_git/d_metsys_source/d_majbin/
+diff -q majstaf/majbin/ ~/majstaf/d_metsys_git/d_metsys_source/d_majbin/
+diff -q ~/majstaf/majbin/ ~/majstaf/d_metsys_git/d_metsys_source/d_majbin/ | grep --color Only
+diff -q majstaf/majbin/ ~/majstaf/d_metsys_git/d_metsys_source/d_majbin/ | grep -v Common
+diff -q MEGA Dropbox
+diff SKUPNI/ ~/Dropbox/SKUPNI/ | grep Only | cut -d' ' -f3- | sed 's/: //'
+diff SKUPNI/ ~/Dropbox/SKUPNI/ | grep Only | grep -v zavar | cut -d' ' -f3- | sed 's/: //' | xargs rm -r
+echo $CDPATH
+echo $CODING_LOCAL
+echo $CODING_REMOTE
+echo $DBOC
+echo $EDIT
+echo $EDITOR
+echo $gPth
+echo $PATH
+echo $PATH_TO
+echo $PATH_TO_FX
+echo $PSSWD_SCRTS
+echo $TERM
+echo $UNM_SCRTS
+echo $XDG_CACHE_HOME/
+echo "AAA,BBB,CCC" | rofi -show 
+echo "AAA,BBB,CCC" | rofi -show menu
+echo "AAA,BBB,CCC" | rofi -show windo
+echo "AAA,BBB,CCC" | rofi -show window
+echo "Dark Glass dock theme for plank dock" | tr ' ' '-'
+echo "Dark Glass dock theme for plank dock" | tr ' ' '-' | tr '[:upper:]' '[:lower:]'
+echo 'ln -snf ./kitty-themes/themes/Hybrid.conf theme.conf && kitty &' > try-theme.sh 
+echo 'valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s bin/delete' | xclip
+echo 'valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s bin/struct_in_func_test_v4-d' >> struct_in_func_test_v4-d.c 
+export BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop; /snap/bin/firefox & 2>/dev/null
+export BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop; /snap/bin/firefox & 2>/dev/null && exit
+fc-cache -f
+fc-cache update -f
+feh --bg-scale /home/rgregor/majstaf/majvolpejpers/majvolpejpers_bob2/index3.jpeg &
+feh -g 1080 --scale majstaf/majvolpejpers/majvolpejpers_bob2
+feh -g 800 --scale majstaf/majvolpejpers/majvolpejpers_bob2
+feh -g 800 x 600 majstaf/majvolpejpers/majvolpejpers_bob2
+feh -g 800 x 600 --scale majstaf/majvolpejpers/majvolpejpers_bob2
+feh --geometry 1080x600 --scale majstaf/majvolpejpers/majvolpejpers_bob2
+feh --geometry 800 x 600 --scaledown majstaf/majvolpejpers/majvolpejpers_bob2
+feh --geometry 800x600 --scale-down majstaf/majvolpejpers/majvolpejpers_bob2
+feh --geometry 800x600 --scaledown majstaf/majvolpejpers/majvolpejpers_bob2
+feh --geometry 800x600 --scale majstaf/majvolpejpers/majvolpejpers_bob2
+feh --geometry 900x600 --scale majstaf/majvolpejpers/majvolpejpers_bob2
+feh imgs/thumbnail.png 
+feh imgs/tsodinPog.png 
+feh majstaf/majvolpejpers/majvolpejpers_bob2
+feh screenshot.png 
+find .config/ ! -user rgregor 
+find .config/ -user rgregor 
+find -iname "*conf*" | xargs -I{} grep "corn" {}
+find -iname "*conf*" | xargs -I{} grep -l "corn" {}
+find * -maxdepth 0 -type d -newermt "20230510 15:00:00" | xargs -I{} rm -rv {}
+find * -maxdepth 0 -type f | xatgs -I{} mv -v {} ../src_majbin/src_ostalo/
+find * -maxdepth 1 -newermt "20230513" | xargs -I{} cp -rv {} ~/Movies/20230514/
+find * -maxdepth 1 -newermt "20230513" | xargs -I{} echo "cp -rv {} ~/Movies/20230514/"
+find * -maxdepth 1 -type d -newermt "20230510 15:00:00"
+find ../MEGA -size +50M | xargs -I{} ls -1sh {} | sort -hr
+find * -newermt "20231109 17:00:00" -exec rm -v {} \;
+find -size +50M | xargs -I{} ls -1sh {} | sort -hr
+find -type d -name .debris | xargs -I{} rm -rv {}
+find -type d -name ".deb*" | xargs -I{} rm -rv {}
+find /usr/local/bin/ -type l | xargs -I{} sudo rm {}
+find /usr/local/bin/ -type l | xargs ls -l --color | less | grep -v rgregor
+for DDD in $(find * -type d -empty); do echo $DDD; done
+for DDD in $(find -type d -empty); do echo "$DDD"; done
+for DDD in $(find -type d -empty); do echo $DDD; done
+for DDD in "$(find -type d -empty)"; do echo rm -ir "$DDD"; done
+for DDD in "$(find -type d -empty)"; do echo rm -ir $DDD; done
+for DDD in $(find -type d -empty); do echo rm -ir $DDD; done
+for DDD in $(find * -type d -empty); do rm -ir $DDD; done
+for DDD in $(find -type d -empty); do rm -ir $DDD; done
+for DDD in Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing Dropbox/ODPRTO/MCDN_d/coding/C_Cpp_d/c_d_testing; do duh $DDD | head -n 10; done
+for FFF in $(find * -maxdepth 0 -type d -regex "cd..._.*"); do echo "mv $FFF $(echo $FFF | sed 's/cd/cd_/')"; done
+for FFF in $(find * -maxdepth 0 -type d -regex "cd..._.*"); do mv $FFF $(echo $FFF | sed 's/cd/cd_/'); done
+for FFF in $(find * -maxdepth 0 -type d -regex "gd..._.*"); do echo "mv $FFF $(echo $FFF | sed 's/gd/gd_/')"; done
+for FFF in $(find * -maxdepth 0 -type d -regex "gd..._.*"); do mv $FFF $(echo $FFF | sed 's/gd/gd_/'); done
+for FFF in $(find * -maxdepth 0 -type d -regex "gn..._.*"); do mv $FFF $(echo $FFF | sed 's/gn/gn_/'); done
+for FFF in $(find * -maxdepth 0 -type d -regex "jd..._.*"); do echo "mv $FFF $(echo $FFF | sed 's/jd/jd_/')"; done
+for FFF in $(find * -maxdepth 0 -type d -regex "jd..._.*"); do mv $FFF $(echo $FFF | sed 's/jd/jd_/'); done
+for FFF in $(find * -maxdepth 0 -type d -regex "pd..._.*"); do echo "mv $FFF $(echo $FFF | sed 's/pd/pd_/')"; done
+for FFF in $(find * -maxdepth 0 -type d -regex "pd..._.*"); do mv $FFF $(echo $FFF | sed 's/pd/pd_/'); done
+for FFF in $(find -type f); do diff -q ~/$(basename $FFF); done
+for FFF in $(find -type f); do diff -q $FFF ~/$(basename $FFF); done
+for FFF in $(find -type f); do echo $FFF; done
+for FFF in $(get_ddifs | cut -d' ' -f2 | grep dotfiles); do cp -i $(basename $FFF) $FFF; done
+for FFF in $(get_ddifs | cut -d' ' -f2 | grep dotfiles); do echo "$(basename $fff) $FFF"; done
+for FFF in $(get_ddifs | cut -d' ' -f2 | grep dotfiles); do echo "$(basename $FFF) $FFF"; done
+for FFF in $(get_ddifs | cut -d' ' -f2 | grep dotfiles); do echo $(basename $FFF) -> $FFF; done
+for FFF in $(get_ddifs | cut -d' ' -f2 | grep dotfiles); do echo $FFF; done
+for FFF in $(get_ddifs | grep dotfiles_d | cut -d'/' -f 8 | cut -d' ' -f1); do cp -i $FFF ~/majstaf/d_metsys_git/d_metsys_source/dotfiles_d/; done
+for FFF in $(get_ddifs | grep dotfiles_d | cut -d'/' -f 8 | cut -d' ' -f1); do echo $FFF; done
+for FFF in $(get_ddifs | grep dotfiles_d | cut -d'/' -f 8 | cut -d' ' -f1); do echo cp -i $FFF ~/majstaf/d_metsys_git/d_metsys_source/dotfiles_d/; done
+for FFF in $(get_ddifs | grep -E "Files.*dotfiles_d" | cut -d' ' -f4); do cp -i $FFF ~/majstaf/d_metsys_git/d_metsys_source/dotfiles_d/$FFF; done
+for FFF in $(get_ddifs | grep -E "Files.*dotfiles_d" | cut -d' ' -f4); do echo cp -i $FFF ~/majstaf/d_metsys_git/d_metsys_source/dotfiles_d/$FFF; done
+for FFF in $(get_ddifs | grep -E "Files.*dotfiles_d" | cut -d' ' -f4); do echo cp -i $FFF ~/majstaf/d_metsys_git/d_metsys_source/majbin_d/$FFF; done
+for FFF in $(get_ddifs | grep -E "Files.*majbin" | cut -d' ' -f4); do cp -i $FFF ~/majstaf/d_metsys_git/d_metsys_source/majbin_d/$FFF; done
+for FFF in $(get_ddifs | grep -E "Files.*majbin" | cut -d' ' -f4); do echo cp -i $FFF ~/majstaf/d_metsys_git/d_metsys_source/majbin_d/$FFF
+for FFF in $(get_ddifs | grep -E "Files.*majbin" | cut -d' ' -f4); do echo cp -i $FFF ~/majstaf/d_metsys_git/d_metsys_source/majbin_d/$FFF; done
+for FFF in $(grep -rl OLDHDD ./*); do echo $FFF; done
+for FFF in $(grep -rl OLDHDD ./*); do echo sed 's/OLDHDD\///' $FFF; done
+for FFF in $(grep -rl 'OLDHDD/' ./*); do sed '/--exclude OLDHDD\/ --exclude OLDROOT//'; done
+for FFF in $(grep -rl OLDHDD ./*); do sed -i 's/OLDHDD\///' $FFF; done
+for FFF in $(grep -rl 'OLDHDD/' ./*); do sed 's/--exclude OLDHDD\/ --exclude OLDROOT//'; done
+for FFF in $(grep -rl OLDHDD ./*); do sed 's/OLDHDD\///' $FFF; done
+for FFF in $(grep -rl 'OLDHDD/Dropbox' ./*); do echo sed 's/OLDHDD\///' $FFF; done
+for FFF in $(grep -rl 'OLDHDD/Dropbox' ./*); do sed -i 's/OLDHDD\///' $FFF; done
+for FFF in $(grep -r 'OLDHDD/Dropbox' ./*); do echo $FFF; done
+for FFF in $(grep -r 'OLDHDD/Dropbox' ./*); do echo sed 's/OLDHDD\///' $FFF; done
+for FFF in $(~/.local/bin/get_ddifs | \grep 'source/majbin_d' | grep -v cache | cut -d' ' -f4- | sed 's/ difer//'); do echo $FFF; done
+for FFF in $(~/.local/bin/get_ddifs | \grep 'source/majbin_d' | grep -v cache | cut -d' ' -f4- | sed 's/ differ//'); do cp -i ~/majstaf/majbin/$FFF ./majbin_d/; done
+for FFF in $(~/.local/bin/get_ddifs | \grep 'source/majbin_d' | grep -v cache | cut -d' ' -f4- | sed 's/ differ//'); do echo $FFF; done
+for FFF in $(~/.local/bin/get_ddifs | \grep 'source/majbin_d' | grep -v cache | cut -d' ' -f4- | sed 's/ differ//'); do echo cp -i ~/majstaf/majbin/$FFF ./majbin_d/; done
+for FFF in $(~/.local/bin/get_ddifs | \grep 'source/majbin_d' | grep -v cache | cut -d' ' -f4- | sed 's/ differ//'); do echo cp ~/majstaf/majbin/$FFF ./majbin_d/; done
+for FFF in $(ls -1 fmeo/); do echo $FFF; done
+for FFF in $(ls -1 fmeo/); do echo rm -v ./$FFF; done
+for FFF in $(ls -1 fmeo/); do rm -v ./$FFF; done
+for FFF in $(ls -1 ~/majstaf/majmedia/_yts_torrents/ | sed 's/\(.*)\) \[.*/\1/'); do echo "$FFF"; done
+for FFF in $(ls -1 ~/majstaf/majmedia/_yts_torrents/ | sed 's/\(.*)\) \[.*/\1/'); do echo $FFF; done
+for FFF in c_portable-implementation-of-relative-pointers_20230823.txt c_relative-pointers_20230823.txt; do ffn $FFF; done
+for FFF in RUN*; do echo $FFF; done
+for FFF in RUN*; do echo mv -v $FFF ${FFF//SEAGATE_1-5Tb/WD_3tB}; done
+for FFF in RUN*; do mv -v $FFF ${FFF//SEAGATE_1-5Tb/WD_3tB}; done
+for FFF in __STARO__/*; do echo $(basename $FFF); done
+for FFF in __STARO__/*; do echo $FFF; done
+for FFF in __STARO__/*; do echo ~/majstaf/d_metsys_git/d_metsys_source/d_setups/$(basename $FFF); done
+for FFF in __STARO__/*; do echo rm -v ~/majstaf/d_metsys_git/d_metsys_source/d_setups/$(basename $FFF); done
+for FFF in __STARO__/*; do rm -v ~/majstaf/d_metsys_git/d_metsys_source/d_setups/$(basename $FFF); done
+for NN in java go python ncurses rust; do echo "ln -s /home/rgregor/majstaf/coding2/testing/${NN}_testing ~/_${NN}_testing"; done
+for NN in java go python ncurses rust; do echo "ln -s /home/rgregor/majstaf/coding2/testing/${NN}_testing /home/rgregor/_${NN}_testing"; done
+for NN in java go python ncurses rust; do ln -s /home/rgregor/majstaf/coding2/testing/${NN}_testing /home/rgregor/_${NN}_testing; done
+for NNN in 097 098 099 100; do diff -q cd${NNN}*/ ~/OLDHDD/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/cn${NNN}*/
+for NNN in 097 098 099 100; do diff -q cd${NNN}*/ ~/OLDHDD/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/cn${NNN}*/; done
+for NNN in 097 098 099 100; do diff -q cd${NNN}*/ ~/OLDHDD/Dropbox/ODPRTO/MCDN_en/coding/C_Cpp_en/c_en_testing/cn${NNN}*/; done | grep --color Only
+fot FFF in $(get_ddifs | grep dotfiles_d | cut -d'/' -f 8 | cut -d' ' -f1); do echo $FFF; done
+git add .
+git branch
+git branch -M main
+git checkout gaps && git pull
+git clone --depth 1 https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
+git clone git@github.com:r-gregor/ncurses_testing.git
+git clone git@github.com:r-gregor/rust_testing.git
+git clone https://github.com/alacritty/alacritty.git
+git clone https://github.com/eendroroy/alacritty-theme.git
+git clone https://github.com/eendroroy/alacritty-theme.git ~/.alacritty-colorscheme
+git clone https://github.com/jluttine/rofi-power-menu.git
+git clone https://github.com/jonaburg/picom
+git clone https://github.com/jwilm/alacritty.git
+git clone https://github.com/r-gregor/c_testing.git
+git clone https://github.com/r-gregor/d_metsys.git
+git clone https://github.com/r-gregor/go_testing.git
+git clone https://github.com/r-gregor/java_testing.git
+git clone https://github.com/r-gregor/python_testing.git
+git clone https://github.com/tsoding/nn.h.git
+git clone https://www.github.com/Airblader/i3 i3-gaps
+git remote add ghct git@github.com:r-gregor/c_testing.git
+git remote add ghct https://github.com/r-gregor/c_testing.git
+git remote add ghgt git@github.com:r-gregor/go_testing.git
+git remote add ghjt git@github.com:r-gregor/java_testing.git
+git remote add ghnct git@github.com:r-gregor/ncurses_testing.git
+git remote add ghpt git@github.com/r-gregor/python_testing.git
+git remote add ghrst git@github.com:r-gregor/rust_testing.git
+git remote add glct git@gitlab.com:r-gregor/c_testing.git
+git remote add glct https://gitlab.com/r-gregor/c_testing.git
+git remote add glgt git@gitlab.com:r-gregor/go_testing.git
+git remote add gljt git@gitlab.com:r-gregor/java_testing.git
+git remote add glnct git@gitlab.com:r-gregor/ncurses_testing.git
+git remote add glpt git@gitlab.com/r-gregor/python_testing.git
+git remote add glrst git@gitlab.com:r-gregor/rust_testing.git
+git remote set-url ghpt git@github.com:r-gregor/python_testing.git
+git remote set-url git@gitlab.com:r-gregor/python_testing.git
+git remote set-url gitgitlab.com:r-gregor/python_testing.git
+git remote set-url glpt git@gitlab.com:r-gregor/python_testing.git
+git remote set-url origin git@github.com:r-gregor/c_testing.git
+grep -r Downloads ./* | grepc -i YTS | cut -d' ' -f10- | sort | uniq
+grep -r Downloads ./* | grepc -i YTS | cut -d' ' -f7-
+grep -r Downloads ./* | grep -i YTS | cut -b50- | sort | uniq
+grep -r Downloads ./* | grep -i YTS | cut -d' ' -b50- | sort | uniq
+grep -r Downloads ./* | grep -i YTS | cut -d' ' -f10- | sort | uniq
+grep -r Downloads ./* | grep -i YTS | cut -d' ' -f 4- | sort | uniq
+grep -rl 'OLDHDD' ./* | grep -v d_metsys_git
+gtk-update-icon-cache -h
+gtk-update-icon-cache /home/rgregor/.icons/Acid
+gtk-update-icon-cache /home/rgregor/.icons/Acid*
+gtk-update-icon-cache /home/rgregor/.icons/Acid-blue-folder
+gtk-update-icon-cache /home/rgregor/.icons/Acid-fast
+gtk-update-icon-cache /home/rgregor/.icons/Acid-fast/
+gtk-update-icon-cache /home/rgregor/.icons/Acid-green-folder/
+gtk-update-icon-cache /home/rgregor/.icons/Acid-pink-folder/
+gtk-update-icon-cache /home/rgregor/.icons/Acid-symbolic
+gtk-update-icon-cache /home/rgregor/.icons/Acid-violet-folder/
+gtk-update-icon-cache /home/rgregor/.icons/BeautyLine
+gtk-update-icon-cache /home/rgregor/.icons/BeautyLine/
+gtk-update-icon-cache /home/rgregor/.icons/candy-icons/
+history | grep appea
+history | grep "cp -r ~/Downloads"
+history | grep "cp -r Downloads"
+history | grep "cp -r ~/Downloads" >> downloadani_filmi_20231122.txt 
+history | grep "Downloads"
+history | grep Downloads
+history | grep valgrind
+history | grep while
+history > history_20230117.txt
+history | less
+history > ~/majstaf/metsys_muadib/i3-gaps setuop_20230115.txt
+history > ~/majstaf/metsys_muadib/i3-gaps_setup_20230115.txt
+history > majstaf/metsys_muadib/i3_picom_setup_20230117.txt
+history > majstaf/metsys_muadib/i3_setup/i3_volpejpersafler_setup_20230117.txt
+history >> ~/majstaf/seznami/history_20230109_1811.txt
+history > ~/majstaf/seznami/hstl_20231116_0750.txt
+history > seznami/hstl_muadib_202301407.txt
+ip addr show | less
+ipython kernel install --user --name=venv
+java -cp bin VeryLongNumbersDisplay_V2 | less
+java -cp bin VeryLongNumbersDisplay_V3 | less
+java -cp bin VeryLongNumbersDisplay_V4 | les
+java -cp bin VeryLongNumbersDisplay_V4 | less
+jupyter notebook
+LESS="-x4" less _ODPRTO_drpbx/_JAVA/jv_environment-variables_20230510.txt 
+ln -s ./kitty-themes/themes/Dracula.conf ~/.config/kitty/theme.conf
+ln -s ./kitty-themes/themes/S ~/.config/kitty/theme.conf
+ln -s ./kitty-themes/themes/Solarized_Darcula.conf theme.conf
+ln -s kitty-themes/themes/Solarized_Darcula.conf theme.conf
+ln -s ~/majstaf/coding/C_Cpp_d/c_d_testing ~/C_and_Cpp_testing
+ln -s ~/majstaf/coding/JAVA_d/JAVA_d_testing/ ~/JAVA_d_testing
+ln -s ~/majstaf/coding/PYTHON_d/PYTHON_d_testing/ ~/PYTHON_d_testing
+ln -s ~/majstaf/coding/RUST/rust_d_projects ~/_rust_d_projects
+ln -s ~/majstaf/coding/RUST/rust_d_testing ~/_rust_d_testing
+ln -s ~/majstaf/d_metsys_git/d_metsys_source ~/_d_metsys_source
+ln -s ~/majstaf/majbin/duh ~/.local/bin/
+ln -snf ~/.config/kitty/kitty-themes/themes/Dracula.conf ~/.config/kitty/theme.conf 
+ln -snf /home/rgregor/majstaf/coding/JAVA_d/JAR_s/HvarIzracun.jar ~/majstaf/0a_povezave/HvarIzracun.jar 
+ln -snf ~/_java_d_testing/jd_010_pdtk_V7_20190704/jars/newPdtk7.jar ~/majstaf/0a_povezave/newPdtk7.jar 
+ln -snf ~/_java_d_testing/jd_048_BirhdayRemider_20200114/v1.0.5_20200115-4-en/jars/BrthdReminder.jar ~/majstaf/0a_povezave/jBrthdRemider.jar 
+ln -snf ./kitty-themes/themes/Afterglow.conf theme.conf 
+ln -snf ./kitty-themes/themes/Atom.conf theme.conf
+ln -snf ./kitty-themes/themes/Ciapre.conf theme.conf 
+ln -snf ./kitty-themes/themes/DimmedMonokai.conf theme.conf 
+ln -snf ./kitty-themes/themes/Dracula.conf ~/.config/kitty/theme.conf
+ln -snf ./kitty-themes/themes/Flatland.conf theme.conf 
+ln -snf ./kitty-themes/themes/Galaxy.conf theme.conf && kitty &
+ln -snf ./kitty-themes/themes/Highway.conf theme.conf && kitty &
+ln -snf ./kitty-themes/themes/Hybrid.conf theme.conf && kitty &
+ln -snf ./kitty-themes/themes/NightLion_v1.conf theme.conf 
+ln -snf ~/majstaf/coding/JAVA_d/JAR_s/Padec3.jar ~/majstaf/0a_povezave/Padec3.jar 
+ln -snfv ~/majstaf/majbin/listulb ~/.local/bin/
+ln -s ~/OLDHDD/Dropbox/ODPRTO ~/ODPRTO_drpbx
+ln -s ~/OLDHDD/Dropbox/SKUPNI ~/_SKUPNI_drpbx
+ls -1 ~/majstaf/majmedia/_yts_torrents/ | sed 's/\(.*)\) \[.*/\1/'
+ls -1 ~/majstaf/majmedia/_yts_torrents/ | sed 's\(.*)\) \[.*'/\1/'
+ls -1 ~/majstaf/majmedia/_yts_torrents/ | sed 's\(.*)\) \[.*/\1/'
+ls -1 ~/majstaf/majmedia/_yts_torrents/ | sed 's/\(.*)\) \[.*/\1/' >> seznam.txt
+ls -1 ~/majstaf/majmedia/_yts_torrents/ | xargs -I{} sed 's\(.*)\) \[.*/\1/' {}
+ls -d *_d | xargs -I{} mv {} ../src_majbin/
+ls -d *_en | xarg
+ls -d *_en | xargs -I{} rm -rv {}
+ls -d ../* | grep -i ghost
+ls -d ../* | grep -i paradise
+ls _python_d_testing/ | cut -b 8-
+ls _python_d_testing/ | grep pd_
+ls _python_d_testing/ | grep 'pd_0' | cut -b 8-
+ls _python_d_testing/ | grep pd_ | cut -b 7-
+ls _python_d_testing/ | grep 'pd_' | cut -b 8-
+ls _python_d_testing/ | grep pd_ | cut -b 8-
+ls _python_d_testing/ | grep pd_ | cut -b 8- | clm
+meson --buildtype=release . build
+meson compile -C ../build
+meson -Ddocs=true -Dmans=true ../build
+mkdi english-subs
+ninja -C build
+nitrogen &
+nnn
+nohup export BAMF_DESKTOP_FILE_HINT=/var/lib/snapd/desktop/applications/firefox_firefox.desktop; /snap/bin/firefox & 2>/dev/null
+nohup /usr/bin/firefox &
+nohup /usr/bin/firefox 2>/dev/null &
+nohup /usr/bin/firefox >&/dev/null &
+nohup /usr/bin/firefox www.google.com 2>/dev/null &
+pavucontrol &
+picom -b
+picom --config ~/.config/picom/picom.conf -b
+pip freeze > requirements_d.txt
+pip inastall --upgrade pip
+pip install folium
+pip install jupyter
+pip install pandas geojson
+pip install qtile
+pip install --reinstall xcffib
+pip install -r requirements_d.txt 
+pip install -r requirements.txt 
+pip install --upgrade pip
+pip install xcffib
+pip instal pandas geojson
+pip uninstall qtile
+pip uninstall xcffib
+pkillall plank
+pkill conky
+rofi -combi-modi window,drun,ssh -font "Iosevka 12" -show combi -icon-theme "BeautyLine" -show-icons
+rofi -combi-modi window,drun,ssh -theme solarized -font "hack 10" -show combi -icon-theme "BeautyLine" -show-icons
+rofi -dump-config
+rofi -dump-config > config.rasi
+rofi -show dmenu
+rofi -show drun
+rofi -show power-menu -modi power-menu:rofi-power-menu
+rofi -show run
+rofi-theme-selector 
+rsync -a --delete diff ~/.vim/plugged/ ~/majstaf/d_metsys_git/d_metsys_source/dotfiles_d/.vim/plugged/
+rsync -a --delete --progress ~/.config ~/majstaf/d_metsys_git/d_metsys_source/dotfiles_d/.config
+rsync -a --delete --progress ~/.config/ ~/majstaf/d_metsys_git/d_metsys_source/dotfiles_d/.config/
+rsync -a --delete --progress ~/.vim/plugged/ ~/majstaf/d_metsys_git/d_metsys_source/dotfiles_d/.vim/plugged/
+rustc rust-test-01.rs 
+rustc --version
+_rust_d_projects
+rustup help
+rustup update
+rustup upgrade cargo
+rustup upgrade help
+sed 's/\$/ /' test_file_100MiB.txt 
+sed 's/$/ /' test_file_100MiB.txt 
+sed 's/\n/ /' < test_file_100MiB.txt 
+sed 's/\n/ /' test_file_100MiB.txt 
+sed 's/\n//' test_file_100MiB.txt 
+sed 's/\r\n//' test_file_100MiB.txt 
+/snap/bin/ firefox
+/snap/bin/firefox 2>/dev/null
+/snap/bin/firefox 2>/dev/null &
+/snap/bin/firefox %u 2>/dev/null
+/snap/bin/run firefox
+snap help
+snap help run
+snap run firefox
+snap run firefox &
+snap run firefox & 2> /dev/null
+snap run firefox & 2>/dev/null
+snap run firefox 2> /dev/null
+snap run firefox 2> /dev/null &
+snap run firefox 2>/dev/null &
+ssh-add ~/.ssh/github-jbez0rg
+ssh-add ~/.ssh/gitlab-jbez0rg
+ssh-agent -s
+sshd
+ssh -T git@github.com
+sudo add-apt-repository ppa:aslatter/ppa
+sudo add-apt-repository ppa:mmstick76/alacritty
+sudo add-apt-repository ppa:mozillateam/ppa
+sudo apt autoremove 
+sudo apt autoremove --purge snapd
+sudo apt-cache search alacritty
+sudo apt-cache search build essential | grep --color ^build
+sudo apt-cache search build essential | grep --color build
+sudo apt-cache search double-commander
+sudo apt-cache search dropbox
+sudo apt-cache search google | grep ^google
+sudo apt-cache search java | grep --color ^java
+sudo apt-cache search mononoki
+sudo apt-cache search openjdk-11 | grep --color openjdk-11
+sudo apt-cache search openjdk-11 | grepc openjdk-11
+sudo apt-cache search visudo
+sudo apt dist-upgrade
+sudo apt-get install -y fonts-font-awesome
+sudo apt-get remove -y youtube-dl
+sudo apt get update
+sudo apt instal alacritty
+sudo apt install "$PWD/megasync-xUbuntu_22.04_amd64.deb"
+sudo apt install allacritty
+sudo apt install arandr
+sudo apt install arp-scan
+sudo apt install build-essential libpython3-dev libdbus-1-dev
+sudo apt install cargo
+sudo apt install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
+sudo apt install cmake pkg-config mesa-utils libglu1-mesa-dev freeglut3-dev mesa-common-dev libglew-dev libglfw3-dev libglm-dev libao-dev libmpg123-dev
+sudo apt install curl
+sudo apt install dmenu
+sudo apt install dos2unix
+sudo apt install doublecmd-gtk doublecmd-plugins
+sudo apt install dunst
+sudo apt install enscript
+sudo apt install firefox
+sudo apt install fmt
+sudo apt install font-manager
+sudo apt install fonts-mononoki
+sudo apt install fzf
+sudo apt install git
+sudo apt install hexedit
+sudo apt install htop
+sudo apt install i3
+sudo apt install i3status dmenu i3lock xbacklight feh conky
+sudo apt install i3status feh conky
+sudo apt install i3status i3lock xbacklight feh conky
+sudo apt install kitty
+sudo apt install kodi
+sudo apt install libconfig-dev
+sudo apt install libstartup-notification0
+sudo apt install libstartup-notification0-dev
+sudo apt install libx11-xcb-dev
+sudo apt install libxcb-composite0-dev
+sudo apt install libxcb-damage0-dev
+sudo apt install libxcb-present-dev
+sudo apt install libxcb-sync-dev
+sudo apt install lxappearance
+sudo apt install lxtask
+sudo apt install lynx
+sudo apt install mc
+sudo apt install meson asciidoc
+sudo apt install neofetch
+sudo apt install nitrogen
+sudo apt install nnn
+sudo apt install openjdk-11-jdk
+sudo apt install paint
+sudo apt install pinta
+sudo apt install pkg-config
+sudo apt install plank
+sudo apt install python3-pip
+sudo apt install ranger
+sudo apt install rofi
+sudo apt install startup-notification
+sudo apt install startup-notification-devel
+sudo apt install suckless-tools
+sudo apt install terminator
+sudo apt install uthash-dev
+sudo apt install valgrind
+sudo apt install vim
+sudo apt install vim-gtk3
+sudo apt install vlc
+sudo apt install w3m-img
+sudo apt install wget apt-transport-https gnupg2 software-properties-common
+sudo apt install xclip
+sudo apt install xcopy xsel
+sudo apt install xsane
+sudo apt install xsane -y
+sudo apt install xsel
+sudo apt install -y libxcb1-dev libxcb-keysyms1-dev libpango1.0-dev libxcb-util0-dev libxcb-icccm4-dev libyajl-dev libstartup-notification0-dev libxcb-randr0-dev libev-dev libxcb-cursor-dev libxcb-xinerama0-dev libxcb-xkb-dev libxkbcommon-dev libxkbcommon-x11-dev autoconf libxcb-xrm0 libxcb-xrm-dev automake libxcb-shape0-dev libxcb-xrm-dev
+sudo apt install youtube-dl
+sudo apt purge i3
+sudo apt purge parole
+sudo apt remove --purge vim
+sudo apt-search google
+sudo apt search kodi
+sudo apt search paint
+sudo apt search paint | grep ^paint
+sudo apt search paint | grep paint
+sudo apt search xclip
+sudo apt shoe i3
+sudo apt show dunst
+sudo apt show i3
+sudo apt show libconfig-dev
+sudo apt show libx11-xcb-dev
+sudo apt show libxcb-composite0-dev
+sudo apt show libxcb-damage0-dev
+sudo apt show libxcb-present-dev
+sudo apt show libxcb-sync-dev
+sudo apt show lxapearance
+sudo apt-show lxapearance
+sudo apt show lxapereance
+sudo apt show lxappearance
+sudo apt show lxappereance
+sudo apt show lxtask
+sudo apt show lxtask-manager
+sudo apt show lxterminal
+sudo apt show picom
+sudo apt show ranger
+sudo apt show startup-notification
+sudo apt show suckless-tools
+sudo apt show uthash-dev
+sudo apt show x11-xcb
+sudo apt update
+sudo apt upgrade
+sudo arp-scan 192.168.64.172/24
+sudo arp-scan -l
+sudo dmesg | grepc -i disabled
+sudo dmesg | grep --color -i disabled
+sudo dmesg | grep -i disabled
+sudo dmesg | grep -i "error\|panic"
+sudo dmidecode | less
+sudo dpkg -l
+sudo dpkg -l parole
+sudo dpkg-reconfigure console-setup
+sudo find -maxdepth 0 -newermt "20230509" | less
+sudo find -maxdepth 1 -type d -newermt "20230509" | less
+sudo find -maxdepth 1 -type d -newermt "20230509" | xargs -I{} sudo rm -rv {}
+sudo find -type f -name "modar*"
+sudo grep -ir "yd-tlp" /*
+sudo ln -s dm d
+sudo ln -s ff f
+sudo ln -s ~/majstaf/majbin/listulb /usr/local/bin/
+sudo ln -s ~/majstaf/majbin/odpni-spsl /usr/local/bin/
+sudo ln -s ~/majstaf/majbin/pripni-spsl /usr/local/bin/
+sudo ln -s ~/majstaf/majprogs/st-0.8.4_Dracula/st /usr/local/bin/std
+sudo ln -s ~/majstaf/majprogs/st-0.8.4_Nord/st /usr/local/bin/stn
+sudo ln -s /snap/bin/firefox /usr/local/bin/
+sudo ln -s /usr/bin/python3 /usr/bin/python
+sudo meson install -C ../build
+sudo ninja -C build install
+sudo sed -i s/isSet/is_set/ /usr/bin/dropbox
+sudo setupcon
+sudo shutdown -r now
+sudo snap list
+sudo snap remove firefox
+sudo snap remove snap-store
+sudo systemctl disable snapd.seeded.service
+sudo systemctl disable snapd.service
+sudo systemctl disable snapd.socket
+sudo systemctl restart console-setup
+sudo tic -xe alacritty,alacritty-direct extra/alacritty.info
+sudo updatedb
+sudo update-desktop-database
+sudo usermod -aG sudo muadib
+sudo usermod -aG sudo rgregor
+sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+systemctl --help 
+systemctl --help | grep power
+systemctl poweroff -i
+tar -xvf shadow-10.0.tar.xz shadow
+tar -xvJf shadow-10.0.tar.xz 
+tar -xvzf processing-4.2-linux-x64.tgz 
+tr '\n' ' ' < test_file_100MiB.txt 
+tr '\n' ' ' < test_file_100MiB.txt > test_file_2_100MiB.txt 
+./try-kitty-theme.sh Alucard
+./try-kitty-theme.sh Dracula
+./try-theme.sh 3024_Night
+./try-theme.sh Alucard
+./try-theme.sh Arthur
+./try-theme.sh Atom
+./try-theme.sh ayu_mirage
+./try-theme.sh Blazer
+./try-theme.sh Brogrammer
+./try-theme.sh Cobalt_Neon
+./try-theme.sh DimmedMonokai
+./try-theme.sh Duotone_Dark
+./try-theme.sh FishTank
+./try-theme.sh FrontEndDelight
+./try-theme.sh N0tch2k
+./try-theme.sh OneDark
+./try-theme.sh SeaShells
+./try-theme.sh Source_Code_X
+./try-theme.sh Sundried
+./try-theme.sh Tomorrow_Night
+./twice | less
+usermod -aG sudo rgregor
+valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s bin/delete 
+valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s bin/struct_in_func 
+valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s bin/struct_in_func_2 
+valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s bin/struct_in_func_test_v4-d 
+valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s c_rehash 
+valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes -s ./c_test 
+vimvim alacritty.yml
+wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+wget https://mega.nz/linux/repo/xUbuntu_22.04/amd64/megasync-xUbuntu_22.04_amd64.deb && sudo apt install "$PWD/megasync-xUbuntu_22.04_amd64.deb"
+wget https://raw.githubusercontent.com/dracula/midnight-commander/master/skins/dracula256.ini
+wget "https://raw.githubusercontent.com/junegunn/fzf/master/shell/completion.bash"
+while read CMD; do $CMD; done < move_lisulbs_to_dot_local_bin.txt 
+while read CMD; do echo $CMD; done < move_lisulbs_to_dot_local_bin.txt 
+while read _FILES; do echo rm -v ${_FILES}; done < ../__DELITIONS_20230519.txt 
+while read _FILES; do echo rm -v ${_FILES}; done < __DELITIONS_20230519.txt 
+while read _FILES; do rm -rv "${_FILES}"; done < ../__DELITIONS_20230519.txt
+while read _FILES; do rm -rv ${_FILES}; done < ../__DELITIONS_20230519.txt 
+while read _FILES; do rm -rv "${_FILES}"; done < ../__DELITIONS_20230519.txt ll
+while read _FILES; do rm -rv ${_FILES}; done < ../__DELITIONS_20230519.txt ll
+while read _FILES; do rm -v ${_FILES}; done < ../__DELITIONS_20230519.txt 
+while read FLM; do echo "$FLM"; done < seznam.txt 
+while read FLM; do echo if [ -d "$FLM" ]; then echo "movie $FLM in the library"; fi; done < seznam.txt 
+while read FLM; do echo if [ -d "$FLM" ]; then; echo "movie $FLM in the library"; fi; done < seznam.txt 
+while read FLM; do echo if [ -d "$FLM" ];then echo "movie $FLM in the library"; fi; done < seznam.txt 
+while read FLM; do if [ -d "../$FLM" ]; then echo "movie $FLM ALREAY IN the library"; fi; done < seznam.txt 
+while read FLM; do if [ -d "../$FLM" ] then; echo movie $FLM in the library; fi; done < seznam.txt 
+while read FLM; do if [ -d "../$FLM" ]; then echo "movie $FLM in the library"; fi; done < seznam.txt 
+while read FLM; do if [ -d "$FLM" ] then; echo "movie $FLM in the library"; fi; done < seznam.txt 
+while read FLM; do if [ -d "$FLM" ] then; echo movie $FLM in the library; fi; done < seznam.txt 
+while read FLM; do if [ -d "$FLM" ]; then echo "movie $FLM in the library"; fi; done < seznam.txt 
+while read FLM; do if [[ -d "../$FLM" ]] then; echo movie $FLM in the library; fi; done < seznam.txt 
+while read FLM; do if [[ -d "$FLM" ]] then; echo movie $FLM in the library; fi; done < seznam.txt 
+while read FLM; do; if [ -d "$FLM" ]; then echo "movie $FLM in the library"; fi; done < seznam.txt 
+while read FLM; do if [ ! -d "../$FLM" ]; then echo "movie $FLM NOT in the library"; fi; done < seznam.txt 
+while read FLM; do if [ ! -d "$FLM" ]; then echo "movie $FLM NOT in the library" fi; done < seznam.txt 
+while read FLM; do if [ ! -d "$FLM" ]; then echo "movie $FLM NOT in the library"; fi; done < seznam.txt 
+while read FLM; do if [ ! -d "$FLM" ]; then echo "movie $FLM" NOT in the library; fi; done < seznam.txt 
+while read FLM; do if [ -d "../$FLM" ]; then echo "movie $FLM NOT in the library"; fi; done < seznam.txt 
+while read FLM; do if [ -d "$FLM" ]; then echo "movie $FLM NOT in the library"; fi; done < seznam.txt 
+wp_changer 
+xfce4-pulseaudio-plugin
+xfce4-taskmanager 
+xfce4-volumed
+ydlF "https://www.youtube.com/watch?v=n-VP_SjMYoU"

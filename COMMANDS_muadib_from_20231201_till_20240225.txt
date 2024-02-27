@@ -1,0 +1,996 @@
+ FAJLS/
+ konsole
+"*iosev*"
+./substring_test.py
+./substring_test.py 
+./substring_test.py | less
+./valgrind-test.sh 
+.fonts/
+.tar.xz shadow
+/B1_2_EXT4/backup_jbez0rg/home/rgregor/Downloads/ttf-iosevka-11.* .
+/themes/S ~/.config/kitty/theme.conf
+0.tar.xz 
+0_NERD.zip 
+: ./*
+C ..
+CD ..
+NK
+VA_d/JAVA_d_testing/
+adow
+bin/go
+bin/go --version
+bin/go version
+blecmd-gtk doublecmd-plugins
+c Good\ Luck\ To\ You\ Leo\ Grande\ \(2022\)/
+cat *conf*
+cat Obi-Wan.Kenobi.A.Jedis.Return.2022.720p1080p.WEBRip.x264.AAC-\[YTS.MX\]-English.srt 
+cat README.md 
+cat dotfiles_
+cat dotfiles_list_20211102.txt 
+cat ~/.SCRTS
+chmod 644 ./*
+chmod 755 gpd 
+chmod 755 substring_test.py 
+cp -i bas
+cp -i bashrc_muadib ~/majstaf/d_metsys_git/src_d_metsys/majrcs_d/
+cp -i ~/majstaf/majrcs/aliases_muadib ~/majstaf/d_metsys_git/d_metsys_source/majrcs_d/
+cp -i ~/majstaf/majrcs/aliases_muadib ~/majstaf/d_metsys_git/src_d_metsys/majrcs_d/
+cp -r Fast\ Charlie\ \(2023\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Movies/20231211/
+cp -r mc_cheat-sheet-s ~/majstaf/metsys_muadib/
+cp ROJSTNIDNEVI.txt bin/
+cp gpd{,.sh}
+cp l2_coding/03_from_en/01_COLLECT_ALL_COMMANDS_from_history_en_dat_to_single_file.onl.txt ~/majstaf/seznami/
+critty
+diff . ~/Dropbox/ODPRTO/MCDN/majbin_d
+duh . 5
+egor/.icons/* .
+egor/.icons/* ~/.icons/
+eja/
+fig/kitty/
+find -iname "*hist*"
+find -iname "*hist*" | grepc -i history
+find -iname "*hst*"
+find -iname "01*
+find -iname "01*"
+find -iname "01_*"
+find -iname "01_*" | grepc '01_'
+find -type d -name "mc*"
+find -type d name "mc*"
+find -type f -name "*.c" | xargs -I{} wc -l {} | sort -nr | less
+for $REMOTE in ghpt glpt; do git push $REMOTE; done
+for NN in java go python ncurses rust; do echo "ln -s /home/rgregor/majstaf/coding2/testing/${NN}_testing /home/rgregor/_${NN}_testing"; done
+for NN in java go python ncurses rust; do echo "ln -s /home/rgregor/majstaf/coding2/testing/${NN}_testing ~/_${NN}_testing"; done
+for NN in java go python ncurses rust; do ln -s /home/rgregor/majstaf/coding2/testing/${NN}_testing /home/rgregor/_${NN}_testing; done
+for REMOTE in ghpt glpt; do git push $REMOTE; done
+grep -E " *\/\/" struct_region_offset_v8.c | less
+grep -E " \/\/" struct_region_offset_v8.c | less
+grep -E "\^ *\/\/" struct_region_offset_v8.c | less
+grep -E "^ *\/\/" struct_region_offset_v8.c | less
+grep -E "^ \/\/" struct_region_offset_v8.c | less
+grep -E "^\s *\/\/" struct_region_offset_v8.c | less
+grep -v " \//" struct_region_offset_v8.c 
+grep -v " \//" struct_region_offset_v8.c | less
+grep -v "^\s*\/\/\|^\s*\/\* " struct_region_offset_v8.c | less
+grep -vE " *\//" struct_region_offset_v8.c | less
+grep -vE " *\//\| *\/*" struct_region_offset_v8.c | less
+grep -vE " *\//\| *\/\*" struct_region_offset_v8.c | less
+grep -vE " *\/\/\|\/\*" struct_region_offset_v8.c | less
+grep -vE "^ *//\|\/\*" struct_region_offset_v8.c | less
+grep -vE "^ *\/\/" struct_region_offset_v8.c | less
+grep -vE "^ *\/\/\|\/\*" struct_region_offset_v8.c | less
+grep -vE "^\s *\/\/" struct_region_offset_v8.c | less
+grep -vE "^\s*\/\/ \|^\s*\/\* " struct_region_offset_v8.c | less
+grep -vE "^\s*\/\/ \|^\s*\/\*" struct_region_offset_v8.c | less
+grep -vE "^\s*\/\/\|\/\* " struct_region_offset_v8.c | less
+grep -vE "^\s*\/\/\|^\/\* " struct_region_offset_v8.c | less
+grep -vE "^\s*\/\/\|^\s*\/*" struct_region_offset_v8.c | less
+grep -vE "^\s*\/\/\|^\s*\/\* " struct_region_offset_v8.c | less
+grep -vE "^\s*\/\/\|^\s*\/\*" struct_region_offset_v8.c | less
+grepc -irE "pa*ssw*d"
+grepc -r '01_' *
+grepc -r 'COLLECT' *
+grepc -r 'send_config_d.py' ./*
+grepc -rE "p*ssw*d" *
+grepc -rE "pa*ssw*d"
+grepc -rE "pa*ssw*d" *
+h build essential
+h build essential | grep --color ^build
+h build essential | grep --color build
+h chrome
+h google
+h google | grep ^google
+h java
+h java | grep --color ^java
+h mononoki
+h openjdk
+h openjdk-11
+h openjdk-11 | grep --color openjdk-11
+h openjdk-11 | grepc openjdk-11
+i
+j java
+kitty-themes/themes
+ld-essential
+le
+le-chars_20221218/
+le.com/linux/direct/google-chrome-stable_current_amd64.deb
+less MC_cheat-sheet_01.txt 
+listulb
+listulb send-1url-d 
+listulb | grepc send
+ln -s /home/rgregor/majstaf/coding2/testing/c_testing /home/rgregor/_c_testing
+ln -s send-1url-d s1
+ln -s send-2args-d s2
+ln -s send-3args-d s3
+ln -s ~/majstaf/majmedia/Movies ~/Movies
+mb dotfiles_list_20211102.txt list_dotfiles_20211102.txt
+minator
+mkdir 20231211
+mkdir aoc_d_20231205
+mkdir from_en_20240207
+mv *__.zip from_en_20240207/
+mv BrthReminder_c bin/
+mv dotfiles_list_20211102.txt list_dotfiles_20211102.txt
+mv gpd ~/majstaf/majbin/
+mv ~/majstaf/majmedia/_podnapisi/muzzle-2020-english-yify-554387.zip .
+mv ~/majstaf/majmedia/_podnapisi/sur-les-chemins-noirs-2023-english-yify-578073.zip .
+ndr
+ng/C_Cpp_d/c_d_testing ~/C_and_Cpp_testing
+ng/JAVA_d/JAVA_d_testing/ ~/JAVA_d_testing
+ng/PYTHON_d/PYTHON_d_testing/ ~/PYTHON_d_testing
+njdk-11-jdk
+nk
+nu
+py 
+r-02_20221222/
+rename-to-basename-with-new-ext Obi-Wan.Kenobi.A.Jedis.Return.2022.720p1080p.WEBRip.x264.AAC-\[YTS.MX\]-English.srt Obi-Wan.Kenobi.2022.mp4 
+rename-to-basename-with-new-ext Obi-Wan.Kenobi.A.Jedis.Return.2022.720p1080p.WEBRip.x264.AAC-\[YTS.MX\]-English.srt Obi-Wan.Kenobi.m
+s1 "https://3w.test1.com/just-another-test.html"
+s2 "test 201231211" "test 20231211"
+sed -n '/ *\/\/ /p' struct_region_offset_v8.c 
+sed -n '/^ *\/\/ /p' struct_region_offset_v8.c 
+sed -n '/^\s *\/\/ /p' struct_region_offset_v8.c 
+sed -n -e '/^\s *\/\/ /p' struct_region_offset_v8.c 
+sed -n -e '/^\s*\/\/ /p' -e '/^\s*\/' struct_region_offset_v8.c 
+sed -n -e '/^\s*\/\/ /p' -e '/^\s*\//p' -e '/^\s*\*\//p' -e '/^\s*\* /p 'struct_region_offset_v8.c 
+sed -n -e '/^\s*\/\/ /p' -e '/^\s*\//p' -e '/^\s*\*\//p' -e '/^\s*\* /p 'struct_region_offset_v8.c | less
+sed -n -e '/^\s*\/\/ /p' -e '/^\s*\//p' -e '/^\s*\*\//p' -e '/^\s*\* /p' struct_region_offset_v8.c | less
+sed -n -e '/^\s*\/\/ /p' -e '/^\s*\//p' -e '/^\s*\*\//p' struct_region_offset_v8.c 
+sed -n -e '/^\s*\/\/ /p' -e '/^\s*\//p' struct_region_offset_v8.c 
+setup-history-search_20220907.txt 
+softlink1-fname-to-ulb gpd 
+softlink1-fname-to-ulb listulb 
+softlink1-fname-to-ulb send-1url-d 
+softlink1-fname-to-ulb send-2args-d 
+softlink1-fname-to-ulb send-3args-d 
+t apt-transport-https gnupg2 software-properties-common
+testamp_20220129/
+tl_muadib_202301407.txt
+ts-mononoki
+tty
+ty
+ty-themes/
+ty/kitty-themes/themes
+unzip sendingfromen20240206160216___.zip 
+unzip sendingfromen20240207103705___.zip 
+unzip sur-les-chemins-noirs-2023-english-yify-578073.zip 
+vlc Creatura.2023.mp4 &
+vlc Fast.Charlie.2023.mp4 &
+vlc Muzzle.2023.mp4 &
+vlc Obi-Wan.Kenobi.2022.mp4 &
+vlc Opponent.2023.mp4 &
+vlc Sur.Les.Chemins.Noirs.2023.mp4 &
+wc -l struct_region_offset_v8.c 
+wget "https://raw.githubusercontent.com/r-gregor/en_metsys/master/majbin_en/gpd"
+| grep --color ^go
+./BrthReminder_c 
+./BrthReminder_c rede
+./substring_test_v1.py 
+./substring_test_v3
+./substring_test_v3.py
+./substring_test_v3.py | less
+./valgrind-test.sh BrthReminder_c 
+/majprogs/st-0.8.4_Nord/st /usr/local/bin/stn
+221208/
+FFF='c how to break out of nested loop.html' 
+GIT STATUS
+[ -_]' | grep --color ^go
+_2_EXT4/backup_jbez0rg/home/rgregor/
+bin/custom_string_type_test_v5 
+cat HSTLD_20231201_01.txt | sort | uniq -c
+cat HSTLD_20231201_01.txt | sort | uniq -c > HSTLD_20231201_02.txt 
+cat Man.on.a.Ledge.2012.srt 
+cat example2.txt 
+cat metsys_en 
+cat ptn_breaking-out-of-nested-loops_20231205.txt 
+cat ~/majstaf/seznami/*.txt
+chmod 644 01_COLLECT_ALL_COMMANDS_from_history_en_dat_to_single_file.onl.txt 
+chmod 755
+chmod 755 check-remote-sync.sh 
+cp *.srt *.zip slosubs/
+cp -i .bashrc ~/majstaf/d_metsys_git/src_d_metsys/dotfiles_d/
+cp -i get_ddifs ~/majstaf/src_majbin/00_ukazi_d/get_ddifs.sh 
+cp -i majstaf/majbin/get_ddifs /home/rgregor/majstaf/d_metsys_git/src_d_metsys/majbin_d/
+cp -i substring_test_v1.py substring_test_v2.py 
+cp -i ~/majstaf/majrcs/bashrc_muadib /home/rgregor/majstaf/d_metsys_git/src_d_metsys/majrcs_d/bashrc_muadib
+cp -ir /home/rgregor/majstaf/metsys_muadib/EPSON_L365_20201207 $HOME/majstaf/d_metsys_git/src_d_metsys/metsys_d/
+cp -ir /home/rgregor/majstaf/metsys_muadib/mc_cheat-sheet-s $HOME/majstaf/d_metsys_git/src_d_metsys/metsys_d/
+cp -ir /home/rgregor/majstaf/metsys_muadib/ranger_cheat-sheet-s $HOME/majstaf/d_metsys_git/src_d_metsys/metsys_d/
+cp -r ../__metsys_STARO__/ .
+cp -r Montevideo\ Taste\ Of\ A\ Dream\ \(2010\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Movies/20231230/
+cp -r ~/Downloads/The\ Beekeeper\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/The\ Holdovers\ \(2023\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/The\ Moon\ \(2023\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ .
+cp -rn ./* ~/majstaf/d_metsys_git/src_d_metsys/metsys_d/metsys_muadib/
+cp -rn ~/majstaf/majmedia/Seivom/20240124/* /media/rgregor/EKSFAT/majmedia/Movies/
+cp -rn ~/majstaf/metsys_muadib/* ~/majstaf/d_metsys_git/src_d_metsys/metsys_d/metsys_muadib/
+cp 239912-montevideo.bog.te.video.2010.slosubs.dvdrip.xvid.zip  ../
+cp Montevideo.Bog.te.video.2010{,_SLO2}.srt 
+cp check-remote-sync.sh ~/majstaf/majbin/
+cp check-remote-sync.sh ~/majstaf/src_majbin/00_ukazi_d/
+cp majstaf/majbin/check-remote-sync ~/majstaf/d_metsys_git/d_metsys_source/majbin_d/
+cp ptn_breaking-out-of-nested-loops_20231205{,_02}.txt 
+cp src/BrthReminder_c .
+cp substring_test_v{1,2}.py 
+cp substring_test_v{2,3}.py 
+cp substring_test_v{3,4}.py 
+d_metsys_git/
+dbs
+diff -q git/ metsys_muadib/git/
+diff 01_COLLECT*
+diff ~/majstaf/majrcs/bashrc_muadib /home/rgregor/majstaf/d_metsys_git/src_d_metsys/majrcs_d/bashrc_muadib
+dkdb commit -
+dkdb commit -m "update 20231206_074100"
+dkdb commit -m "updated 20231223"
+du -sh --total 202*
+du -sh .debris/
+du -sh 20*
+duf __STARO__/
+duff ~/majstaf/majrcs/bashrc_muadib /home/rgregor/majstaf/d_metsys_git/src_d_metsys/majrcs_d/bashrc_muadib
+duh .debris . 10
+duh 20*
+duh 202*
+duh 202* 10
+duh ODPRTO 10
+duh ODPRTO/
+echo $CDPATH 
+echo ${FFF// /_}
+echo mv -v "$FFF" "${FFF// /_}"
+echo mv -v "\"$FFF\"" "${FFF// /_}"
+echo mv -v $FFF ${FFF// /_}
+erating_polynomial 
+export CDPATH='.:/home/rgregor'
+export CDPATH='.:/home/rgregor:/home/rgregor/coding2'
+file $(which firefox)
+file /usr/lib/firefox
+file /usr/lib/firefox/firefox
+filr $(which firefox)
+find * -maxdepth 0 -type f
+find * -maxdepth 0 -type f | xargs -I{} mv -v {} metsys_muadib/
+find -iname "*naslov*
+find -iname "*naslov*"
+find -iname "*naslov*txt" | grep -v Valv
+find -iname "*naslov*txt" | grep -v valv
+find -name "*fzf*"
+find -type d -name .debris
+find -type f -iname "*naslov*"
+find -type f -iname "*naslov*txt"
+find -type f -iname "*vosc*"
+find -type f -name "*.c" | xargs -I{} wc -l {} | sort -nr | head -n1
+find -type f -name "*.c" | xargs -I{} wc -l {} | sort -nr | head -n1 | cut -d' ' -f2
+find -type f -name "*.c" | xargs -I{} wc -l {} | sort -nr | head -n20
+find -type f | wc -l | sort -nr
+find -type f | xargs wc -l | sort -nr
+find -type f | xargs wc -l | sort -nr | less
+find /home/rgregor/majstaf/d_metsys_git/src_d_metsys/dotfiles_d type -d -name .git
+for FFF in *; do softlink1-fname-to-ulb $FFF; done
+for FFF in gpd*; do echo $FFF; done
+for FFF in gpd*; do softlink1-fname-to-ulb $FFF; done
+for FFF in rsort-by-*; do softlink1-fname-to-ulb $FFF; done
+get_ddifs
+git diff main ghjt/main 
+git diff main ghrst/main 
+git diff main gljt/main 
+git log -1 --decorate ghct/main 
+git push ghjt 
+git push ghrst 
+git push gljt 
+git push glrst 
+git remot show ghct
+git remote show ghct 
+git rev-list main...ghct/main
+got status
+grep -ir 'completions' *
+grep -ir 'completitions' *
+grep -r 'completitions' *
+grep d_metsys ./*
+grep d_metsys_ ./*
+grep d_metsys_s ./*
+grepc -r 'majstaf/majbin' *
+https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
+less .gitconfig
+less config 
+less ptn_breaking-out-of-nested-loops_20231205.txt 
+lh
+lxtask &
+lč
+majstaf/d_metsys_git/src_d_metsys/metsys_d/metsys_muadib/
+mkdir 20231230
+mkdir 20240114
+mkdir 20240124
+mkdir 20240131
+mkdir Seivom
+mkdir catpuccin_theme
+mkdir jt_999_just-a-test_20231205
+mkdir ranger_cheat-sheet-s
+mkdir rst_999_TEST_20231205
+mkdir slosubs
+mousepad Montevideo.Bog.te.video.2010.SLOSubs.DVDRip.XviD.srt 
+mousepad Montevideo.Bog.te.video.2010_SLO2.srt 
+mv *SLO* slosubs/
+mv -v "$FFF" "${FFF// /_}"
+mv -v "\"$FFF\"" "${FFF// /_}"
+mv -v apps_setups/ EPSON_* metsys_muadib/
+mv ../../../_podnapisi/*vide* .
+mv ../majbin/check-remote-sync{.sh,} 
+mv .fmeo/ Seivom/
+mv .fmeo/ fmeo
+mv /home/rgregor/majstaf/majbin/w3mdump/w3md{ump_webpage_to_file,}
+mv 20231130/ ../Seivom/
+mv Good.Luck.To.You.Leo.Grande.2022.srt ENG-1.srt
+mv Good.Luck.to.You.Leo.Grande.2022.1080p.AMZN.WEB-DL.DDP5.1.H264-CMRG-HI.srt ENG-2.srt 
+mv Montevideo.Bog.te.video.2010{,_SLO1}.srt 
+mv Montevideo.Taste.Of.A.Dream.2010.mp4 Montevideo.Bog.te.video.2010.mp4
+mv The.Beekeeper.2024.720p1080p.WEBRip.x264.AAC-\[YTS.MX\]-English.srt English.srt
+mv __STARO__/ ../__metsys_STARO__
+mv apps_setups/ metsys_muadib/
+mv d_metsys_source/ src_d_metsys
+mv git/ metsys_muadib/
+mv gpd{,testpush}
+mv gppush gpdpush 
+mv i3_setup/ metsys_muadib/
+mv mc_cheat-sheet-s/ metsys_muadib/
+mv ranger_cheat-sheet-s/ metsys_muadib/
+mv substring_test{,_v1}.py 
+mv ~/majstaf/majmedia/_podnapisi/obi-wan-kenobi-a-jedis-return-2022-english-yify-447469.zip .
+mv ~/majstaf/majmedia/_podnapisi/obi-wan-kenobi-a-jedis-return-2022-english-yify-575505.zip .
+mv ~/majstaf/majmedia/_podnapisi/the-beekeeper-2024-english-yify-596836.zip .
+nifs
+odpni-spsl 
+pripni-spsl 
+r majstaf/metsys_muadib/
+rename-to-basename-with-new-ext English.srt The.Beekeeper.2024.mp4 
+rename-to-basename-with-new-ext Good.Luck.to.You.Leo.Grande.2022.1080p.AMZN.WEB-DL.DDP5.1.H264-CMRG-HI.srt Good.Luck.To.You.Leo.Grande.2022.mp4 
+rename-to-basename-with-new-ext Montevideo.Bog.te.video.2010.SLOSubs.DVDRip.XviD.srt Montevideo.Bog.te.video.2010.mp4 
+rename-to-basename-with-new-ext SLO-UTF8.srt Montevideo.Bog.te.video.2010.mp4 
+s2 "git check if local and re,ote branch are synced" "https://gist.github.com/leroix/8829846"
+sbe
+softlink1-fname-to-ulb ~/majstaf/majbin/w3mdump/w3mdump_webpage_to_file 
+sudo umount /dev/sdb1
+sudo umount /dev/sdb2
+tar -tvzf bckp_brc_d_20231214_223213.tar.gz | less
+tar -tvzf bckp_fau_d_20231214_223213.tar.gz | less
+touch jv_just-a-test_20231205.java
+touch rst_just-a-test_20231205.rs
+toush rst_just-a-test_20231205.rs
+tree -d 20*
+tree 202*
+tree documentation/
+tty.conf 
+type dpg
+type ffn
+unzip 239912-montevideo.bog.te.video.2010.slosubs.dvdrip.xvid.zip 
+unzip en-good-luck-to-you-leo-grande-2022-SubRip-utf-8.zip 
+unzipš *.zip
+vlc Boss.Level.2020.mp4 &
+vlc Deja.Vu.2006.mp4 &
+vlc Ferrari.2023.mp4 &
+vlc Good.Luck.To.You.Leo.Grande.2022.mp4 &
+vlc Goon.2011.mp4 &
+vlc Man.on.a.Ledge.2012.mp4 
+vlc Man.on.a.Ledge.2012.mp4 &
+vlc Revolver.2005.mp4 &
+vlc The.Beekeeper.2024.mp4 &
+vlc The.Moon.2023.mp4 &
+w-10.0.tar.xz .
+wget https://gist.githubusercontent.com/leroix/8829846/raw/3e7d2a4e85ca16436d57b53c15ab0cef4315fedd/check-remote-sync.sh
+wget https://github.com/r-gregor/en_metsys/tree/2c166f3c3b1d1b2f7b104d09547794f2cf0b3bfe/metsys_en
+which firefox
+~/majstaf/majbin/check-remote-sync ghct
+~/majstaf/majbin/check-remote-sync main
+~/majstaf/majbin/iconv1-SLO-srt-WIN-to-UTF8 Montevideo.Bog.te.video.2010_SLO2.srt 
+~/majstaf/majbin/send_mail_scrts/send-2args-d "git check if local and re,ote branch are synced" "https://gist.github.com/leroix/8829846"
+~/majstaf/majbin/subtitles/subs-correct Montevideo.Bog.te.video.2010.srt -5
+3
+:
+:wq
+LS -T
+bin/app_path 
+bin/sas1_serialize_array_of_structs_v12 
+bin/sas1¸
+bin/sas1¸¸
+bin/sas2_retreive_structs_from_file_v7 
+bin/sas2_retreive_structs_from_file_v7 | less
+cat git_config_202*
+cat git_config_202* | xargs cat
+cp *.mp3 ~/Dropbox/SKUPNI/
+cp -i aliases_muadib bashrc_muadib ~/majstaf/d_metsys_git/src_d_metsys/majrcs_d/
+cp -r The\ Promised\ Land\ \(2023\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ Rebel\ Moon\ Part\ One\ -\ A\ Child\ Of\ Fire\ \(2023\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Movies/20231228/
+cp -rn ~/majstaf/majmedia/Seivom/* /media/rgregor/1545-AB81/majmedia/Movies/
+cp ../*mp3 .
+e
+find *.pyc
+find -name "*.pyc"
+find -type f -iname "*.ttf"
+git push ghpt 
+git push glpt 
+gps
+grep -i fzf ~/majstaf/majrcs/aliases_muadib
+grep -l 'gitconfig' *
+grep xargs ~/majstaf/majrcs/aliases_muadib
+grepc -l 'gitconfig' *
+grepc -l 'gitconfig' * | less
+grepc -nH 'gitconfig' *
+grepc -nH 'gitconfig' * | less
+history | grep ffmpeg
+history | grep ffmpeg >> ~/majstaf/metsys_muadib/ffmpeg_cut-part-of-mp3_20240224.txt
+kk
+lA
+make -f ../Makefile 
+make -f Makefile_test
+make -f Makefile_test clean
+mc
+mkdir "Solomon Kane (2010)"
+mkdir 20231228
+mkdir 20240209
+mv * ../
+mv *mp3 majstaf/majmuska/
+mv A\ Happy\ Event\ \(2011\)/ ../
+mv Sixty\ Minutes\ \(2024\)/ ../
+mv Smoke\ Sauna\ Sisterhood\ \(2023\)/ ../fmeo/
+mv Solomon.kane.2010.720p.x264.aac.mkv Solomon\ Kane\ \(2010\)/
+mv The\ Beekeeper\ \(2024\)/ ../
+mv fmeo/ ../
+mv ~/majstaf/majmedia/_podnapisi/the-shift-2023-english-yify-600455.zip .
+sudo cp -v ~/Downloads/ComicMono* /usr/share/fonts/truetype/
+sudo find / -type f -iname "*.ttf"
+vlc Rebel.Moon.Part.One.-.A.Child.Of.Fire.2023.mp4 &
+vlc Sixty.Minutes.2024.mp4 &
+vlc Smoke.Sauna.Sisterhood.2023.mp4 &
+./_build_and_run.sh 
+./aoc-d2-p2_V1.py 
+./aoc-d2-p2_V2
+./aoc-d2-p2_V2.py 
+./brthdReminder-cmd 
+./brthdReminder_c
+./brthdReminder_g 
+./brthdReminder_g .02.
+./brthdReminder_g Boštjan
+./gPadec 
+./substring_test_v2.py 
+./substring_test_v3.py 
+/
+0
+BrthReminder_c 
+CD
+_python_testing
+bin/custom_string_type_test_v1
+bin/custom_string_type_test_v1 
+bin/custom_string_type_test_v3 
+bin/custom_string_type_test_v4
+bin/custom_string_type_test_v4 
+bin/polygon_area_test_v
+bin/polygon_area_test_v2
+bin/polygon_area_test_v4
+bin/polygon_area_test_v4 
+bin/shift_test 
+bin/shift_test AAA
+bin/shift_test AAA BBB CCC DDD "KING LEAR" "KING KONG" 123 456 789 1024 4096
+bin/shift_test AAA BBB CCC DDD "king lear"
+bin/struct_region_offset_v6 
+bin/ubuild 
+bin/uconcat 
+cat $CDPATH
+cat ../c_testing/.gitignore 
+cat NASLOVI-ZA-VOSCILNICE_2016-12.txt 
+cat bashrc_muadib 
+chmod 755 bin
+cp -i aliases_muadib aliases_muadib_fish funclist ~/majstaf/d_metsys_git/src_d_metsys/majrcs_d/
+cp -i aliases_muadib ~/majstaf/d_metsys_git/src_d_metsys/majrcs_d/
+cp -i get_ddifs ~/majstaf/d_metsys_git/src_d_metsys/majbin_d/
+cp -i majstaf/majbin/bekap[13]* ~/majstaf/d_metsys_git/src_d_metsys/majbin_d/
+cp -i majstaf/majbin/get_ddifs ~/majstaf/d_metsys_git/src_d_metsys/majbin_d/
+cp -r pt_999_aoc_d_20231205 ~/majstaf/coding2/testing/python_testing/
+cp -r ~/Downloads/A\ Happy\ Event\ \(2011\)\ \[FRENCH\]\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/The\ Loft\ \(2014\)/ .
+cp -rn The\ Loft\ \(2014\)/ /media/rgregor/EKSFAT/majmedia/Movies/
+cp .gitignore ../go_testing/
+cp /home/rgregor/majstaf/majbin/BrthReminder_c/ROJSTNIDNEVI.txt .
+cp English.srt ../
+cp custom_string_type_test_v2{,-1}.c 
+cp polygon_area_test_v{2,3}.c
+cp polygon_area_test_v{2.3}.c
+cp struct_region_offset_v{5,6}.c 
+cp ~/majstaf/majmedia/_podnapisi/a-happy-event-2011-english-yify-595838.zip .
+cp ~/majstaf/majrcs/bashrc_muadib /home/rgregor/majstaf/d_metsys_git/src_d_metsys/majrcs_d/
+diff -q ./ ~/majstaf/metsys_muadib/
+diff -q ./ ~/majstaf/metsys_muadib/ | grep -Only
+diff -q ./ ~/majstaf/metsys_muadib/ | grep -v Common
+diff -q ./ ~/majstaf/metsys_muadib/ | grep Only
+diff -q ./* ~/majstaf/metsys_muadib/
+diff -qr ~/majstaf/metsys_muadib/ ~/majstaf/d_metsys_git/src_d_metsys/metsys_d/metsys_muadib/
+diff c_data-alignment-to-assist-vectorization._20230920.txt c_data-alignment-to-assist-vectorization_20230920.txt 
+diff custom_string_type_test_v1.c custom_string_type_test_v2.c 
+diff majstaf/metsys_muadib/ ~/majstaf/d_metsys_git/src_d_metsys/metsys_d/metsys_muadib
+diff majstaf/metsys_muadib/ ~/majstaf/d_metsys_git/src_d_metsys/metsys_d/metsys_muadib | grep -v Common
+dkdb
+dkdb log --oneline 
+dkdb push --dry-run ghkdb
+dkdb push --dry-run ghkdb main
+dkdb push --dry-run ghkdb master
+dkdb push --dry-run glkdb main
+dkdb staus
+dkpd status
+dmts log
+dmts push --dry-run --verbose github_dmetsys master
+duh 
+duh . 10
+duh _ORIGINALI/
+duh coding
+duh coding2
+duh | head
+duhduh | head
+echo CDPATH
+find -empty
+find -inam "*.h"
+find -iname "*.h"
+find -iname "*hrasto*"
+find -iname "*hrastov*"
+find -iname "*naslov*txt"
+find -iname "*naslov*txt" | grep -v Valv | xargs -I{} cp -v {} ~/Downloads/
+find -iname "*naslov*txt" | xargs -I{} mb -v {} ~/Documents/
+find -iname "*naslov*txt" | xargs -I{} mv -v {} ~/Documents/
+find -iname "*palma*"
+find -na,e "gp*"
+find -name "*pycache*"
+find -name "ROJSTN*"
+find -name "gp*"
+find -name "pycache"
+find -type d -iname "*brick*"
+find ~ -name "ROJSTN*"
+get_D
+gil log --oneline
+gil tlog --oneline
+git add .gitignore 
+git clone https://github.com/catppuccin/catppuccin.git
+git commit -m
+git commit -m "added .gitignore 20240223_0743_d"
+git commit -m "added bin/ 20240224_0749_d"
+git commit -m "added v4 to ct_117 (2) 20231204"
+git commit -m "changes 20240224_0746_D"
+git commit -m "updated .gitignore for ct_118 ...20240108_1911_d"
+git sta
+gkgb status
+go
+go --version
+go build -o gPadec padec.go 
+go help build
+go help build | grep output
+go run
+goit commit -m "added .gitignore 20240223_0743_d"
+grep '#define MALLOC(type)' *
+grep 'while(0)' *
+grep -i '(type)' *
+grep -il '(type)' *
+grep -il '(type)' * | grep '^c_'
+grep -il '(type)' * | grep 'c_'
+grep -il '(type)' * | grep 'c_' -
+grep -il '(type)' * | grep -v 'grep'
+grepc '/usr/local/bin' *
+grepc 'local/bin' *
+grepc -irE "pa*ssw*d" *
+grepc -r "define"
+history | grep mp
+history | grep mp3
+jar --version
+jarrun jBrthdRemider.jar 
+jarrun jBrthdRemider.jar greg
+jarrun jBrthdRemider.jar rede
+java --version
+java StDelovnihUr_V6
+javac *.java
+javac --version
+less NASLOVI-ZA-VOSCILNICE_2016-12.txt 
+less c_*20231219*
+less naslovi_2017-12.txt
+less no-xclipboard-fix_20231116.txt 
+listulb | less
+majstaf/0a_povezave/brthdReminder_g
+mkdir -p ~/majstaf/majmedia/Movies/20231222
+mkdir 20231214
+mkdir 20240112
+mkdir 20240127
+mts status
+mv A.Happy.Event.2011.FRENCH.720p.BluRay.x264.AAC-\[YTS.MX\].mp4 A.Happy.Event.2011.mp4 
+mv A\ Happy\ Event\ France-2011-BLuRay-720p-DTS-English.srt English.srt
+mv Montevideo.Bog.te.video.2010{,_orig1}.srt 
+mv Montevideo\ Taste\ Of\ A\ Dream\ \(2010\)/ ../
+mv The.Loft.2014_01.srt{,.txt} 
+mv The.Loft.2014{,_01}.srt 
+mv custom_string_type_test_v2-{1,2}.c 
+mv custom_string_type_test_v2{,-1}.c 
+mv custom_string_type_test_v2{-1,}.c 
+mv custom_string_type_test_v{2-2,3}.c 
+mv custom_string_type_test_v{3,4}.c 
+mv fmeo .fmeo
+mv gPadec bin/
+mv ptn_breaking-out-of-nested-loops_20231205{_02,}.txt 
+mv struct_region_offset_v5.c src/
+mv {,pt_999_}aoc_d_20231205
+mv ~/majstaf/majmedia/_podnapisi/a-happy-event-2011-english-yify-595838.zip .
+mv ~/majstaf/majmedia/_podnapisi/battle-of-the-sexes-2017-english-yify-456728.zip .
+mv ~/majstaf/majmedia/_podnapisi/en-the-loft-2014-SubRip-utf-8.zip .
+mv ~/majstaf/majmedia/_podnapisi/the-loft-2014-english-yify-62882.zip .
+prepare-fjl-for-knowledgebase-d _____in_20240122.txt 
+prepare-fjl-for-knowledgebase-d ranger_cht-sht_01_20231201.txt 
+ps -aux | grep mnt
+ps -aux | grep un-
+pyclean
+rename-to-basename-with-new-ext A.Happy.Event.2011.mp4 English.srt 
+rename-to-basename-with-new-ext English.srt A.Happy.Event.2011.mp4 
+rename-to-basename-with-new-ext The.Loft.2014.720p.BluRay.x264-iNFAMOUS.srt The.Loft.2014.mp4 
+rename-to-basename-with-new-ext The.Loft.2014.720p.BluRay.x264.\[YTS.MX\]-English.srt The.Loft.2014.mp4 
+rename-to-basename-with-new-ext subs_corrected_20231230_185258.srt Montevideo.Bog.te.video.2010.mp4 
+rsort-by-tmstmp_c | head
+rsort-by-tmstmp_c ~/Dropbox/ODPRTO/_C_and_Cpp/ | head
+softlink1-fname-to-ulb gpd
+softlink1-fname-to-ulb lynxd
+softlink1-fname-to-ulb w3md
+stat bin
+sudo apt status
+tmux
+touch ~/majstaf/d_metsys_git/src_d_metsys/metsys_d/metsys_muadib/HAHA.txt
+tree bin/
+type dmts
+type ydlF
+unzip en-the-loft-2014-SubRip-utf-8.zip 
+unzip the-loft-2014-english-yify-62882.zip 
+v
+vlc A.Happy.Event.2011.mp4 
+vlc A.Happy.Event.2011.mp4 &
+vlc Montevideo.Bog.te.video.2010.mp4 &
+vlc The.Holdovers.2023.mp4 &
+vlc The.Loft.2014.mp4 &
+w3md "https://kapeli.com/cheat_sheets/ranger.docset/Contents/Resources/Documents/index" ranger_cht-sht_02_20231201.txt 
+which ydlF
+which yt-dlp 
+ydlF "https://www.youtube.com/watch?v=JRS8NYbUmU8"
+yt-dlp -f mp3 "https://www.youtube.com/watch?v=JRS8NYbUmU8"
+yt-dlp.exe -f mp3 "https://www.youtube.com/watch?v=JRS8NYbUmU8"
+~/majstaf/majbin/lynxdump/lynx_multi_dump_fromlist_d 
+./aoc-d2-p2_V3.py | clm
+./color10bit.sh 
+./print256colours.sh 
+abr
+c
+cat *NASLOV* | less
+cat /proc/cpuinfo  | grep cache
+cat /sys/devices/system/cpu/cpu0/cache/index0/coherency_line_size 
+cat coherency_line_size 
+cat index0/coherency_line_size 
+cat index1/coherency_line_size 
+chmod 644 *.sh
+chmod 755 color10bit.sh.txt 
+chmod 755 print256colours.sh color10bit.sh 
+chmod 755 print256colours.sh.txt 
+color10bit 
+cp *.gpx ../GPX_TRACS/
+cp print256colours.sh color10bit.sh ~/majstaf/majbin/
+cp prompts_20240214.txt ~/majstaf/metsys_muadib/
+find -name "*\.gpx" | xargs -I{} mv -v {} GPX_TRACS/
+find -name "\.gpx"
+find -type d -empty
+find -type f -iname "*parenzan*"
+find -type f -iname "*parenzan*" | xargs -I{} mv -v {} PARENZANA/
+find -type f -iname "*parenzan*" | xargs mv PARENZANA/
+for FFF in print256colours.sh color10bit.sh ; do softlink1-fname-to-ulb $FFF; done
+for i in $(seq 9); do printf "\e[$i;33mKR NEKI\e[0m .. $i\n"; done
+for i in $(seq 9); do printf "\e[$i;33mKR NEKI\e[0m"; done
+for i in $(seq 9); do printf "\e[$i;33mKR NEKI\e[0m\n"; done
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;33mKR NEKI\e[0m .. $i\n"; done
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;33mKR NEKI\e[0m .. $i\n"; done 
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;34mKR NEKI\e[0m .. $i\n"; done 
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;43mKR NEKI\e[0m .. $i\n"; done 
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;44mKR NEKI\e[0m .. $i\n"; done 
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;4mKR NEKI\e[0m .. $i\n"; done 
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;93mKR NEKI\e[0m .. $i\n"; done 
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;94mKR NEKI\e[0m .. $i\n"; done 
+for i in 0 1 2 3 4 6 5 7 8 9; do printf "\e[$i;94mKR NEKI\e[0m .. $i\n"; done 
+getconf LEVEL1_DCACHE_LINESIZE
+grep -l alignment *
+grep alignment *
+gsdj
+less c_5p_make-your-programs-run-faster-by-better-using-the-data-cache_20230302.txt 
+less c_data-alignment-to-assist-vectorization_20230920.txt 
+less c_fixed-size-memory-pool-multif_20230809.txt 
+less c_handwritting_memory_pool_and_code_analisys_20230809.txt 
+less c_howto-serialize-a-struct_20230925.txt 
+less c_make-your-programs-run-faster-by-better-using-the-data-cache_20230302.txt 
+listulb 
+mkdir bin
+mv c_{,5p_}make-your-programs-run-faster-by-better-using-the-data-cache_20230302.txt 
+mv color10bit.sh.txt print256colours.sh.txt ~/majstaf/src_majbin/00_ukazi_d/
+mv color10bit.sh{.txt,} 
+mv print256colours.sh{.txt,} 
+mv ranger_cht-sht_02_20231201{.txt_20231201,}.txt 
+print256colours 
+printf "\e[0;31mKRNEKI\e[0m"
+printf "\e[0;33mKR NRKI\e[0m"
+printf "\e[0;7;33mKR NRKI\e[0m"
+printf "\e[10;31mKRNEKI\e[0m"
+printf "\e[1;31mKRNEKI\e[0m"
+printf "\e[1;33mKR NRKI\e[0m"
+printf "\e[2;31mKRNEKI\e[0m"
+printf "\e[2;33mKR NRKI\e[0m"
+printf "\e[31;5mKR NEKI\e[0m"
+printf "\e[3;31mKRNEKI\e[0m"
+printf "\e[4;31mKRNEKI\e[0m"
+printf "\e[4;33mKR NEKI\e[0m"
+printf "\e[4;9;1;33mKR NEKI\e[0m"
+printf "\e[4;9;2;33mKR NEKI\e[0m"
+printf "\e[4;9;33mKR NEKI\e[0m"
+printf "\e[4;9;3;33mKR NEKI\e[0m"
+printf "\e[4;9;4;33mKR NEKI\e[0m"
+printf "\e[4;9;5;33mKR NEKI\e[0m"
+printf "\e[4;9;6;33mKR NEKI\e[0m"
+printf "\e[4;9;7;33mKR NEKI\e[0m"
+printf "\e[5;31mKRNEKI\e[0m"
+printf "\e[5;33;107mKR NEKI\e[0m"
+printf "\e[5;33;42mKR NEKI\e[0m"
+printf "\e[5;33;47mKR NEKI\e[0m"
+printf "\e[5;33;49mKR NEKI\e[0m"
+printf "\e[5;33mKR NEKI\e[0m"
+printf "\e[5;33mKR NRKI\e[0m"
+printf "\e[5;3mKR NEKI\e[0m"
+printf "\e[5;7;33mKR NRKI\e[0m"
+printf "\e[5;9;33mKR NEKI\e[0m"
+printf "\e[6;31mKRNEKI\e[0m"
+printf "\e[7;31mKRNEKI\e[0m"
+printf "\e[8;31mKRNEKI\e[0m"
+printf "\e[9;31mKRNEKI\e[0m"
+printf "\e[9;33;100mKR NEKI\e[0m"
+printf "\e[9;33;104mKR NEKI\e[0m"
+printf "\e[9;33;47mKR NEKI\e[0m"
+printf "\e[9;33;74mKR NEKI\e[0m"
+printf "\e[9;33;96mKR NEKI\e[0m"
+printf "\e[9;33;97mKR NEKI\e[0m"
+printf "\e[9;33mKR NEKI\e[0m"
+sudo efibootmgr
+tree -d majstaf/majmedia/Movies/
+vlc The.Promised.Land.2023.mp4 &
+:q
+GPD
+bin/ZpPadec_TEST 
+bin/ZpPadec_TEST 302.15 302.45 175.80
+bin/ZpPadec_TEST 302.15 302.45 75.89
+bin/polygon_area_test_v3
+cp Subs/English.eng.srt .
+dmts
+dmts push --dry-run github_dmetsys master
+dmts remote
+duh __STARO__
+duh __STARO__ | head
+duh __STARO__/
+fc-cacshe -f
+find -name "*.txt!
+find -name "*.txt"
+find -name "__pycache__"
+git push ghct 
+git push glct 
+java StDelovnihUr_V6 
+java StDelovnihUr_V6 februar 4
+mkdir 20240117
+mkdir 20240224
+mkdir majmuska
+mount
+mv 20231130/* .
+mv Elegy\ \(2008\)/ ../fmeo/
+mv The\ Holdovers\ \(2023\)/ ../../Movies/
+mv The\ Shift\ \(2023\)/ ../
+mv bin/ZpPadec{,_TEST} 
+mv ~/majstaf/majmedia/_podnapisi/elegy-2008-english-yify-300784.zip .
+mv ~/majstaf/majmedia/_podnapisi/solomon-kane-2009-english-yify-95271.zip .
+ndot status
+nvol status
+ps aux
+ps aux | grep vlc
+r
+rename-to-basename-with-new-ext Battle.of.the.Sexes.2017.srt Battle.Of.The.Sexes.2017.mp4 
+rename-to-basename-with-new-ext Elegy.2008.1080p.BluRay.x264.AAC5.1-\[YTS.MX\]-English.srt Elegy.2008.mp4 
+rsort-by-tmstmp_c 
+sudo cp ~/Downloads/ComicMono-Bold.ttf /usr/share/fonts/truetype/
+tree 
+type gpd
+vlc Battle.Of.The.Sexes.2017.mp4 &
+vlc Elegy.2008.mp4 &
+vlc Lights.Out.2024.mp4 &
+vlc Red.Right.Hand.2024.mp4 &
+vlc Solomon.kane.2010.720p.x264.aac.mkv 
+vlc The.Shift.2023.mp4 &
+xit
+xrandr
+./aoc-d2-p2_V3.py 
+get_d
+git clone https://github.com/r-gregor/en_metsys.git
+./substring_recursive_test_v4.py 
+./substring_recursive_test_v5.py 
+TREE
+bin/ZpPadec
+bin/ZpPadec 
+bin/ZpPadec 100 200 30
+bin/ZpPadec 203.15 203.45 175.22
+bin/ZpPadec 203.15 203.45 75.22
+bin/ZpPadec 203.15 203.68 175.22
+bin/custom_string_type_test_v2
+bin/custom_string_type_test_v2-1 
+bin/custom_string_type_test_v3
+bin/struct_region_offset_v5 
+cp -r ~/Downloads/Napoleon\ \(2023\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Movies/20240108/
+cp -r ~/Downloads/newgo/go .
+cp Subs/English.srt .
+cp substring_recursive_test_v{4,5}.py 
+dkdb commit -m "update 20240222_0715_d"
+dkdb push --dry-run ghkdb 
+dkdb push --dry-run glkdb 
+dkdb remote
+find -iname "*bitbucket*"
+find -name .gitignore
+find -name .gitignore | sort -d '_' -k2
+find -name .gitignore | sort -n '_' -k2
+git help push
+git log --oneline
+git push --dry-run ghct 
+gp
+grep -r usage * 
+grep usage *
+grepc -r usage * 
+mkdir 20240108
+mna sort
+mv Movies/fmeo/ .
+mv go go-1.15.6
+rename-to-basename-with-new-ext English.srt Napoleon.2023.mp4 
+softlink1-fname-to-ulb ~/majstaf/majbin/valgrind-test 
+teww
+tree -d
+treee
+uname -a
+valgrind-test bin/ZpPadec 
+vlc Napoleon.2023.mp4 &
+~/majstaf/majbin/valgrind-test bin/ZpPadec 
+~/majstaf/majprogs/go/bin/go --version
+~/majstaf/majprogs/go/bin/go -v
+~/majstaf/majprogs/go/bin/go -version
+~/majstaf/majprogs/go/bin/go version
+./substring_test_v4.py 
+dmts sttaus
+dvol add .
+dvol commit -a
+gsd
+gsp
+sudo apt remove
+cat _movies-list_20230*
+cp -rn Montevideo\ Taste\ Of\ A\ Dream\ \(2010\)/ The\ One\ \(2001\)/ /media/rgregor/1545-AB81/majmedia/Movies/
+dmts remote -v
+file /usr/bin/gsdj
+find -name "*\.gpx"
+git log
+git remote -v
+mv downloadani_filmi_sorted_20231122_03.txt downloadani_filmi_sorted_20240117_04.txt 
+mv ~/a
+printf "\e[31;3;9mKR NEKI\e[0m"
+printf "\e[31;3mKR NEKI\e[0m"
+printf "\e[9;7;31mKRNEKI\e[0m"
+type gsdj
+y
+chmod 644 *
+cp -i ~/majstaf/majbin/get_ddifs ~/majstaf/d_metsys_git/src_d_metsys/majbin_d/
+gdp
+bin/struct_region_offset_v
+bin/struct_region_offset_v8 
+cp -r Land\ Of\ Bad\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Air\ Force\ One\ Down\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Lights\ Out\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Red\ Right\ Hand\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240224/
+sudo apt clean
+dkdb log
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;104mKR NEKI\e[0m .. $i\n"; done 
+for i in 0 1 2 3 4 5 7 8 9; do printf "\e[$i;74mKR NEKI\e[0m .. $i\n"; done 
+printf "\e[1;38;5;219mTEKST\e[0m"
+printf "\e[2;38;5;219mTEKST\e[0m"
+printf "\e[3;38;5;219mTEKST\e[0m"
+printf "\e[3;9;38;2;200;133;125mTEKST\e[0m"
+printf "\e[3;9;38;2;219;033;125mTEKST\e[0m"
+printf "\e[3;9;38;2;219;033;25mTEKST\e[0m"
+printf "\e[3;9;38;2;219;133;125mTEKST\e[0m"
+printf "\e[3;9;38;5;219mTEKST\e[0m"
+printf "\e[4;38;5;219mTEKST\e[0m"
+printf "\e[5;38;5;219mTEKST\e[0m"
+printf "\e[7;38;5;219mTEKST\e[0m"
+printf "\e[9;38;5;219mTEKST\e[0m"
+sudo apt autoclean
+cp -i majstaf/majrcs/bashrc_muadib ~/majstaf/d_metsys_git/src_d_metsys/majrcs_d/
+echo $CDPATH
+git status 
+gpdpush 
+/media/rgregor/B1_2_EXT4/RUN-rsync-muadib_SEAGATE_1-5Tb 
+LL
+cp -rn ~/majstaf/majmedia/Movies/* /media/rgregor/1545-AB81/majmedia/Movies/
+pef
+sudo apt dist-upgrade
+bin/offsetof_test_v2 
+bin/offsetof_test_v3
+bin/struct_region_offset_v4 
+cp -rn ./* /media/rgregor/EKSFAT/majmedia/Movies/
+dboc
+duh . 15
+find -name .gitignore | sort -n -k2
+find -name .gitignore | sort -n -k2 | less
+go-1.21.5/bin/go version
+go/bin/go version
+mv go go-1.21.5
+žgpd
+c d..
+fm
+for i in 0 1 2 3 4 5 6 7 8 9; do printf "\e[$i;94mKR NEKI\e[0m .. $i\n"; done 
+sudo apt autoremove
+dnts status
+exirt
+fc-cache -f
+vlc The.Cold.Light.Of.Day.2012.mp4 &
+cp -rn ../Seivom/* /media/rgregor/EKSFAT/majmedia/Seivom/
+git branch
+go version
+go/bin/go
+ln -s go-1.21.5/ go
+mv ./* ../
+cp -rn ~/majstaf/majmedia/Movies/* /media/rgregor/EKSFAT/majmedia/Movies/
+/media/rgregor/EKSFAT/RUN-rsync-muadib_WD_5Tb 
+gpdtestpush 
+printf "\e[1:3;9;38;2;55;133;125mTEKST\e[0m"
+printf "\e[1;3;9;38;22;55;133;125mTEKST\e[0m"
+printf "\e[1;3;9;38;2;120;133;125mTEKST\e[0m"
+printf "\e[1;3;9;38;2;250;133;125mTEKST\e[0m"
+printf "\e[1;3;9;38;2;55;133;125mTEKST\e[0m"
+printf "\e[1;3;9;38;2;98;133;125mTEKST\e[0m"
+printf "\e[1;3;9;38;62;55;133;125mTEKST\e[0m"
+printf "\e[2;3;9;38;2;250;133;125mTEKST\e[0m"
+printf "\e[3;9;38;2;55;133;125mTEKST\e[0m"
+tree bin
+unzip *.zip
+sudo apt update
+sudo apt upgrade
+bin/struct_region_offset_v7 
+duh
+bin/rand_char_position_test_v5 
+dmts add .
+sudo reboot
+git add .
+sbr
+ffn
+tree
+dclean-movie-dname 
+dmts commit -a
+git commit -a
+dkdb commit -a
+dvol status
+mntm
+db1
+shorten-movie-name 
+dkdb add .
+make clean 
+un-mount_dev_sdbs 
+make
+get_ddifs 
+gpd
+dkdb status
+git status
+l
+dmts status
+
+pwf
