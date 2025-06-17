@@ -1,0 +1,3180 @@
+!
+"
+$ curl -o ~/.config/kitty/nord.conf https://raw.githubusercontent.com/connorholyday/nord-kitty/master/nord.conf
+- list, or
+. .bashrc.ORIGINAL
+. .bashrc_base
+. ~/.bashrc_base 
+. ~/majstaf/majrcs/bashrc_prompt_base_muadib 
+../../zig-clean.sh 
+../zig-clean.sh 
+./DRYRUN-rsync-jbez0rg_WD_5Tb 
+./Ventoy2Disk.sh -i /dev/sdb
+./build/BrthReminder_c
+./build/BrthReminder_c zAlA
+./build/BrthReminder_c_colors 
+./build/BrthReminder_c_colors boštj
+./clean_git_history.sh 
+./clean_git_history.sh metsys_mdb
+./clean_git_history.sh metsys_mdb/
+./clean_git_history.sh testdir/
+./hex2rgb 
+./mdbgt_status_new 
+./mount_ext_usbs_mdb_v2.sh 
+./obletnica_z 2033
+./sort-dot-git-directories-by-size 
+./un-mount-ext-usbs_mdb_v2.sh 
+./un-mount-ext-usbs_mdb_v2.sh /dev/sdb1
+./un-mount-ext-usbs_mdb_v2.sh /dev/sdb2
+./un-mount-ext-usbs_mdb_v2.sh /dev/sdc
+./zig-clean.sh 
+/home/rgregor/0a_apps/c_toolbox/obletnica-c/obletnica-c 
+/home/rgregor/0a_apps/c_toolbox/obletnica-c/obletnica-c 2033
+/home/rgregor/majstaf/coding2/testing/c_testing/ct_141_timediff_20250521/bin/timediff 
+/home/rgregor/majstaf/coding2/testing/c_testing/ct_141_timediff_20250521/bin/timediff 005544 112233
+/home/rgregor/majstaf/coding2/testing/c_testing/ct_141_timediff_20250521/bin/timediff 005566 112233
+/home/rgregor/majstaf/coding2/testing/zig_testing/zt_007_obletnica_z_20250325/obletnica_z/zig-out/bin/obletnica_z 2023
+/home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+/media/rgregor/WD-2T/
+/usr/bin/tmux 
+:w
+BrthReminder-c
+BrthReminder-c-color 
+BrthReminder-c-color redel
+BrthReminder-c-color zAlA
+LA
+MV="Carry On (2024)"/
+MV="Coma (1978)"
+MV="Demolition Man (1993)"
+MV="Ice Age The Meltdown (2006)"
+MV="Mad About Mambo (2000)"
+MV="Marathon Man (1976)"
+MV="Muzzle (2023)"
+MV="Naked Gun 33 1 3 The Final Insult (1994)"
+MV="North By Northwest (1959)"
+MV="Rebel Moon - Part Two The Scargiver (2024)"
+MV="Riddick (2013)"
+MV="See You In Montevideo (2014)"
+MV="Silent Running (1972)"
+MV="Tetris (2023)"
+MV="The Boys From Brazil (1978)"
+MV="The Chronicles of Riddick (2004)"
+MV="The Gorge (2025)"
+MV="The Six Triple Eight (2024)"
+MV="The Usual Suspects (1995)"
+MV="Trap (2024)"
+MV="Uglies (2024)"
+MV="Virtuosity (1995)"
+MV="Vuk Samotnjak (1972)"
+MV="You Dont Mess with the Zohan (2008)"
+MV='The\ Naked\ Gun\ *'
+MV=Weekend\ In\ Taipei\ \(2024\)/
+Subs/
+alias | grep sbrn
+alias | grepc sbr
+bash ./preglej.barve 
+bash mount_ext_usbs_mdb_v2.sh
+bash mount_ext_usbs_mdb_v2.sh.sh 
+bash rename_bin_to_build_20241203.sh 
+bash un-mount-ext-usbs_mdb
+bash un-mount-ext-usbs_mdb.sh 
+bin/timediff 
+bin/timediff 000000 000000
+bin/timediff 000000 120000
+bin/timediff 000000 235959
+bin/timediff 000000 240000
+bin/timediff 000000 245959
+bin/timediff 005959 120000
+bin/timediff 080000 000000
+br
+c d/home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cat * | grep -i p*ss*wd
+cat * | grepc -i p*ss*wd
+cat ../_DOWNLOADED_MOVIES.txt
+cat /etc/lightdm/lightdm.conf
+cat BRISI_LIST_20241127 
+cat BRISI_LIST_20241127 | cut -d':' -f2
+cat BRISI_LIST_20241127 | grep -v "Brth\|w3" | cut -d':' -f2
+cat BRISI_LIST_20241127 | grep -v Brth | cut -d':' -f2
+cat _DOWNLOADED_MOVIES.txt
+cat _DOWNLOADED_MOVIES.txt | clm
+cat _yts_torrents/
+cat check_if_torrent_alreeady_downloaded_20250101.txt
+cat check_if_torrent_alreeady_downloaded_20250101.txt 
+cat rename_bin_to_build_20241203.sh 
+cat send_mail/send_config_d.sh.backup.20221217.txt 
+cat ~/.SCRTS 
+check_git_diffs_mdb
+check_if_mvs_in_both_dirs exit
+chmod 644 un-mount-ext-usbs_mdb_v2.sh 
+chmod 755 clean_git_history.sh 
+chmod 755 sort-dot-git-directories-by-size 
+chmod 755 ~/majstaf/majbin/seivom_clean
+cim changes-in-
+clean_git_history 
+clean_git_history dotfiles_mdb
+clean_git_history metsys_mdb
+cp -/home/rgregor/.config/atril/print-settings ~/_MGT/dotfiles_mdb/.config/atril/
+cp -i .bashrc $MRCS/
+cp -i .bashrc $M_DTFJLS/
+cp -i .bashrc* ~/majstaf/mdbgit/dotfiles_mdb/
+cp -i .bashrc{,.ORIGINAL.20241014}
+cp -i .config/picom/picom.conf ~/_MGT/dotfiles_mdb/.config/picom/
+cp -i /home/rgregor/.config/atril/print-settings ~/_MGT/dotfiles_mdb/.config/atril/
+cp -i /home/rgregor/majstaf/majbin/contains ~/_MGT/majbin_mdb/
+cp -i /home/rgregor/majstaf/majbin/subtitles/subs-correct ~/_MGT/majbin_mdb/subtitles/subs-correct
+cp -i >/home/rgregor/majstaf/majbin/subtitles/subs-correct ~/_MGT/majbin_mdb/subtitles/subs-correct
+cp -i DRYRUN-rsync-muadib_WD_5Tb DRYRUN-rsync-jbez0rg_WD_5Tb 
+cp -i _DOWNLOADED_MOVIES.txt /media/rgregor/E75F-1AEC/majmedia/
+cp -i aliases_muadib bashrc_* ~/majstaf/mdbgit/majrcs_mdb/
+cp -i aliases_muadib funclist bashrc_muadib ~/_MGT/majrcs_mdb/
+cp -i bashrc_* ~/majstaf/mdbgit/majrcs_mdb/
+cp -i bashrc_muadib.ORIGINAL bashrc_prompt_base_muadib 
+cp -i config.ini* ~/majstaf/mdbgit/dotfiles_mdb/.config/polybar/
+cp -i mount_ext_usbs_mdb_v2.sh src/
+cp -i nord.conf theme.conf* /home/rgregor/majstaf/mdbgit/dotfiles_mdb/.config/kitty/
+cp -i obletnica_z ~/majstaf/coding2/toolbox/zig_toolbox/obletnica_z/
+cp -i ~/majstaf/majbin/seivom_clean $MMJBN/
+cp -i ~/majstaf/majrcs/bashrc_muadib $MMRCS/
+cp -i ~/majstaf/majrcs/bashrc_prompt_* ~/_MGT/majrcs_mdb/
+cp -i ~/majstaf/majrcs/bashrc_prompt_* ~/majstaf/majrcs/funclist ~/_MGT/majrcs_mdb/
+cp -ir /media/rgregor/B1_2_EXT4/DRYRUN-rsync-muadib_SEAGATE_1-5Tb ./
+cp -ir /media/rgregor/B1_2_EXT4/RUN-rsync-muadib_SEAGATE_1-5Tb ./
+cp -r $MV /media/rgregor/1545-AB81/majmedia/Movies/ && mv -v $MV ../Movies/
+cp -r *YTS* /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r /home/rgregor/majstaf/coding2/testing/zig_testing/zt_007_obletnica_z_20250325/obletnica_z .
+cp -r /media/rgregor/B1_2_EXT4/DRYRUN-rsync-muadib_SEAGATE_1-5Tb /media/rgregor/B1_2_EXT4/RUN-rsync-muadib_SEAGATE_1-5Tb .
+cp -r AVIONI/ ~/Documents/
+cp -r A\ Funny\ Thing\ Happened\ on\ the\ Way\ to\ the\ Forum\ \(1966\)/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r BRISIME/ STARO/ $SVM/
+cp -r Deep\ Blue\ Sea\ \(1999\)/ Old\ Guy\ \(2024\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20250312/
+cp -r Demolition\ Man\ \(1993\)/ ~/majstaf/majmedia/Seivom/20241227/
+cp -r Downloads/Deep\ Cover\ \(2025\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r History\ Of\ The\ World\ Part\ I\ \(1981\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r Marathon\ Man\ \(1976\)\ \[BluRay\]\ \[720p\]\ \[YTS.AM\]/ The\ Boys\ From\ Brazil\ \(1978\)\ \[BluRay\]\ \[720p\]\ \[YTS.AM\]/ 21\ \(2008\)/ ~/majstaf/majmedia/Seivom/20241220/
+cp -r Pandorum\ \(2009\)/ Universal\ Soldier\ \(1992\)\ \[1080p\]/ The\ Thing\ \(1982\)/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r Silent\ Running\ \(1972\)\ \[BluRay\]\ \[720p\]\ \[YTS.AM\]/ The\ Endless\ \(2017\)\ \[BluRay\]\ \[720p\]\ \[YTS.AM\]/ The\ Six\ Triple\ Eight\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ The\ Order\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Ice\ Age\ The\ Meltdown\ \(2006\) ~/majstaf/majmedia/Seivom/20241229/
+cp -r The\ Usual\ Suspects\ \(1995\)/ ~/majstaf/majmedia/Seivom/
+cp -r dotfiles_mdb{,_BEKAP}
+cp -r i3 ~/majstaf/mdbgit/dotfiles_mdb/.config/
+cp -r obletnica_z_new/ ~/majstaf/coding2/toolbox/zig_toolbox/obletnica_z/build/
+cp -r obletnica_z{,_new}
+cp -r ~/Documents/COPENHAGEN-MALMO/* .
+cp -r ~/Downloads/Old\ Guy\ \(2024\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ 20250309/
+cp -r ~/majstaf/coding2/testing/c_testing/ct_127_BrthReminder-03_20240312 .
+cp -rf /media/rgregor/B1_2_EXT4/DRYRUN-rsync-muadib_SEAGATE_1-5Tb .
+cp -rf /media/rgregor/B1_2_EXT4/DRYRUN-rsync-muadib_SEAGATE_1-5Tb ./
+cp -rf /media/rgregor/B1_2_EXT4/DRYRUN-rsync-muadib_SEAGATE_1-5Tb /media/rgregor/B1_2_EXT4/RUN-rsync-muadib_SEAGATE_1-5Tb .
+cp -rf /media/rgregor/B1_2_EXT4/DRYRUN-rsync-muadib_SEAGATE_1-5Tb /media/rgregor/B1_2_EXT4/RUN-rsync-muadib_SEAGATE_1-5Tb ./
+cp -rfv /media/rgregor/B1_2_EXT4/DRYRUN-rsync-muadib_SEAGATE_1-5Tb ./
+cp -rn $SVM/* /media/M
+cp -rn ../fmeo/* /media/rgregor/E75F-1AEC/majmedia/fmeo/
+cp -rn ./* ../
+cp -rn ./* /media/rgregor/1545-AB81/majmedia/Seivom/
+cp -rn ./* /media/rgregor/E75F-1AEC/majmedia/fmeo/
+cp -rn get_curry.zig is_leap_year.zig /home/rgregor/majstaf/coding2/testing/zig_testing/zt_FUNCTIONS/
+cp -rn majvolpejpers1/* majvolpejprs_9_20241001/
+cp -rn majvolpejpers[234]/* majvolpejprs_9_20241001/
+cp -rn majvolpejpers_DARK/* majvolpejprs_9_20241001/
+cp -rn majvolpejpers_bob/* majvolpejprs_9_20241001/
+cp -rn majvolpejpers_bob2/* majvolpejprs_9_20241001/
+cp -rn majvolpejprs-from-en_20230324/* majvolpejprs_9_20241001/
+cp -rn ~/majstaf/majmedia/fmeo .
+cp -v /media/rgregor/WD\ El\ 2TB/ext_WD_usbHDD_2TB/n_bekaps/Downloads_cugr_en/__downloaded_isos_2024-10/debian-live-12.8.0-amd64-xfce.iso /media/rgregor/Ventoy/
+cp ../../../_podnapisi/_NOVO/drop-zone-1994-english-yify-124963.zip .
+cp ../ROJSTNIDNEVI.txt .
+cp .bashrc{,_nerd}
+cp .tmux.conf{,.backup} 
+cp /home/rgregor/majstaf/mdbgit/knowledgedb/_C_and_Cpp/*20250530* .
+cp DRYRUN-rsync-* RUN-rsync-* /media/rgregor/E75F-1AEC/
+cp NEW/bin/obletnica_z .
+cp Subs/English\ \[SDH\].eng.srt .
+cp The.Magnificent.Seven.1960.srt _original/
+cp The.Magnificent.Seven.1960.srt current.srt
+cp bashrc_muadib bashrc_prompt_base_muadib
+cp bashrc_muadib.ORIGINAL bashrc_prompt_nonerd_muadib 
+cp bashrc{,_nonnerd}_muadib 
+cp c-writing-software-without-the-standard-library-linux-edition-{,tabs-}20250530.txt 
+cp clean_git_history $MPRNS 
+cp clean_git_history.sh ~/majstaf/majbin/
+cp clean_git_history.sh ~/majstaf/scripting_mdb/BASH_SCRIPTS_mdb/
+cp config.ini{,.backup.20241216}
+cp main.zig main.zig.backup.20250326
+cp mdbgt_status{,_new} 
+cp mdbgt_testpush{,_new}
+cp mount_ext_usbs_mdb{,_v2}.sh 
+cp obletnica_z{,_new}
+cp testing_ghgl_status_mdb{,_new} 
+cp testing_ghgl_testpush_mdb{,_new} 
+cp un-mount-ext-usbs_mdb{,_v2}.sh 
+cp xrandr_scale_settings_20241129.txt ~/majstaf/metsys/
+cp zt_005_cli-args-tests_20250317/clean.sh .
+cp {DRY,}RUN-rsync-jbez0rg_WD_5Tb
+cp {DRY,}RUN-rsync-muadib_WD_5Tb 
+cpi bashrc_muadib $MMRCS/
+cpi mntm $MMJBN 
+curl -o ~/.config/kitty/nord.conf https://raw.githubusercontent.com/connorholyday/nord-kitty/master/nord.conf
+dclean
+dest=$(find /dev/disk/by-path -name "*-usb-*" -exec readlink -f {} \; | grep -E "s..[1-9]")
+diff -y Subs/English.srt Subs/SDH.eng.HI.srt 
+diff -y Subs/English.srt Subs/SDH.eng.HI.srt  | less
+diff .tmux.conf .tmux_6_conf 
+diff Subs/English.srt Subs/SDH.eng.HI.srt 
+duh * .*| head
+duh _ORIGINALI
+duh _ORIGINALI/
+duh i3
+echo $MGT 
+echo $M_GT 
+echo $M_MRCS 
+echo $dest
+echo ${usbs[@]}
+exitđ
+find * -maxdepth 0 -type d
+find -name "*c*h*t*"
+find -name "*c*h*tsh*"
+find -name "*ch**t[-_]*"
+find -name "*ch*sh*"
+find -name "*ch*t*"
+find -name "*ch*t[-_]*"
+find -name "*cheat*"
+find -name "*cheat*sheat*"
+find -name "*cheat*sheat*rang"
+find -name "*cheat*sheat*rang"*
+find -name "*cheat*sheat*rang*"
+find -name "*chsh*"
+find -name "*chtsh*"
+find -name "*clean*"
+find -name "*color*"
+find -name "*rang*"
+find -name "*rang*cheat*sheat*"
+find -name "*ranger*"
+find -name "*ranger*c"
+find -name "www.Y*"
+find -name "www.Y*" -o -name "YTS*"
+find -name *color*"
+find -type d -name "*chsh*"
+find -type d -name "\.git"
+find -type d -name "ext*"
+find -type d -name "ext_*"
+find -type d -name "ext_*2024"
+find -type f -iname "*Cirque*"
+find -type f -iname "*[-_]SEPA[-_]*" | grep -i --color sepa
+find -type f -iname "*solei*"
+find -type f -iname *[-_]SEPA[-_]g* | grep -i --color sepa
+find -type f -iname *[-_]SEPA[-_g* | grep -i --color sepa
+find /dev/disk/by-path -name "*-usb-*" -exec readlink -f {} \;
+find /dev/disk/by-path -name "*-usb-*" -exec readlink -f {} \; | grep -E "s..[1-9]"
+find /dev/disk/by-path -name "*-usb-*part*" -exec readlink -f {} \;
+find /dev/disk/by-path/ -name "*usb*part*"
+find /dev/disk/by-path/ -name "*usb*part*" | xargs -I{} readlink -f {}
+find /media/rgregor/E75F-1AEC/majmedia/Movies -type d -iname "*venom*" 
+find /media/rgregor/E75F-1AEC/majmedia/Seivom -type d -iname "*venom*" 
+fisudo nd -type d -name "ext_*2024"
+fm 0_converted_to_PDF/
+for DDD in $(find * -maxdepth 0 -type d); do echo $DDD; done
+for DDD in $(find * -maxdepth 0 -type d); do if [ ! -d /media/rgregor/1545-AB81/majmedia/Movies/$DDD ]; then echo $DDD; fi; done
+for DDD in $(find * -maxdepth 0 -type d); do if [ -d /media/rgregor/E75F-1AEC/majmedia/Seivom/$DDD ]; then echo $DDD; fi; done
+for DDD in $(find -type d -name "\.git"); do du -sh $DDD; done | sort -hr 
+for FFF in $(cat BRISI_LIST_20241127 | grep -v "Brth\|w3" | cut -d':' -f2); do cut -d'/' -f5-
+for FFF in $(cat BRISI_LIST_20241127 | grep -v "Brth\|w3" | cut -d':' -f2); do cut -d'/' -f5- ; done
+for FFF in $(cat BRISI_LIST_20241127 | grep -v "Brth\|w3" | cut -d':' -f2); do echo "~/majstaf/mdngit/majbin_mdb/$(echo $FFF | cut -d'/' -f6-)" ; done
+for FFF in $(cat BRISI_LIST_20241127 | grep -v "Brth\|w3" | cut -d':' -f2); do echo $FFF | cut -d'/' -f5- ; done
+for FFF in $(cat BRISI_LIST_20241127 | grep -v "Brth\|w3" | cut -d':' -f2); do echo $FFF | cut -d'/' -f6- ; done
+for FFF in $(cat BRISI_LIST_20241127 | grep -v "Brth\|w3" | cut -d':' -f2); do echo $basename $FFF; done
+for FFF in $(get_mdbdiffs | grep Files | cut -d' ' -f2); do cp -riv ./$FFF ~/_MGT/majbin_mdb/$FFF; done
+for FFF in $(get_mdbdiffs | grep Files | cut -d' ' -f2); do echo cp -riv ./$FFF ~/_MGT/majbin_mdb/$FFF; done
+gadd
+get_mdbdiffs | grep Files
+get_mdbdiffs | grep Files | cut -d' ' -f2
+get_mdbdiffs | grep Files | cut -d' ' -f2 | grep -v /
+get_mdbdiffs | grep Files | cut -d' ' -f2 | grep -v / | xargs -I{} cp -vf {} ~/_MGT/majbin_mdb/
+git clone https://github.com/r-gregor/vlpprs_en.git
+git commit -m "BRISIME"
+git commit -m "added "zenity --calendar to i3 conf 20241209_1709_mdb" 
+git commit -m "added 'zenity --calendar' to i3 conf 20241209_1709_mdb" 
+git help 
+git help --set-upstream
+git help upstream
+git help | grep upstream
+git remote -v >> ../clean_git_history.sh
+git remote add ghmdb git@github.com:r-gregor/metsys_mdb.git
+grep '^export' ~/majstaf/majrcs/bashrc_muadib
+grep '^function ' *
+grep 'send' *
+grep 'send_config_d.py' *
+grep -i ali _DOWNLOADED_MOVIES.txt 
+grep -i dark ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+grep -i mick _DOWNLOADED_MOVIES.txt 
+grep -i prom ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt
+grep -i pwd .bash*
+grep -i ren ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+grep -i retu ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt
+grep -i wrong ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+grep -ir pwd bash*
+grep -r 'HOME=' *
+grep -r '\$HOME' *
+grep -r multiple *
+grep -r setfont *
+grep -r setfont * 
+grep -ri cons *
+grep -ri disown *
+grep -ri font *
+grep -ri set *
+grep -ri setf *
+grep -rl for *
+grep -rl function * | sort | uniq
+grep -rl function * | sort | uniq | grep -v '.py'
+grep -rl function * | sort | uniq | grep -v py
+grep disown
+grep disown *
+grep export $M_MRCS 
+grep export ~/majstaf/majrcs/bashrc_muadib
+grep for *
+grep logout *
+grep n_bek *
+grep setfont *
+grep xcol xcol_bash.sh 
+grepc 'send_config_d.py' *
+grepc -ir pwd bash*
+grepc -ri cons *
+grepc -ri cons * | less
+grepc -ri setf * | less
+grepc gPsswd *
+grepr -ri cons *
+gsimplecal &
+history | grep 'MV='
+history | grep 'MV=' >> deletes_for_MEDION.txt
+history | grep font
+history | grep setf
+im bashrc_muadib
+kitty &
+l | grep -i SEX
+l | grep -i fort
+l | grep -i lock
+l | grep -i mata
+l | grep -i tab
+l | grep -i tabu
+less __downloaded_movies_20250215.txt 
+less majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+less xrandr_scale_settings_20241129.txt 
+ln -snf nord.conf theme.conf
+lynxd "https://medium.com/@eddo2626/lets-learn-zig-4-using-c-libraries-in-zig-5fcc3206f0dc" zig_using-c-libraries
+mdbgt-s
+mdbgt-status 
+mdbgt_status_new 
+mdbgt_testpush_new 
+mdngs
+mkdir 20241227
+mkdir 20241229
+mkdir 20250309
+mkdir COPENHAGEN
+mkdir TEST
+mkdir __from_jbe_BRISIME
+mkdir bekaps_en
+mkdir ext_WD_usbHDD_2TB
+mkdir majvolpejprs_9_20241001
+mkdir testdir
+mkdir zt_FUNCTIONS
+mkdir {_NOVO,STARO,BRISIME}
+mkntm
+mv *.c *.h src/
+mv *v1* src/
+mv ../
+mv ../../../_podnapisi/21-2008-english-yify-96978.zip .
+mv ../../../_podnapisi/_NOVO/A.Funny.Thing.Happened.on.the.Way.to.the.Forum.1966.720p.BR.x264.YIFY-ENG.srt .
+mv ../../../_podnapisi/_NOVO/drop-zone-1994-english-yify-124963.zip .
+mv ../../../_podnapisi/_NOVO/silver-skates-2020-english-yify-* .
+mv ../../../_podnapisi/north-by-northwest-1959-english-yify-240627.zip .
+mv ../../../_podnapisi/old-guy-2024-farsipersian-yify-1417128.zip .
+mv ../../../_podnapisi/silent-running-1972-english-yify-140603.zip .
+mv ../../../_podnapisi/the-boys-from-brazil-1978-english-yify-138304.zip .
+mv ../../_podnapisi/_NOVO/History.Of.The.World.Part.I.1981.1080p.BluRay.H264.AAC-RARBG.srt History\ Of\ The\ World\ Part\ I\ \(1981\)/
+mv ../../_podnapisi/the-usual-suspects-1995-english-yify-124488.zip .
+mv ./ ../
+mv .bashrc_nonnerd .bashrc_base
+mv 202503{09,12}
+mv Austin\ Powers\ International\ Man\ of\ Mystery\ 1997\ 720p\ BrRip\ x264\ -\ YIFY-English.srt EN.srt
+mv Deep.Cover.2025.* Deep\ Cover\ \(2025\)/
+mv Demolition\ Man\ \(1993\)/ ../
+mv Drop\ Zone-English.srt En.srt
+mv English\ \[SDH\].eng.srt EN.srt
+mv Makefile src/
+mv Mata\ Hari\ \(1985\)/ ../../fmeo/
+mv North.{b,B}y.Northwest.1959.srt 
+mv Subs/silver-skates-2020-english-yify-452829.zip .
+mv The.Magnificent.Seven.1960.srt EN.srt
+mv The\ Sexual\ Story\ Of\ O\ \(1984\)/ ../../fmeo/
+mv _NERAZPOREJENO/ majstaf/
+mv _NOVO{ž,}
+mv __bash_scipts/ bash_scripts
+mv bash_scripts/ BASH_SCRIPTS_mdb
+mv bashrc_nonnerd_muadib bashrc_base_muadib
+mv build/* ../
+mv clean.sh zig-clean.sh
+mv clean_git_history{.sh,}
+mv coding_diffs_v5.{c,sh} 
+mv coma.1978.720p.bluray.x264-hd4u.srt ../Seivom/_NOVO/Coma\ \(1978\)/
+mv ct_127_BrthReminder-03_20240312/ BrthReminder
+mv deletes_for_MEDION.txt ~/majstaf/majmedia/
+mv dot_git/ .git
+mv dot_git/.git
+mv find-dups-in-metsys.sh scripting_mdb/BASH_SCRIPTS_mdb/
+mv keyring.deb Downloads/
+mv metsys_mdb_backup{,2}
+mv mount_ext_usbs_mdb{,_v1}.sh 
+mv mount_ext_usbs_mdb{_v2,}.sh 
+mv obletnica_z{,.old}
+mv silver-skates-2020-english-yify-* Subs/
+mv un-mount-ext-usbs_mdb_v2.sh src/
+mv un-mount-ext-usbs_mdb{,v1}.sh 
+mv zig-clean{.sh,} 
+mv zig_using-c-libraries_20250326.txt /home/rgregor/majstaf/mdbgit/knowledgedb/_ZIG/
+mv {,__}bash_scipts/
+mv {,_}NOVO
+or FFF in $(get_mdbdiffs | grep Files | cut -d' ' -f2); do echo cp -riv ./$FFF ~/_MGT/majbin_mdb/$FFF; done
+pkexec thunar
+pkexec thznar
+polybar bar1 & disown
+prepare-fjl-for-knowledgebase-d zig_using-c-libraries_20250326.txt 
+q/home/rgregor/majstaf/coding2/toolbox/c_toolbox/obletnica36/obletnica_36 
+rename-to-basename-with-new-ext 21.2008.720p.BluRay.x264.\[YTS.MX\]-English.srt 21_Twenty_One_the_Movie_2008.mkv 
+rename-to-basename-with-new-ext A.Funny.Thing.Happened.on.the.Way.to.the.Forum.1966.720p.BR.x264.YIFY-ENG.srt A.Funny.Thing.Happened.on.the.Way.to.the.Forum.1966.mp4 
+rename-to-basename-with-new-ext Drop.Zone.1994.mp4 En.srt 
+rename-to-basename-with-new-ext EN.srt Austin.Powers.International.Man.of.Mystery.1997.mp4 
+rename-to-basename-with-new-ext EN.srt Beatles.64.2024.mp4 
+rename-to-basename-with-new-ext En.srt Drop.Zone.1994.mp4 
+rename-to-basename-with-new-ext English.srt Companion.2025.mp4 
+rename-to-basename-with-new-ext English.srt Havoc.2025.mp4 
+rename-to-basename-with-new-ext English.srt Weekend.In.Taipei.2024.mp4 
+rename-to-basename-with-new-ext Silver.Skates.2020.RUSSIAN.720p.BluRay.H264.AAC-VXT-English.srt Silver.Skates.2020.mp4 
+rename-to-basename-with-new-ext The.Boys.from.Brazil.1978.srt The.Boys.From.Brazil.1978.mp4 
+rename-to-basename-with-new-ext subs_corrected_20241208_192338.srt Austin.Powers.International.Man.of.Mystery.1997.mp4 
+rename-to-basename-with-new-ext subs_corrected_20241208_193612.srt The.Magnificent.Seven.1960.mp4 
+rename-to-basename-with-new-ext subs_corrected_20241208_193826.srt The.Magnificent.Seven.1960.mp4 
+rep gPsswd *
+rn __DANES__ 
+s -1 _yts_torrents/ | sed 's/) \[.*/)/' >> seznam
+sb
+softlink1-fname-to-ulb check_if_mvs_in_Seivom_and_Movies 
+softlink1-fname-to-ulb clean_git_history 
+softlink1-fname-to-ulb mdbgt_status_new 
+softlink1-fname-to-ulb mdbgt_testpush_new
+softlink1-fname-to-ulb mount_ext_usbs_mdb.sh 
+softlink1-fname-to-ulb sort-dot-git-directories-by-size 
+softlink1-fname-to-ulb testing_ghgl_status_mdb_new 
+softlink1-fname-to-ulb testing_ghgl_testpush_mdb_new
+softlink1-fname-to-ulb zig-clean 
+softlink1-fname-to-ulb ~/majstaf/majbin/seivom_clean 
+source .bashrc_nerd 
+source ~/majstaf/majrcs/bashrc_prompt_base_muadib 
+sudo ./Ventoy2Disk.sh -i /dev/sdb
+sudo apt instal gparted
+sudo chown -R rgregor: Tadeja_odstranitev-znamenja/
+sudo dmesg | grep c -i usb
+sudo dmesg | grepc -i usb
+sudo dmesg | grepc -i usb | less
+sudo find -type d -name "ext_"
+sudo find -type d -name "ext_*"
+sudo find -type d -name "ext_*2024"
+sudo find -type d -name "ext_*2025"
+sudo find -type d -name "ext_*WD"
+sudo find -type d -name "ext_*WD*"
+sudo pt instal gparted
+testing-ghgl--
+testing-ghgl--r
+testing-ghgl-status-mdb 
+testing_ghgl_status_mdb_new 
+tin):
+tmux
+tmux -f .tmux.conf
+tmux -f .tmux.conf 
+tmux -f .tmux_6_conf 
+tor
+touch brisime
+touch is_leap_year.zig
+tree --metafirst Tadeja_odstranitev-znamenja/
+tree -p Tadeja_odstranitev-znamenja/
+tree -pu Tadeja_odstranitev-znamenja/
+tree Tadeja_odstranitev-znamenja/
+type fm
+type gst
+type sbr
+type showifs
+type tmux
+type tmxns
+typoe showifs
+unzip 21-2008-english-yify-96978.zip 
+unzip north-by-northwest-1959-english-yify-240627.zip 
+unzip silent-running-1972-english-yify-140603.zip 
+unzip the-boys-from-brazil-1978-english-yify-138304.zip 
+unzip the-usual-suspects-1995-english-yify-124488.zip 
+v ./DRYRUN-rsync-muadib_WD_5Tb
+vi bashrc_prompt_base_muadib
+vlc A.Funny.Thing.Happened.on.the.Way.to.the.Forum.1966.mp4 &
+vlc Anora.2024.mp4 &
+vlc Beatles.64.2024.mp4 &
+vlc Coma.1978.mp4 &
+vlc Dear.Santa.2024.mp4 &
+vlc Demolition.Man.1993.720p.BRrip.x264.YIFY.mp4 &
+vlc Drop.Zone.1994.mp4 
+vlc Drop.Zone.1994.mp4 &
+vlc Elevation.2024.mp4 &
+vlc Havoc.2025.mp4 &
+vlc History.Of.The.World.Part.I.1981.mp4 &
+vlc Homesick.2015.mp4 &
+vlc Marathon.Man.1976.mp4 &
+vlc North.By.Northwest.1959.mp4 &
+vlc Queen.Of.The.Ring.2024.mp4 &
+vlc Salvable.2025.mp4 &
+vlc Sharp.Corner.2024.mp4 &
+vlc Silent.Running.1972.mp4 &
+vlc Silver.Skates.2020.mp4 &
+vlc The.Magnificent.Seven.1960.mp4 &
+vlc The.Sexual.Story.Of.O.1984.mp4 
+vlc The.Surfer.2024.mp4 &
+vlc The.Usual.Suspects.1995.mkv &
+vlc Weekend.In.Taipei.2024.mp4 &
+w
+wget https://raw.githubusercontent.com/r-gregor/majrcs_en/refs/heads/main/aliases_gredelonghi_en
+whereis .bashr*
+whereis .x*
+whereis .xinitrc
+whereis Xsess*
+whereis xsession
+whereis xsession_errors
+which fm
+which gst
+which sbr
+which tmux
+while read LINE; do echo ${LINE%%*[}; done
+while read LINE; do echo ${LINE%)}; done
+while read LINE; do echo ${LINE%*)}; done
+while read LINE; do echo ${LINE}; done
+while read LINE; do echo ${line%)}; done
+while read MV; do echo $MV; done < ~/majstaf/majmedia/deletes_for_MEDION.txt 
+while read MV; do if [[ -d ~/majstaf/majmedia/Seivom/$MV ]]; fi;then echo "$MV to be removed from torrents ..."; done < <(cat seznam)
+while read MV; do if [[ -d ~/majstaf/majmedia/Seivom/$MV ]]; then echo "$MV to be removed from torrents ..."; done < <(cat seznam)
+xcol definitions < <(grep -r multiple *)
+xcol definitions article < <(grep -r multiple *)
+xcol definitions article executable < <(grep -r multiple *) | less
+xcol pae fpu vme mhz sse2 cache cores /proc/cpuinfo
+xrandr | grep -i ' connected'
+xrandr | grep -i connected
+z .
+z tool
+zenity
+zenity --calendar
+zib build
+zib build.
+zig build -h
+zig build.zig
+zig run tuples_test.zig 
+zig-build
+~/majstaf/majbin/seivom_clean
+~/majstaf/majbin/subtitles/subs-correct current.srt -0.5
+# 20240824
+,l
+. bashrc_prompt_base_muadib 
+. clean_git_history.sh 
+. ~/.bashrc_nerd 
+./BrthReminder_c
+./BrthReminder_c_
+./BrthReminder_c_colors 
+./RUN-rsync-jbez0rg_WD_5Tb 
+./Ventoy2Disk.sh 
+./check_if_mvs_in_Seivom_and_Movies 
+./check_if_mvs_in_both_dirs.sh 
+./compare.sh 
+./mdbgit-multiple-repos-setup 
+./mdbgit-single-repo-setup 
+./mdbgit-single-repo-setup metsys
+/home/rgregor/majstaf/coding2/testing/c_testing/ct_141_timediff_20250521/bin/timediff 000000 235959
+/home/rgregor/majstaf/coding2/testing/c_testing/ct_141_timediff_20250521/bin/timediff 000000 235960
+/home/rgregor/majstaf/coding2/testing/c_testing/ct_141_timediff_20250521/bin/timediff 000000 240000
+/home/rgregor/majstaf/coding2/testing/c_testing/ct_141_timediff_20250521/bin/timediff 005544 235959
+/home/rgregor/majstaf/coding2/testing/c_testing/ct_141_timediff_20250521/bin/timediff 005544 595959
+/home/rgregor/majstaf/coding2/testing/zig_testing/zt_007_obletnica_z_20250325/obletnica_z/zig-out/bin/obletnica_z 
+/home/rgregor/majstaf/coding2/testing/zig_testing/zt_007_obletnica_z_20250325/obletnica_z/zig-out/bin/obletnica_z 2033
+/home/rgregor/majstaf/coding2/toolbox/c_toolbox/obletnica36/src/build/obletnica_36 
+/home/rgregor/majstaf/coding2/toolbox/c_toolbox/obletnica36/src/build/obletnica_36 2033
+/home/rgregor/majstaf/coding2/toolbox/c_toolbox/obletnica36/src/build/obletnica_36 233
+20250508_DELETEME
+:tmxks
+CD ../_podnapisi/
+CD 20241002/
+FM
+PTT="Raid" && grep "$PTT" ../_DOWNLOADED_MOVIES.txt 
+PTT="Red" && grep "$PTT" ../_DOWNLOADED_MOVIES.txt 
+PTT="Sofia"
+PTT="Uncle" && grep "$PTT" ../_DOWNLOADED_MOVIES.txt 
+PTT="Wim" && grep "$PTT" ../_DOWNLOADED_MOVIES.txt 
+SBR 
+alert
+alias | grep alert
+apt search clipmenu
+bash
+bash clean_git_history.sh 
+bash clean_git_history.sh metsys_mdb
+bash find-dups-in-metsys.sh
+bash find-dups-in-metsys.sh 
+bash find-dups-in-metsys.sh | grep -v NOT
+bash find-dups-in-metsys.sh | less
+bash mount_ext_usbs_mdb
+bash un-mount-ext-usbs_mdb_v2.sh 
+bin/dirlist_abs 
+bin/realpath_test
+bin/realpath_test_v2
+bin/realpath_test_v3
+bin/realpath_test_v4
+bin/realpath_test_v5
+bin/realpath_test_v5 
+bin/test_comparisons 
+bin/test_maketmstmp 
+bin/test_pathlen
+bin/test_pathlen2 
+bin/test_sort_structs
+bin/test_sort_structs_by_hypen-delimited-date 
+bin/test_stat_file_timestamp
+bin/test_stat_file_timestamp 
+bin/test_stat_file_timestamp ../Makefile 
+bin/test_stat_file_timestamp ../dir-for-testing/gregor-redelonghy-s-bithday_20220222.txt 
+bin/test_stat_file_timestamp KRNEKI 
+bin/test_stat_file_timestamp realpath_test_v5.c 
+bin/test_stat_file_timestamp test_pathlen2.c 
+c d ..
+c d../..
+c d_BRISI/danes
+car remotes_20250307 
+cat *.txt | frep YTS
+cat *.txt | grep "majstaf/media/Seivom/2"
+cat *.txt | grep "majstaf\/majmedia\/Seivom\/2"
+cat *.txt | grep "majstaf\/majmedia\/Seivom\/2" > _BRISI
+cat *.txt | grep -E "cp -r.*YTS"
+cat *.txt | grep YTS
+cat /home/rgregor/majstaf/BRISI/metsys_mdb/remotes_20250307 
+cat NAPOPVEDNIK.txt 
+cat _DOWNLOADED_MOVIES.txt | grep -v '---'
+cat _DOWNLOADED_MOVIES.txt | grep -v '\---'
+cat _DOWNLOADED_MOVIES.txt | grep -v ---
+cat majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+cat sen
+cat seznam 
+cat seznam_20241228 | grep -E ".*\)"
+cat seznam_20241228 | sed '/\(.*)\)/\1/p'
+cat seznam_20241228 | sed 's/\(.*)\).*/\1/'
+cat seznam_20241228 | sed 's/\(.*)\).*/\1/' | xargs -I{} mv -v /media/rgregor/E75F-1AEC/majmedia/Seivom/{} /media/rgregor/E75F-1AEC/remove_from_seivom/
+cat seznam_20241228 | sed 's/\(.*)\)/\1/'
+check_git_diffs_mdb majbin
+check_git_diffs_mdb seznam
+chmod 644 *
+chmod 755 binds_from_i3 
+chmod 755 check_if_mvs_in_Seivom_and_Movies_20241228 
+chmod 755 login_menu*
+chmod 755 logout_menu*
+chmod 755 mdbgt_status
+chmod 755 mdbgt_testpush
+chmod 755 testing_ghgl_status_mdb
+chmod 755 testing_ghgl_testpush_mdb
+chmod 755 volpejprsafler 
+clean_git_history knowledgedb
+cor
+cp -i ../../_DOWNLOADED_MOVIES.txt $MPRNS 
+cp -i ../_DOWNLOADED_MOVIES.txt $MPRNS/
+cp -i .bashrc_nerd .bashrc_base 
+cp -i _DOWNLOADED_MOVIES.txt ~/majstaf/majmedia/
+cp -i bashrc_muadib and /home/rgregor/majstaf/majrcs/bashrc_muadib $MMRCS 
+cp -i bashrc_muadib bashrc_prompt_bare_muadib $MMRCS 
+cp -i bashrc_prompt_* $MMRCS 
+cp -i bashrc_prompt_color_{jbez0rg,muadib}
+cp -i bashrc_prompt_nerd_jbe bashrc_prompt_nerd_muadib 
+cp -i bashrc_prompt_nerd_muadib ~/_MGT/majrcs_mdb/
+cp -i binds_from_i3 ~/_MGT/majbin_mdb/
+cp -i libfm/libfm.conf ~/_MGT/dotfiles_mdb/.config/libfm/
+cp -i mc/ini ~/_MGT/dotfiles_mdb/.config/mc/
+cp -i src/build/obletnica_36 .
+cp -i {DRY,}RUN-rsync-muadib_WD_5Tb 
+cp -i ~/.config/i3/config ~/.config/polybar/ ~/_MGT/dotfiles_mdb/.config/
+cp -i ~/majstaf/BRISI/danes/bashrc_prompt_nerd_jbez0rg ./bashrc_prompt_nerd_muadib
+cp -i ~/majstaf/majrcs/aliases_muadib ~/majstaf/mdbgit/majrcs_mdb/aliases_muadib
+cp -nv /media/rgregor/30c6cbae-b667-4505-87e2-1fe81278be05/muadib_backup/DRYRUN-rsync-* backup_SSD_SAMSUNG_EVO_500G_scripts_mdb/
+cp -nv /media/rgregor/30c6cbae-b667-4505-87e2-1fe81278be05/muadib_backup/RUN-rsync-* backup_SSD_SAMSUNG_EVO_500G_scripts_mdb/
+cp -r ../Movies/Cuban\ Fury\ \(2014\)/ /media/rgregor/1545-AB81/majmedia/Movies/
+cp -r ./* /home/rgregor/majstaf/BRISI/mdb-root_home_rgregor_majstaf_majbin/
+cp -r /home/rgregor/majstaf/coding2/testing/zig_testing/zt_007_obletnica_z_20250325/obletnica-z obletnica-z/build/
+cp -r Downloads/The\ Amateur\ \(2025\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r Downloads/The\ Shawshank\ Redemption\ \(1994\)/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r Dropbox/SKUPNI/HVAR\ 2024 ~/Documents/
+cp -r Greedy\ People\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ The\ Clean\ Up\ Crew\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240826/
+cp -r HVAR_2024 HVAR_2025
+cp -r In\ The\ Lost\ Lands\ \(2025\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Mickey\ 17\ \(2025\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Novocaine\ \(2025\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r Mata\ Hari\ \(1985\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ \[BluRay\]\ \[YTS.MX\]/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r North\ By\ Northwest\ \(1959\)\ \[BluRay\]\ \[720p\]\ \[YTS.AM\]/ Austin\ Powers\ -\ International\ Man\ of\ Mystery\ \(1997\)/ Beatles\ 64\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Elevation\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ The\ Magnificent\ Seven\ \(1960\)/ Dear\ Santa\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Weekend\ In\ Taipei\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20241208/
+cp -r Renner\ \(2025\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r The\ Sexual\ Story\ Of\ O\ \(1984\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r The\ Shawshank\ Redemption\ \(1994\)/ /media/rgregor/1545-AB81/majmedia/Movies/
+cp -r The\ Shawshank\ Redemption\ \(1994\)/ /media/rgregor/E75F-1AEC/majmedia/Movies/
+cp -r __metsys_STARO__/ $MMRCS 
+cp -r gobletu/ ~/majstaf/majprogs/external/
+cp -r i3_setup_2024/ polybar_setup_from_source_20241110.txt ~/majstaf/mdbgit/metsys_mdb/
+cp -r knowledgedb{,_BACKUP}
+cp -r obletnica_z/ ~/majstaf/coding2/toolbox/zig_toolbox/
+cp -r send_mail ~/_MGT/majbin_mdb/
+cp -r ~/.config/rofi/ ~/_M
+cp -r ~/.config/rofi/ ~/_MGT/dotfiles_mdb/.config/
+cp -r ~/.local/bin/ $BRISI/mdb-root_home_rgregor_dot-local_bin/
+cp -r ~/Documents/COPENHAGEN-MALMO/AVION/* .
+cp -r ~/Documents/COPENHAGEN-MALMO/NASTANITEV .
+cp -r ~/Downloads/Deadpool\ Wolverine\ \(2024\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/Kalki\ 2898\ AD\ \(2024\)\ \[AD.2024\]\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/
+cp -r ~/Downloads/Latency\ \(2024\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r ~/Downloads/Radical\ \(2023\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/Surrogates\ \(2009\)/ .
+cp -rn $SVM/* /media/rgregor/E75F-1AEC/majmedia/Seivom/
+cp -rn ./* ../../majvolpejpers_bob2/
+cp -rn ./* /media/rgregor/MEDION_sA/Seivom/
+cp -rn /media/rgregor/E75F-1AEC/majmedia/Seivom/
+cp -rn Kalki\ 2898\ AD\ \(2024\)/ /media/rgregor/EKSFAT/majmedia/Seivom/
+cp -rv Movies SLIKE/ TV_Shows/ Videos/ /media/rgregor/E75F-1AEC/majmedia/
+cp -rv Movies/ TV_Shows/ Videos/ /media/rgregor/E75F-1AEC/majmedia/
+cp ../../../_podnapisi/_NOVO/The-
+cp ../../../_podnapisi/_NOVO/sneakers-1992-english-yify-291987.zip .
+cp ../../../_podnapisi/_NOVO/sympathy-for-the-devil-2023-english-yify-569056.zip .
+cp .bashrc .bashrc_base
+cp .bashrc .bashrc_starship
+cp /home/rgregor/majstaf/mdbgit/prenos/jbegit-* .
+cp /media/rgregor/30c6cbae-b667-4505-87e2-1fe81278be05/jbez0rg_backup/DRYRUN-rsync-* backup_SSD_SAMSUNG_EVO_500G_scripts_jbe/
+cp /media/rgregor/30c6cbae-b667-4505-87e2-1fe81278be05/jbez0rg_backup/RUN-rsync-* backup_SSD_SAMSUNG_EVO_500G_scripts_jbe/
+cp Austin.Powers.International.Man.of.Mystery.1997.srt _original/
+cp HVAR_2024 HVAR_2025
+cp bashrc_muadib bashrc_prompt_bare_muadib $MMRCS 
+cp bashrc_prompt_* ~/majstaf/majrcs/
+cp bashrc_prompt_nerd_muadib{,.backup2}
+cp check_if_mvs_in_* ~/majstaf/majbin/
+cp check_if_mvs_in_Seivom_and_Movies_20241228.txt ~/majstaf/majmedia/
+cp check_if_mvs_in_Seivom_and_Movies_20241228.txt ~/majstaf/src_majbin/00_ukazi_mdb/
+cp dname-underscores-to-hypens-mdb dname-hypens-to-underscores-mdb 
+cp find-dups-in-metsys.sh $MPRNS 
+cp fname-underscores-to-hypens-mdb fname-hypens-to-unerscores-mdb
+cp login_menu* ~/majstaf/mdbgit/majbin_mdb/
+cp metsys_mdb/clean_git_history.sh .
+cp polybar_setup_from_source_20241110.txt i3_setup_2024/
+cp zig-out/bin/obletnica_z .
+cpi ../../_DOWNLOADED_MOVIES.txt $MPRNS/
+cpi deleted-movies-20250608.txt moved-from-seivom-to-movies-20250608.txt $MPRNS 
+cpi ~/.bashrc $MDTFJLS/
+cpi ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt $MPRNS 
+cpi ~/majstaf/majrcs/funclist $MMRCS/
+cups
+dif main.zig main-v1.zig 
+diff -q ./dotfiles_jbe/ ~/majstaf/mdbgit/dotfiles_mdb/
+diff -q ./dotfiles_jbe/ ~/majstaf/mdbgit/dotfiles_mdb/ | grep -vi "only\|common"
+diff -q ./dotfiles_jbe/ ~/majstaf/mdbgit/dotfiles_mdb/ | grep -vi only
+diff -q majbin_jbe/ ~/majstaf/majbin/
+diff -q majbin_jbe/ ~/majstaf/majbin/ | grep -i "Only in majbin_jbe"
+diff -q majbin_jbe/ ~/majstaf/majbin/ | grep -i "Only in majbin_jbe" | cut -d' ' -f4
+diff -q majbin_jbe/ ~/majstaf/majbin/ | grep -i "Only in majbin_jbe" | cut -d' ' -f4 | grep -v ".g"
+diff -q majbin_jbe/ ~/majstaf/majbin/ | grep -i majbin_jbe
+diff -q majbin_jbe/ ~/majstaf/majbin/ | grep -i only
+diff -q majbin_jbe/ ~/majstaf/majbin/ | grep differ
+diff -q majbin_jbe/ ~/majstaf/majbin/ | grep only
+diff -q majrcs_jbe/ ~/majstaf/majrcs/
+diff -q majrcs_jbe/ ~/majstaf/majrcs/ | grep -i "Only in majrcs_jbe"
+diff main.zig main-v1.zig 
+dpkg -l
+dpkg -l | grep -i cups
+du -sh /media/rgregor/EKSFAT/majmedia/Seivom
+duh ~/Downloads | head
+duh ~/Downloads/
+duh ~/Downloads/ | head
+echo "Gregor Redelonghi" | lower-to-upper 
+echo "Gregor Redelonghi" | lower-to-upper -
+echo "Gregor Redelonghi" | xargs lower-to-upper 
+echo $((2045 - 1968))
+echo $?
+echo 'The Shawshank Redemption (1994)' >> ../_DOWNLOADED_MOVIES.txt 
+echo [ -d "/media/rgregor/E75F-1AEC/majmedia/Seivom/The Electric State (2025)" ]
+echo [ -d /media/rgregor/E75F-1AEC/majmedia/Seivom/The Electric State (2025) ]
+echo \$MRCS/bashrc_
+echo \$MRCS/bashrc_*
+exo-open /usr/share/applications/arandr.desktop 
+exo-open /usr/share/applications/arandr.desktop & disown
+exo-open /usr/share/applications/arandr.desktop & disown exit
+exti
+fc -l
+fc -l 900 920
+file $(which logout_menu)
+find * -maxdepth 0 -type d -iname "*(*)*"
+find * -maxdepth 0 -type d -not -name "20240817"
+find * -maxdepth 0 -type d -not -name "_NOVO"
+find * -maxdepth 0 -type f | grep -v STAR
+find * -maxdepth 0 -type f | xargs -I{} cp -vn {} /media/rgregor/MEDION_sA/Seivom/
+find * -maxdepth 0 -type f | xargs -I{} softlink1-fname-to-ulb {}
+find * -type d -maxdepth 1
+find * -type d -maxdepth 1 > _DOWNLOADED_MOVIES.txt
+find * -type d maxdepth -1
+find * -type d | grep "_"
+find * -type f -maxdepth 0
+find * -type f -not -name "*\.txt"
+find * -type f -not -name "*\.txt" -a -not -name "*\.sh"
+find * -type f | grep "_"
+find -empty
+find -empty *
+find -iname "*morje*"
+find -iname "*naslov*txt"
+find -mtime +3
+find -name "* (*)*"
+find -name "* (*)*" | xargs -I{} mv -v {} _MOVIES/
+find -name "* \(*\)*"
+find -name "*(*)*"
+find -name "*\(*\)*"
+find -name "*xrandr*"
+find -name "*xrandr*" | fzf | uim
+find -name "*xrandr*" | uim
+find -name "*xrandr*20251118"
+find -size +50M
+find -type -f -iname "*tadeja*izvid*"
+find -type d -inam "*opus*"
+find -type d -iname "*avio*"
+find -type f
+find -type f -iname "*git*hist*"
+find -type f -iname "*rand*txt" | fzvm
+find -type f -iname "*tadeja*izvid*"
+find -type f -name "_DOW*"
+find -type f | grep "_"
+find /dev/disk/by-path -name "*-usb-*" -not -name "*-part*" -exec readlink -f {} \;
+find /dev/disk/by-path -name "*usb-*"
+find __metsys_STARO__/* -type f
+find __metsys_STARO__/* -type f | cut -d'/' -f2-
+find __metsys_STARO__/* -type f | cut d'/' -f2-
+find __metsys_STARO__/* -type f | cut d'\/' -f2-
+fm &
+fname-hypens-to-unerscores-mdb send-config-d.sh 
+for DDD in $(find * -type d | grep "_"); do echo mv $DDD ${DDD//_/-}; done
+for DDD in $(find * -type d | grep "_"); do mv $DDD ${DDD//_/-}; done
+for DDD in $(find * -type d | grep "_")Ž; do echo mv $DDD ${DDD//_/-}; done
+for F in *; do ./compare.sh $F; done
+for FFF $(find __metsys_STARO__/* -maxdepth 0 -type f); do echo $FFF; done
+for FFF $(find __metsys_STARO__/* -maxdepth 0 -type f); do find ~/majstaf/metsys/ -name $FFF; done
+for FFF in $(diff -q majbin_jbe/ ~/majstaf/majbin/ | grep -i "Only in majbin_jbe" | cut -d' ' -f4 | grep -v ".g"); do cp -i $FFF ~/majstaf/majbin/; done
+for FFF in $(diff -q majbin_jbe/ ~/majstaf/majbin/ | grep -i "Only in majbin_jbe" | cut -d' ' -f4 | grep -v ".g"); do cp -i ./$FFF ~/majstaf/majbin/; done
+for FFF in $(diff -q majbin_jbe/ ~/majstaf/majbin/ | grep -i "Only in majbin_jbe" | cut -d' ' -f4 | grep -v ".g"); do cp -i ./majbin_jbe/$FFF ~/majstaf/majbin/; done
+for FFF in $(find * -type f | grep "_"); do mv $FFF ${FFF//_/-}; done
+for FFF in $(find __metsys_STARO__/* -maxdepth 0 -type f); do FND=$(echo $FFF | cut -d'/' -f2-); if [ -f ./metsys/$FND ]; then echo $FND found; fi; done
+for FFF in $(find __metsys_STARO__/* -maxdepth 0 -type f); do FND=/$(echo $FFF | cut -d'/' -f2-); if [ -f ./metsys/$FND ]; then echo $FND dound; fi; done
+for FFF in $(find __metsys_STARO__/* -maxdepth 0 -type f); do FND=/$(echo $FFF | cut -d'/' -f2-); if [ -f ./metsys/$FND ]; then echo $FND found; fi; done
+for FFF in $(find __metsys_STARO__/* -maxdepth 0 -type f); do echo $FFF; done
+for FFF in $(find __metsys_STARO__/* -maxdepth 0 -type f); do find metsys/* -type f -name $(echo $FFF | cut -d'/' -f2-); done
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do diff -q $(echo $FFF | sed -e 's:mdbgit/::' -e 's:_mdb::') $FFF | grep -v Brth; done
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do diff -q $(echo $FFF | sed -e 's:mdbgit/::' -e 's:_mdb::') $FFF; done &> BRISI_LIST_20241127
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do diff -q $(echo $FFF | sed -e 's:mdbgit/::' -e 's:_mdb::') $FFF; done > BRISI_LIST_20241127
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do diff -q $(echo $FFF | sed -e 's:mdbgit/::' -e 's:_mdb::') $FFF; done | grep -v Brth | cut -d':' -f2
+for FFF in *; do echo mv $FFF ${FFF//-en/-mdb}; done
+for FFF in *; do mv $FFF ${FFF//-en/-mdb}; done
+for FFF in *; do softlink1-fname-to-ulb $FFF; done
+for FFF in *; doe echo $FFF; done
+for FFF in _*; do echo sed 's/xgd-open/exo-open/g' $FFF; done
+for FFF in _*; do echo sed -i 's/xgd-open/exo-open/g' $FFF; done
+for FFF in _*; do sed -i 's/xdg-open/exo-open/g' $FFF; done
+for FFF in _*; do sed -i 's/xgd-open/exo-open/g' $FFF; done
+for MV in $(cat _DOWNLOADED_MOVIES.txt | grep -v '\---'); do "${MV}"; done
+for MV in $(cat _DOWNLOADED_MOVIES.txt | grep -v '\---'); do "${MV}"; fi; done
+for MV in $(cat _DOWNLOADED_MOVIES.txt | grep -v '\---'); do echo "${MV}"; done
+for MV in $(cat _DOWNLOADED_MOVIES.txt | grep -v '\---'); do if [ ! -d "/media/rgregor/E75F-1AEC/majmedia/Seivom/${VM}" ]; then echo "${MV} not downloaded"; fi; done
+gf,
+git branch --set-upstream main
+git branch --set-upstream-to main
+git branch --set-upstream-to=main
+git branch --track main
+git branch -u main
+git clone "https://github.com/r-gregor/majbin_en.git"
+git clone https://github.com/gotbletu/fzf-nova.git
+git clone https://github.com/r-gregor/majrcs_en.git
+git clone https://github.com/r-gregor/majrcs_jbe.git
+git clone https://github.com/r-gregor/metsys_mdb.git
+git clone https://github.com/r-gregor/prenos.git
+git clone https://github.com/r-gregor/vlpprs_jbe.git
+git push -f glprns main 
+git push -h ghprns main 
+git push -h glprns main 
+git push ghkdb main -u
+git push ghprns main -u
+git remote -v >> remotes_20250307
+git remote add ghmdb	git@github.com:r-gregor/metsys_mdb.git
+git remote add ghprns git@github.com:r-gregor/prenos
+git status -b
+git status -sb
+git sttaus -b
+glog_status
+glog_status | less
+grep "$PTT" ../_DOWNLOADED_MOVIES.txt 
+grep $PTT ../_DOWNLOADED_MOVIES.txt 
+grep '\\W' *
+grep 'git-info' *
+grep -i demo _DOWNLOADED_MOVIES.txt 
+grep -i deno _DOWNLOADED_MOVIES.txt 
+grep -i mark ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+grep -i old ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+grep -i rene ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+grep -i sil _DOWNLOADED_MOVIES.txt 
+grep -i sofia ../_DOWNLOADED_MOVIES.txt 
+grep -i war _DOWNLOADED_MOVIES.txt 
+grep -ir border *
+grep -l '_' *
+grep -l 'git-info' *
+grep -l git-info *
+grep -r "majbin_\|majrcs_" *
+grep -r disown *
+grep -r logout *
+grep -r qsort *
+grep -r qsort * | grep --color cmp
+grep -r qsort * | grep -l --color cmp
+grep -rl cmp *
+grep -rl qsort *
+grep -rl qsort * | grep --color cmp
+grep -rl qsort * | xargs grep --color cmp
+grep CD *
+grep CDARGS *
+grep TRIM *
+grep git-info
+grep git-info *
+grep gmtime ../*
+grep nifs -A8 ~/majstaf/majrcs/funclist 
+grep xdg *
+grep xdg- *
+grep xdg-open *
+gst && git remote -v
+gst -sb
+gstđ
+help fc
+help fc >> majstaf/metsys/fc
+history >> ~/majstaf/metsys/polybar_setup_from_source_20241110.txt
+history | grep '../Movies/'
+history | grep '../Movies/' >> moved-from-seivom-to-movies-20250608.txt
+history | grep 'YTS'
+history | grep HEAD
+l | less
+less \$\{MRCS\}/bashrc_muadib
+less compare.sh 
+lmv ../../../_podnapisi/marked-men-2025-english-yify-1459493.zip .
+ln -s _NERAZPOREJENO/__DANES__/ .
+ln -s majstaf/BRISI/ _BRISI
+ln -s nord.conf theme.conf
+ln -s theme.conf nord.conf 
+ln majstaf/BRISI/ _BRISI
+login_menu
+lower-to-upper "Gregor Redelonghi"
+majstaf/majrcs/
+mdbgt-r
+mdbgt_status && mdbgt_testpush
+mdbgt_status_new && mdbgt_testpush_new 
+mkdir 
+mkdir -p $BRISI/mdb-root_home_rgregor_dot-local_bin
+mkdir -p /home/rgregor/majstaf/BRISI/mdb-root_home_rgregor_majstaf_majbin
+mkdir -p backup_SSD_SAMSUNG_EVO_500G_scripts_jbe
+mkdir -p backup_SSD_SAMSUNG_EVO_500G_scripts_mdb
+mkdir -p obletnica-z/build
+mkdir -p ruut/mdbgit2
+mkdir -p ~/majstaf/test2/test2/test3/test4/test5/test6/test7/test8/test9
+mkdir /media/rgregor/1545-AB81/majmedia/Seivom
+mkdir /media/rgregor/E75F-1AEC/remove_from_seivom
+mkdir 20240826
+mkdir 20240827
+mkdir 20241002
+mkdir 20241031_from-jbe
+mkdir 20250508_DELETEME
+mkdir 20250609
+mkdir BRISIME STARO
+mkdir MAJBINTMP
+mkdir _BRISI/danes
+mkdir _MOVIES
+mkdir _SPELA-PLES
+mkdir __from_git_20241216
+mkdir _original
+mkdir dotfiles_from_jbe
+mkdir external
+mkdir maps
+mkdir obletnica-z
+mkdir obletnica_z
+mkdir slike_2025
+mkdir support
+mkdir ~/majstaf/coding2/toolbox/zig_toolbox
+mousepad Documents/NASLOVI-ZA-VOSCILNICE_2016-12.txt
+mtnm
+mv 'The Shawshank Redemption 1994.720p.BRRip.x264.YIFY.mp4' 'The.Shawshank.Redemption.1994.mp4' 
+mv 'The Shawshank Redemption 1994.720p.BRRip.x264.YIFY.srt' 'The.Shawshank.Redemption.1994.srt' 
+mv -v majstaf/majprogs/external/go{,t}bletu/
+mv ../../../_podnapisi/marked-men-2025-english-yify-1459493.zip .
+mv ../../../_podnapisi/old-guy-2024-english-yify-1468746.zip .
+mv ../../../_podnapisi/the-endless-2017-english-yify-33011.zip .
+mv 00_ukazi_mdb/ bash_scipts
+mv 2012\ \(2009\)/ ../Movies/
+mv 20250309/Old\ Guy\ \(2024\)/ .
+mv Austin.Powers.International.Man.of.Mystery.1997.srt EN.srt
+mv Cuban\ Fury\ \(2014\)/ ../Movies/
+mv Deadpool\ Wolverine\ \(2024\)/ ../
+mv Deadpool\ Wolverine\ \(2024\){,\ no-subs}
+mv HVAR\ 2024/ HVAR_2024
+mv Kalki\ 2898\ AD\ \(2024\)/ ../
+mv Kalki\ 2898\ AD\ \(2024\)\ \[AD.2024\]\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ 20240827/
+mv MAJBINTMP/ $BRISI/
+mv Silver\ Skates\ \(2020\)/ ../Movies/
+mv Surrogates\ \(2009\)/ ../Movies/
+mv The\ Magnificent\ Seven\ \(1960\)/ ../Movies/
+mv The\ Thing\ \(1982\)/ ../Movies/
+mv Trouble\ With\ The\ Curve\ \(2012\)/ ../Movies/
+mv Walk\ the\ Line\ EXTENDED\ \(2005\)/ ../Movies/
+mv _BRISI ~/majstaf/majmedia/
+mv _DOWNLOADS.txt _DOWNLOADED_MOVIES.txt
+mv __metsys_STARO__/ ../metsys_mdb/
+mv __metsys_STARO__/ metsys/
+mv __metsys_STARO__/ ~/majstaf/support/
+mv bashrc_prompt_bare_{jbez0rg,muadib}
+mv check_if_mvs_in_Seivom_and_Movies_20241228{.txt,} 
+mv check_if_mvs_in_Seivom_and_Movies{_20241228,}
+mv dotfiles_from_jbe/ __from_git_20241216/
+mv from_en_20241216/ ~/majstaf/__from_git_20241216/
+mv from_en_20241216/majbin_en .
+mv from_en_20241216/majrcs_en/ ~/majstaf/__from_git_20241216/
+mv gobletu/ ../
+mv go{,t}bletu/
+mv knowledgedb_BACKUP{,2}
+mv majbin{_en,_from_en}
+mv majrcs{_,from_}en
+mv metsys/apps_setups/ support/
+mv metsys_mdb/ $BRISI 
+mv obletnica36/ obletnica_c
+mv obletnica_36 obletnica_c
+mv obletnica_{36,c}.c 
+mv obletnica_{36.c}.c 
+mv remove_from_seivom/ majmedia/
+mv scripting_mdb
+mv seznam{,_20250220}
+mv src/ build.zig* obletnica_z/
+mv src_majbin/ scripting_mdb
+mv support/ majstaf/
+mv theme.conf{,.backup}
+mv xcol{-,_}bash.sh 
+mv zig-out/bin/obletnica-z .
+mv {,i3_}config 
+mv {h,x}_en_CURRYR_podloge/
+mv {jbe,mdb}git-multiple-repos-setup 
+mv {jbe,mdb}git-single-repo-setup 
+mvol commit -a
+mvol commit -m "BIG update 20241001_mdb"
+mvol push ghmdb main -u
+nvol add .
+nvol status
+obletnica_36 
+obletnica_c 2023
+obletnica_c 2036
+obletnica_z 2034
+obletnica_z 2039
+obletnica_z 2045
+oifs
+ree
+s
+s2 "update majrcs_" "
+s2 "update majrcs_" """
+sbar
+sbrb
+sbrf
+scripting
+sleep 10 | alert
+softlink1-fname-to-ulb 
+softlink1-fname-to-ulb binds_from_i3 
+softlink1-fname-to-ulb login_menu
+softlink1-fname-to-ulb login_menu_dmn 
+softlink1-fname-to-ulb mdbgit-multiple-repos-setup 
+softlink1-fname-to-ulb mdbgit-single-repo-setup 
+softlink1-fname-to-ulb obletnica_c 
+softlink1-fname-to-ulb volpejprsafler 
+sort-dot-git-directories-by-size 
+subs-correct EN.srt -38
+sudd apt check git
+sudo apt check git
+sudo dpkg -l | grep -i gvfs
+sudo dpkg -l | grep polkit
+sudo umount -v /dev/sde1
+sudp apt check git
+suudo dpkg -l | grep polkit
+systemctl 
+systemctl --help
+systemctl --help | grep list
+systemctl --help | grep servic
+systemctl cups.service status
+systemctl status cups.service
+systemctl | grep -i cups
+tail -n15 ~/majstaf/majrcs/aliases_muadib
+tail -n3 ~/majstaf/mdbgit/majrcs_mdb/aliases_muadib
+tail -n3 ~/majstaf/mdbgit/majrcs_mdb/aliases_muadib >> send.txt
+tail -n4 ~/majstaf/mdbgit/majrcs_mdb/aliases_muadib > send.txt
+testing_ghgl_status_mdb_new && testing_ghgl_testpush_mdb_new 
+tmux --help
+tmux --version
+tmux -V
+tmux -v
+tmux -version
+tmux help
+tmux version
+todays-knowledgedb-files-mdb 20250407 1
+todays-knowledgedb-files-mdb 20250408 1
+touch README
+touch _TXT/BRISIME.txt
+touch ~/_MGT/knowledgedb/_TXT/BRISIME
+touch ~/_MGT/majrcs_mdb/BRISIME
+tree -L 1
+tree 202409[02]*
+tree NASTANITEV/
+tree bin
+tree obletnica
+tree obletnica_z/
+tree src/
+type mount_ext_usbs_mdb 
+type prompt_switch 
+type uim
+udiskctl mount -b /dev/sdc1
+un-mount_dev_sdas 
+un-mount_dev_sdds 
+unzip NASTANITEV.zip 
+unzip the-endless-2017-english-yify-33011.zip 
+vf Renner\ \(2025\)/
+vlc Austin.Powers.International.Man.of.Mystery.1997.mp4 &
+vlc Balestra\ \(2024\)/Balestra.2024.mp4 &
+vlc Deadpool.Wolverine.2024.mp4 &
+vlc Deep.Cover.2025.mp4 &
+vlc Greedy.People.2024.mp4 &
+vlc In.The.Lost.Lands.2025.mp4 &
+vlc Kalki.2898.AD.2024.AD.2024.mp4 &
+vlc Marked.Men.2025.mp4 &
+vlc Mickey.17.2025.mp4 &
+vlc Novocaine.2025.mp4 &
+vlc Pandorum.2009.mkv 
+vlc Picture.This.2025.mp4 
+vlc Renner.2025.mp4 &
+vlc Sneakers.1992.mp4 &
+vlc Surrogates.2009.mp4 &
+vlc Sympathy.For.The.Devil.2023.mp4 &
+vlc The.Amateur.2025.mp4 &
+vlc The.Boys.From.Brazil.1978.mp4 &
+vlc The.Clean.Up.Crew.2024.mp4 &
+vlc The.Endless.2017.mp4 &
+vlc The.Order.2024.mp4 &
+vlc The.Shawshank.Redemption.1994.mp4 &
+vlc The.Six.Triple.Eight.2024.mp4 &
+vlc The.Thing.1982.mkv 
+vlc Universal.Soldier.1992.mp4 &
+vlc Wolfs.2024.mp4 &
+wget "https://github.com/r-gregor/majrcs_mdb/blob/main/bashrc_prompt_nerd_muadib"
+wget "https://raw.githubusercontent.com/r-gregor/dotfiles_jbe/refs/heads/main/.config/i3/config"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/login_menu"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/login_menu_dmn"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/logout_menu"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/logout_menu_dmn"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/volpejprsafler"
+wget "https://raw.githubusercontent.com/r-gregor/majrcs_jbe/refs/heads/main/aliases_jbez0rg"
+wget "https://raw.githubusercontent.com/r-gregor/majrcs_jbe/refs/heads/main/bashrc_nerd_jbez0rg"
+wget "https://raw.githubusercontent.com/r-gregor/majrcs_jbe/refs/heads/main/bashrc_prompt_nerd_jbez0rg"
+wget "https://raw.githubusercontent.com/r-gregor/majrcs_jbe/refs/heads/main/bashrc_prompt_nerd_jbez0rg" -O bashrc_prompt_nerd_jbe
+wget "https://raw.githubusercontent.com/r-gregor/majrcs_jbe/refs/heads/main/funclist"
+wget "https://raw.githubusercontent.com/r-gregor/majrcs_mdb/refs/heads/main/bashrc_prompt_nerd_muadib"
+wget https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/binds_from_i3
+wget https://raw.githubusercontent.com/r-gregor/majrcs_en/refs/heads/main/bashrc_prompt_nerd_gredelonghi_en
+whereis lightdm.conf
+which logout_menu
+which mount_ext_usbs_mdb 
+which wmctrl
+while read MV; do echo "$MV"; done < <(cat _DOWNLOADED_MOVIES.txt | grep -v '\---')
+while read MV; do echo "/media/rgregor/E75F-1AEC/majmedia/Seivom/${MV}"; done < <(cat _DOWNLOADED_MOVIES.txt | grep -v '\---')
+while read MV; do if [ ! -d "/media/rgregor/E75F-1AEC/majmedia/Seivom/${MV}" ]; then echo "$MV not downloaded"; fi; done < <(cat _DOWNLOADED_MOVIES.txt | grep -v '\---')
+while read MV; do if [ ! -d /media/rgregor/E75F-1AEC/majmedia/Seivom/$MV ]; then echo "$MV not downloaded"; fi; done < <(cat _DOWNLOADED_MOVIES.txt | grep -v '\---')
+while read MV; do if [ ! -d /media/rgregor/E75F-1AEC/majmedia/Seivom/${MV} ]; then echo "$MV not downloaded"; fi; done < <(cat _DOWNLOADED_MOVIES.txt | grep -v '\---')
+while read MV; do if [[ -d ~/majstaf/majmedia/Seivom/$MV ]]; then echo "$MV to be removed from torrents ..."; fi; done < <(cat seznam)
+while read line do; ./compare.sh $line; done
+while read line do; ./compare.sh $line; done MEAB
+while read line do; echo $line; done
+zig run time_stamp_test.zig 
+zig-out/bin/obletnica-z 
+zig-out/bin/obletnica-z 2033
+~/majstaf/majbin/subtitles/subs-correct Austin.Powers.International.Man.of.Mystery.1997.srt +4
+~/majstaf/majbin/subtitles/subs-correct EN.srt 
+~/majstaf/majbin/subtitles/subs-correct EN.srt +4
+čč -t
+--l
+../git-project-setup 
+./DRYRUN-rsync-muadib_WD_5Tb 
+./build/ioctl_test_v1 
+./build/ioctl_test_v2 
+./f_logout_menu 
+./floatings
+./floatings_dmn 
+./floatings_rofi 
+./new-project-setup 
+./todays_knowledgedb_files_mdb 2
+./todays_knowledgedb_files_mdb 20250301 1
+./todays_knowledgedb_files_mdb 20250303 1
+./todays_knowledgedb_files_mdb 20250304 1
+./todays_knowledgedb_files_mdb 20250304 23
+./todays_knowledgedb_files_mdb_ 20250304 23
+./todays_knowledgedb_files_mdb_v2 1
+./todays_knowledgedb_files_mdb_v2 20250303 1
+./todays_knowledgedb_files_mdb_v2 20250303 15
+./todays_knowledgedb_files_mdb_v2 20250303 8
+./todays_knowledgedb_files_mdb_v2 20250304 
+./todays_knowledgedb_files_mdb_v2 20250304 15
+./todays_knowledgedb_files_mdb_v2 20250304 23
+./todays_knowledgedb_files_mdb_v2 2025030�4 2
+./todays_knowledgedb_files_mdb_v2 2025030�4 23
+./todays_knowledgedb_files_mdb_v2 20250502 8
+./todays_knowledgedb_files_mdb_v2 20250504 23
+./todays_knowledgedb_files_mdb_v2 exit
+/media/rgregor/EKSFAT/DRYRUN-rsync-muadib_WD_5Tb 
+/media/rgregor/EKSFAT/DRYRUN-rsync-muadib_WD_5Tb | grep SLIKE
+/media/rgregor/EKSFAT/RUN-rsync-muadib_WD_5Tb
+/var/lib/AccountsService/users/
+:Q
+File
+Files
+LTR=
+LTR=h
+LTR=i
+LTR=j
+LTR=k
+LTR=l
+LTR=m
+LTR=n
+LTR=o
+LTR=p
+LTR=q
+LTR=r
+LTR=s
+LTR=t
+LTR=u
+LTR=v
+LTR=w
+LTR=x
+LTR=y
+_ ../_AWK_SED{,_GREP}
+_get_
+bash --version
+bash mount_ext_usbs_mdb.sh 
+batmon
+battmon
+bin/main7 
+bin/main7 | less
+bin/mult_spcs_as_one 
+cat /proc/partitions
+cat /sys/block
+cat /sys/block/*
+cat /usr/share/xsessions/
+cat Drazen.2024.720p.WEBRip.x264.AAC-\[YTS.MX\].srt
+cat The.Abyss.1989.srt 
+cat _DOWNLOADED_MOVIES.txt | grep -v "---"
+cat _DOWNLOADED_MOVIES.txt | grep -v "\---"
+cat config 
+cat seznam_20241228
+check_git_diffs_mdb prenos
+chmod 7 new-project-setup 
+chmod 755 floatings*
+chmod 755 get_mdbdiffs
+chmod 755 todays_knowledgedb_files_*
+chmod 775 *
+chmod 775 new-project-setup 
+chmos 755 *
+cmake ..
+cp -i ../_DOWNLOADED_MOVIES.txt /home/rgregor/majstaf/mdbgit/prenos/
+cp -i ../_DOWNLOADED_MOVIES.txt /media/rgregor/E75F-1AEC/majmedia/
+cp -i .bashrc ~/majstaf/mdbgit/dotfiles_mdb/
+cp -i /home/rgregor/majstaf/majrcs/bashrc_prompt_nerd_muadib ~/_MGT/majrcs_mdb/
+cp -i DRYRUN-rsync-jbez0rg_WD_5Tb RUN-rsync-jbez0rg_WD_5Tb 
+cp -i Subs/English.srt ./Companion.2025.srt 
+cp -i floatings* ~/majstaf/mdbgit/majbin_mdb/
+cp -i get_mdbdiffs ~/majstaf/mdbgit/majbin_mdb/
+cp -i logout_menu* ~/_GTM/majbin_mdb/
+cp -i majstaf/majmedia/_DOWNLOADED_MOVIES.txt /media/rgregor/EKSFAT/majmedia/
+cp -i volpejprsafler ~/_GTM/majbin_mdb/
+cp -i ~/.config/i3/config ~/_GTM/dotfiles_mdb/.config/i3/
+cp -i ~/majstaf/majbin/binds_from_i3 ~/majstaf/mdbgit/majbin_mdb/
+cp -i ~/majstaf/majbin/floatings_dmn ~/_MGT/majbin_mdb/
+cp -ir The\ Abyss\ \(1989\)/ /media/rgregor/1545-AB81/majmedia/Movies/
+cp -r ./* /home/rgregor/majstaf/BRISI/prenos2/
+cp -r Cuban\ Fury\ \(2014\)/ ~/majstaf/majmedia/Seivom/
+cp -r Downloads/Mad\ About\ Mambo\ \(2000\)\ \[1080p\]\ \[WEBRip\]\ \[5.1\]\ \[YTS.MX\]/ majstaf/majmedia/Seivom/20250302/
+cp -r Vuk\ Samotnjak\ \(1972\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ Virtuosity\ \(1995\)/ ~/majstaf/majmedia/Seivom/20250301/
+cp -r ~/Downloads/Companion\ \(2025\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ 20250220/
+cp -r ~/Downloads/Tootsie\ \(1982\)/ .
+cp -r ~/_MGT/prenos/NERD_fonts_20241013/ ~/Downloads/
+cp -rn Wind\ River\ \(2017\)\ \[YTS.AG\]/ ~/majstaf/majmedia/Seivom/20240817/
+cp -rn ~/majstaf/majmedia/Seivom/* /media/rgregor/1545-AB81/majmedia/Seivom/
+cp ../../../_podnapisi/_NOVO/The.Last.Spark.Of.Hope.2023.720p.BluRay.x264.AAC-\[YTS.MX\]-en.srt .
+cp .config/i3/config ~/_GTM/dotfiles_mdb/.config/i3/
+cp .config/starship.toml* ~/majstaf/mdbgit/dotfiles_mdb/.config/
+cp /etc/polybar/config.ini .
+cp en-subs/hrv.srt .
+cp ioctl_test_v{1,2}.c 
+cp knowledgedb/.gitignore dotfiles_mdb/
+cp testing_ghgl_testpush_mdb{,.backup} 
+cp {new,git}-project-setup 
+cp ~/Downloads/polybar-3.7.2.tar.gz 
+cp ~/Downloads/polybar-3.7.2.tar.gz .
+cp ~/_MGT/prenos/move_build_to_bin.sh c_testing/
+cp ~/_MGT/prenos/rename_build_to_bin_20250202.sh c_testing/
+dmenu help 
+dmenu_run -fn 'Iosevka 12'
+dmenu_run -fn 'Iosevka 12' -l 10
+duh ~/majstaf/majmedia/Seivom/
+echo "."
+echo $(basename $PWD)
+echo $EDITOR
+echo $PWD
+echo $TERM
+echo $TERMINAL
+echo .
+f_majsettingsmenu 
+fd
+fd alias
+fd aliases
+fd app
+fd fi
+fd gred
+fd majr
+fd majrc
+fd red
+find * -maxdepth 0 -type d | grep -v 202412
+find * -maxdepth 0 -type d | grep -v 202412 | xargs -I{} cp -rn {} /media/rgregor/MEDION_sA/Seivom/
+find * -maxdepth 0 -type d | grep -v 202412 | xargs -I{} cp -rnv {} /media/rgregor/E75F-1AEC/majmedia/Seivom/
+find * -maxdepth 0 -type d | grep -v 202412 | xargs -I{} cp -rnv {} /media/rgregor/MEDION_sA/Seivom/
+find * -maxdepth 0 type f
+find * maxdepth 0 -type d | grep -v 2024
+find -iname "*bon*"
+find -iname "*disp*"
+find -iname "*monit*"
+find -iname "*rand*"
+find -iname "*scree*"
+find -iname "ubuntu*18*"
+find -iname "ubuntu*18-*"
+find -name "*.jp*g"
+find -name "*.mp4"
+find -name "*SLIKE*.jp*g"
+find -name "*SLIKE*jp*g"
+find -name "*debian*"
+find -name "*debian*" | grep -v '_DEBIAN'
+find -name "*jp*g"
+find -name "*jp*g" | grep SLIKE
+find -name "*jp*g" | grep SLIKE | grep Barcelona
+find -name "*jp*g" | grep SLIKE | grep Barcelona | fzvmp
+find -name "*jp*g" | grep SLIKE | grep barcelona
+find -name "move*"
+find -name "move_bui*"
+find -name "rename_*"
+find -name "rename_bin*"
+find -name "rename_build*"
+find -type d -name "*ext_*"
+find -type d -name "*ext_*" | less
+find -type d -name "*ext_/"
+find -type d -name "*ext_/*"
+find -type d -name bin
+find -type f -iname "*rand*txt"
+find ~/majstaf/mdbgit/majbin_mdb/ -type f
+floatings
+floatings_rofi 
+for DDD in $(find -type d -name bin); do echo mv -v $DDD ${DDD//bin/build}; done
+for DDD in $(find -type d -name bin); do mv -v $DDD ${DDD//bin/build}; done
+for FFF $(find * -maxdepth 0 -type f); do find ~/majstaf/metsys/ -name $FFF; done
+for FFF in $(find -type f -name Makefile); do echo $FFF; done
+for FFF in $(find -type f -name Makefile); do echo &FFF; done
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do diff -q $(echo $FFF | sed 's:mdbgit/::') $FFF; done
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do diff -q $(echo $FFF | sed -e 's:mdbgit/::' 's:_mdb::') $FFF; done
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do diff -q $(echo $FFF | sed -e 's:mdbgit/::' -e 's:_mdb::') $FFF; done
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do diff -q $(echo $FFF | sed -e 's:mdbgit/::' -e 's:_mdb::') $FFF; done | grep -v Brth
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do echo "diff -q $(echo $FFF | sed -e 's:mdbgit/::' -e 's:_mdb::') $FFF"; done
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do echo $FFF; done
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do echo diff -q $(echo $FFF | sed 's:mdbgit/::') $FFF; done
+for FFF in $(find ~/majstaf/mdbgit/majbin_mdb/* -type f); do echo diff -q /home/rgregor/majstaf/mdbgit/majbin_mdb/$(echo $FFF | sed 's:mdbgit/::') $FFF; done
+for FFF in *; do DDD="${FFF//.zip/}"; mkdir $DDD; cp -v $FFF $DDD/; done
+for FFF in *; do echo "${FFF//.zip/}"; done
+for FFF in _yts_torrents/*; do compare $FFF; done
+for FFF in _yts_torrents/*; do echo $FFF; done
+for FFF in floatings*; do softlink1-fname-to-ulb $FFF; done
+fst
+fzf
+gas
+get_mdbdiffs
+get_mdbdiffs | grep diff
+get_mdbdiffs | grep home
+get_mdbdiffs | grep home | cur -d '/' -f6
+get_mdbdiffs | grep home | cut -d '/' -f6
+get_mdbdiffs | grep home | cut -d '/' -f6-
+get_mdbdiffs | grep home | cut -d '\/' -f6-
+get_mdbdiffs | grep home | cut -d"/" -f5
+get_mdbdiffs | grep home | cut -d'/' -f5
+get_mdbdiffs | grep home | cut -d'/' -f5-
+get_mdbdiffs | grep home | cut -d'/' -f6-
+get_mdbdiffs | grep home | cut -d'\\/' -f6-
+get_mdbdiffs | grep home | grep -v spaces
+get_mdbdiffs | grep home | grep RUN
+get_mdbdiffs | grep home | sed "s:/home/rgregor/majstaf/majbin/::"
+get_mdbdiffs | grep home | sed 's:/home/rgregor/majstaf/majbin/::'
+get_mdbdiffs | grepo diff
+ghgl_push_mdb
+git add .gitignore 
+git add BRISIME 
+git branch 
+git commit -m "added .gitignore 20240822_2003_mdb"
+git commit -m "cleabup-2 "
+git push -f ghprns main -u
+git push ghmdb main -u
+git remote add ghprns git@github.com:r-gregor/prenos-git
+git remote add ghprns git@github.com:r-gregor/prenos.git
+git remote add ghprns git@github:r-gregor/prenos-git
+grep '${mdb}' *
+grep '_mdb' * | grep --color -v '#'
+grep '_mdb' * | grep -v '#' | grep --color '_mdb'
+grep '_mdb' * | grep -v '#' | grep --color -l '_mdb'
+grep --color '_mdb' *
+grep --color '_mdb' * | grep --color -v '#'
+grep -A 5 reloa ~/.config/i3/config 
+grep -i compa _DOWNLOADED_MOVIES.txt 
+grep -i gor _DOWNLOADED_MOVIES.txt 
+grep -i romu ../_DOWNLOADED_MOVIES.txt 
+grep -i sub ../../../_DOWNLOADED_MOVIES.txt 
+grep -i sub ../../_DOWNLOADED_MOVIES.txt 
+grep -i sur ../../../_DOWNLOADED_MOVIES.txt 
+grep -i wolf _DOWNLOADED_MOVIES.txt 
+grep -v '#' * | grep --color '_mdb'
+grep 2024 _DOWNLOADED_MOVIES.txt 
+grep DIRTR
+grep re ~/.config/i3/config 
+grep vlp *
+hwinfo --disk --short
+i3 --version
+jobs
+l -t | head
+less DISKS_20191226.txt 
+less The.Abyss.1989.srt
+less backup_rgregor_HP.onl.txt 
+lf
+ln -s test-1.1/ test
+ln -s ~/majstaf/majbin/ _MBM
+ln -s ~/majstaf/mdbgit/ _GT
+ln -snf go-1.23.0/ go
+mkdir -P $BRISI/prenos2
+mkdir -p majstaf/majmedia/Seivom/20250302
+mkdir -p majstaf/metsys/i3_setup_2024
+mkdir -p ~/majstaf/majmedia/Seivom/20250226
+mkdir 20241031
+mkdir 20241224
+mkdir 20250220
+mkdir 20250226
+mkdir 20250301
+mkdir Downloads_cugr_en cygwin_hgr_en h_en_energetika h_en_CURRY_podloge cugr_myprogs_en
+mkdir ct_999_ioctl_testing_20250127
+mkdir cugr
+mkdir ext_WD_5Tb
+mkdir ext_backup_scripts
+mkdir originali
+mkdir polybar_build_20241110
+mkdir prenos2
+mkdir test-1.1
+mkdir test-git-project
+mkdir todays_knowledgedb
+mkdir zt_ZIGLINGS
+mkdur polybar_build
+mv "Virtuosity 1995 BluRay 720p 700MB Ganool-English.srt" En.srt
+mv -i Companion\ \(2025\)/ ../
+mv -i The\ Core\ \(2003\)/ ../Movies/
+mv -v 20240908/* .
+mv ../../../_podnapisi/cuban-fury-2014-english-yify-54219.zip .
+mv ../../../_podnapisi/the-abyss-1989-english-yify-375177.zip .
+mv ../../../_podnapisi/the-abyss-1989-english-yify-376313.zip .
+mv ../../../_podnapisi/virtuosity-1995-english-yify-1430260.zip .
+mv ../Seivom/The\ Abyss\ \(1989\)/ .
+mv ../_AWK_SED{,_GREP}
+mv ./* $BRISI/prenos2/
+mv 20240817/Wind\ River\ \(2017\)/ .
+mv 20240902/* fmeo/
+mv 20250302/Mad\ About\ Mambo\ \(2000\)/ .
+mv Alien\ Romulus\ \(2024\)/ ../
+mv Cuban\ Fury-English.srt Eng.srt
+mv Cuban\ Fury\ \(2014\)/ 20250226/
+mv Diabolik\ * Radical\ \(2023\)/ ../
+mv Latency\ \(2024\)/ ../
+mv Subs/English\ \[SRT\].eng.srt ./En.srt
+mv Survive\ \(2024\)/ ../
+mv The.Brutalist.2024.srt En_original.srt
+mv The\ Abyss\ \(1989\)/ ../
+mv The\ Substance\ \(2024\)/ ../
+mv Wind\ River\ \(2017\){, uncorrected_subs}
+mv Wind\ River\ \(2017\){,\ uncorrected_subs}
+mv _GT _GTJ
+mv _GT{J,M}
+mv _MBM _MBN
+mv _MGT _GTM
+mv bin/* .
+mv build/obletnica_z/obletnica_z .
+mv c-void-pointer-2-{20220531,20250604}.txt 
+mv cp -
+mv cugr_myprogs_en myprogs_cugr_en
+mv cugr{,_en}
+mv get_endiffs.txt get_mdbdiffs
+mv get_endiffs.txt ~/majstaf/majbin/
+mv get_mdbdiffs{,_backup} 
+mv go go-1.12.0
+mv go-1.23.0/ ~/majstaf/majprogs/
+mv go-1.{12,23}.0
+mv grep_* ../_AWK_SED_GREP/
+mv howto_configure-* ../_LINUX_SYSTEM/
+mv howto_list-startup-services-at-boot_20200910.txt ../_LINUX_SYSTEM/
+mv ioctl_test_v1.c src/
+mv login_menu f_logout_menu
+mv login_menu_dmn d_logout_menu
+mv majrcs{,_}from_en/
+mv obletnica_z/obletnica_z .
+mv obletnica_z{_new,}
+mv show_exports_{en,mdb} 
+mv test-git-project/ majstaf/dev/
+mv todays_konwledgedb_files{,_mdb}
+mv todays_k{on,no}wledgedb_files_mdb 
+mv {,g}yes_gadd_push_jbe 
+mvol commit -m "update 20241003_2116_mdb"
+nv todays_k{on,no}wledgedb_files_mdb 
+obletnica_36 2033
+polybar &
+polybar -c ~/.config/polybar/config.ini
+polybar -c ~/.config/šp
+polybar -r
+polybar bar -c ~/.config/polybar/
+polybar bar1
+ps aux
+ps aux | grep -i thunar
+ps aux | grep -i tri
+ps aux | grep -i tril
+ps aux | grep atr
+ps aux | grep atril
+pw3
+remote
+remote -v
+rename-to-basename-with-new-ext Cuban\ Fury-English.srt Cuban.Fury.2014.mp4 
+rename-to-basename-with-new-ext En.srt The.Convert.2023.mp4 
+rename-to-basename-with-new-ext Eng.srt Cuban.Fury.2014.mp4 
+rename-to-basename-with-new-ext English.srt The.Brutalist.2024.mp4 
+rename-to-basename-with-new-ext The.Abyss.1989.REPACK.720p1080p.BluRay.x264.AAC-\[YTS.MX\]-English.srt The.Abyss.1989.mp4 
+sed 's/\([^"]*"[^"]*"\).*\(>.*<\/A>\)/\1\2/' ff-mdb_bookmarks_20250201.html | grep -E "https://.* ADD"
+sed 's/\([^"]*"[^"]*"\).*\(>.*<\/A>\)/\1\2/' ff-mdb_bookmarks_20250201.html | grep -E "https://.*ADD"
+softlink1-fname-to-ulb show_exports_mdb
+sudo apt autoclean
+sudo apt search i3 | grep block
+sudo apt show 13
+sudo apt show i3-block
+sudo apt show i3-blocks
+sudo apt show i3-wm
+sudo apt-cache search lf
+sudo apt-cache search lf | grep ^lf
+sudo chown -R rgregor: /media/rgregor/MEDION_sA/Seivom
+sudo synaptic-pkexec 
+tar xvzf go1.23.0.linux-amd64.tar.gz 
+tar xvzf polybar-3.7.2.tar.gz 
+tm *.zip
+tm The.Convert.2023.srt 
+touch BRISIME
+touch BRISIME STARO
+tree 20240*
+tree 20240817/
+tree majstaf
+tree majstaf/
+trww
+uname -a
+unzip ComicShannsMono.zip 
+unzip FiraCode.zip 
+unzip Gohu.zip 
+unzip Mononoki.zip 
+unzip help
+unzip the-abyss-1989-english-yify-375177.zip 
+unzip the-abyss-1989-english-yify-376313.zip 
+vl Alien.Romulus.2024.mp4 &
+vlc /home/rgregor/Downloads/Radical\ \(2023\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/Radical.2023.720p.BluRay.x264.AAC-\[YTS.MX\].mp4 &
+vlc A.Complete.Unknown.2024.mp4 &
+vlc Alien.Romulus.2024.mp4 &
+vlc Copenhagen.2002.mp4 &
+vlc Cuban.Fury.2014.mp4 &
+vlc Deep.Blue.Sea.1999.mp4 &
+vlc Drazen.2024.mp4 &
+vlc Mad.About.Mambo.2000.mp4 &
+vlc Obi-Wan.Kenobi.2022.mp4 &
+vlc Out.Of.Darkness.2022.mp4 &
+vlc Radical.2023.mp4 &
+vlc Survive.2024.mp4 &
+vlc The.Abyss.1989.mp4 &
+vlc The.Brutalist.2024.mp4 &
+vlc The.Convert.2023.mp4 &
+vlc The.Fix.2024.mp4 &
+vlc The.Last.Spark.Of.Hope.2023.mp4 &
+vlc The.Penguin.Lessons.2024.mp4 &
+vlc The.Substance.2024.mp4 &
+vlc This.Means.War.2012.mp4 &
+vlc Unstoppable.2010.mp4 
+vlc Venom.The.Last.Dance.2024.mp4 &
+volumeicon 
+wget "https://raw.githubusercontent.com/r-gregor/majbin_en/refs/heads/main/todays_knowledgedb_files_en"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/floatings"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/floatings_dmn"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/floatings_rofi"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/refs/heads/main/todays_konwledgedb_files"
+wget https://raw.githubusercontent.com/r-gregor/dotfiles_jbe/refs/heads/main/.config/polybar/config.ini
+wget https://raw.githubusercontent.com/r-gregor/majbin_en/cf0d75c17b724892333af8a700280e40587a2a03/show_exports_en
+whereid dmenu
+whereis dmenu
+which go
+wimctrl -l
+wmctrl -l | awk '{OFS="\t" print $3, $4}'
+wmctrl -l | awk '{OFS="\t"} {print $3, $4}'
+wmctrl -l | awk '{OFS="\t\t"} {print $3, $4}'
+wmctrl -l | awk '{print $3 $4}'
+wmctrl -l | awk -OFS '    ' '{print $3, $4}'
+wmctrl -l | awk -OFS '\t' '{print $3, $4}'
+wmctrl -l | awk -OFS='    ' '{print $3, $4}'
+"2039 - 1968" | bc -l
+$((2039 - 1968))
+$(bc -l "2039 - 1968")echo 
+./RUN-rsync-muadib_WD_5Tb 
+./compare.sh "One Day as a Lion (2023) [720p] [WEBRip] [YTS.MX].torrent"
+./d_logout_menu 
+./fname-to-lower-with-hypens
+./fname-to-lower-with-hypens "$STR"
+./fname-to-lower-with-hypens $STR MAMA
+./fsplit_en 
+./fzf-speed 
+./string-lower-to-upper
+./string-spaces-to-hypens "$STR"
+./string-spaces-to-hypens "A string with soaces.txt"
+./string-spaces-to-hypens $STR
+./string-spaces-to-hypens ${STR}
+./todays_knowledgedb_files_mdb_v2 20250301 23
+./todays_knowledgedb_files_mdb_v2 20250301 25
+./todays_knowledgedb_files_mdb_v2 20250303 12
+./todays_knowledgedb_files_mdb_v2 20250304 1
+./todays_knowledgedb_files_mdb_v2 20250304 21
+./todays_knowledgedb_files_mdb_v2 20250305 1
+./todays_knowledgedb_files_mdb_v2 20250305 18
+./todays_knowledgedb_files_mdb_v2 20250308 8
+.local/bin/yt-dlp 
+/home/rgregor/majstaf/coding2/testing/zig_testing/zt_007_obletnica_z_20250325/obletnica-z/zig-out/bin/obletnica-z
+/home/rgregor/majstaf/coding2/testing/zig_testing/zt_007_obletnica_z_20250325/obletnica-z/zig-out/bin/obletnica-z 2033
+/media/rgregor/30c6cbae-b667-4505-87e2-1fe81278be05/muadib_backup/DRYRUN-rsync-muadib_SSD_SAMSUNG_EVO_500G 
+/media/rgregor/SanDisk_128/
+/sling
+FFF=fname_4-spaces-to-tabs 
+FFF=string_spaces-to-underscores 
+FFF=string_upper-to-lower 
+STR="A filename with spaces.txt"
+STR="Just some    String with spaces .txt"
+STR="Just some    string with SpApCeS   .txT"
+STR="Just some string with SpApCeS .txT"
+XPROP
+apt shoe polybar
+apt show polybar
+b
+bash SEZNAM 
+bc -l "2039 - 1968"
+bc -l "2039 - 1968" | echo
+bc -l 2039 - 1968
+bin/obletnica-c 
+bin/vector_test
+bin/vector_test 
+bin/vector_test_v1 
+bin/vector_test_v2
+bin/vector_test_v2 
+broken-symlinks-list >> REMOVE
+broken-symlinks-list >> SEZNAM
+c Beatles\ 64\ \(2024\)/
+cat MAJNIKI_MOVIES.txt 
+cat _movies-list_20240618.txt 
+cat env 
+cat xrandr_scale_settings_20241129.txt
+cat {}
+cat ~/majstaf/seznami/neofetch_output_20240901.txt
+chmod 755 compare.sh 
+chmod 755 compare.sh ¸
+chmod 755 config
+chmod 755 config.ini
+chmod 755 fsplit_en 
+cp -i * ~/Dropbox/KNOWLEDGEBASE/knowledge_PDFs/_Debian/
+cp -i ../_DOWNLOADED_MOVIES.txt /media/rgregor/MEDION_sA/majmedia/
+cp -i c_howto_implement-vector_20240819.txt ~/_NERAZPOREJENO/
+cp -i config ~/.config/polybar/config
+cp -i d_logout_menu f_logout_menu broken_symlinks_list ~/_GTM/majbin_mdb/
+cp -i majstaf/majrcs/aliases_muadib $MMRCS 
+cp -i majstaf/majrcs/bashrc_muadib /home/rgregor/majstaf/mdbgit/majrcs_mdb/bashrc_muadib
+cp -i majstaf/majrcs/bashrc_prompt_nerd_muadib* ~/majstaf/majrcs/
+cp -i majstaf/majrcs/bashrc_prompt_nerd_muadib* ~/majstaf/mdbgit/majrcs_mdb/
+cp -i ~/majstaf/majrcs/bashrc_prompt_nerd_gredelonghi_en .
+cp -i ~/majstaf/majrcs/bashrc_prompt_nerd_muadib ~/_MGT/majrcs_mdb/
+cp -r *YTS* ~/majstaf/majmedia/Seivom/20240901/
+cp -r Slingshot\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ The\ Invisibles\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Chandu\ Champion\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ You\ Dont\ Mess\ with\ the\ Zohan\ \(2008\)/ Blink\ Twice\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240918/
+cp -r Subservience\ \(2024\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ Uglies\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20241002/
+cp -r The\ Accountant\ 2\ \(2025\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Copenhagen\ \(2002\)\ \[480p\]\ \[DVDRip\]\ \[YTS.MX\]/ Drazen\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -r Wind\ River\ \(2017\)\ \[YTS.AG\]/ ~/majstaf/majmedia/Seivom/20240817/
+cp -r ~/Downloads/2012\ \(2009\)/ /home/rgregor/majstaf/majmedia/Seivom/_NOVO/
+cp -rnv ./* /media/rgregor/E75F-1AEC/majmedia/Seivom/
+cp -rv Seivom/ /media/rgregor/E75F-1AEC/majmedia/
+cp /home/rgregor/majstaf/coding2/testing/c_testing/ct_139_obletnica_20250115/Makefile .
+cp /home/rgregor/majstaf/coding2/testing/c_testing/ct_139_obletnica_20250115/obletnica-c.c .
+cp From.Paris.With.Love.2010.720p.X264.AAC..mkv $SVM/'From Paris With Love (2010)'/
+cp config.ini.backup config.ini
+cp config.ini{.new,} 
+cp gruvbox-rainbow.toml starship.toml
+cp starship.toml{,.ORIGINAL}
+cp vector_test_v{1,2}.c 
+cp vector_test_v{1.2}.c 
+cp ~/.config/polybar/config.ini{,.backup}
+cp ~/Documents/config.ini.new .
+cp ~/Downloads/fsplit_en.sh.txt ~/majstaf/majbin/
+cpi /home/rgregor/majstaf/majrcs/aliases_muadib $MMRCS 
+cpi bin/obletnica-c ~/majstaf/coding2/toolbox/c_toolbox/obletnica_c/
+cpi funclist $MMRCS 
+cpi ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt .
+diff b-find-lnx-executables*
+diff b-find-win-executables*
+diff majstaf/majrcs/bashrc_muadib /home/rgregor/majstaf/mdbgit/majrcs_mdb/bashrc_muadib
+du -sh --total backup_jbez0rg/
+du -sh --total backup_muadib/
+duh .git
+echo "2012 (2009)" >> _DOWNLOADED_MOVIES.txt 
+echo "2039 - 1968" | bc -l
+echo $((2039 - 1968))
+echo $(bc -l "2039 - 1968")
+echo $(bc -l | "2039 - 1968")
+echo $epochtime 
+exo-open $(find /usr/share/applications/* -type f -iname "*\.desktop" | fzf --reverse)
+exot
+fc-cache -fv
+find * -type d | xargs -I{} cp -r {} ~/.fonts/
+find * -type d | xargs -I{} cp -r ~/.fonts/
+find * -type d | xargs -I{} cp -rv {} ~/.fonts/
+find -iname "*.txt" | xargs -I{} grep --color -i border {}
+find -iname "*.txt" | xargs -I{} grep --color -il border {}
+find -iname "*srand*" | fzvmr
+find -iname "*xrand*"
+find -iname "*xrand*" | fzvmr
+find -name "*.ttf"
+find -name "*nerd*"
+find -type d -iname "*diab*"
+find -type d | xargs -I{} -cp -v {} ~/.fonts/
+find -type d | xargs -I{} cp -rv {} ~/.fonts/
+find -type d | xargs -I{} cp -v {} ~/.fonts/
+find /media/rgregor/EKSFAT/majmedia/Movies/ -type d -iname "*zohan*" 
+find /media/rgregor/EKSFAT/majmedia/Movies/* -type d -iname "*zohan*" 
+find /usr/share/applications/* -type f -iname "*\.desktop"
+find /usr/share/applications/* -type f -iname "*\.desktop" | fzf --reverse
+find majmedia/ -type d -iname "*diab*"
+find metsys/ -type f
+find metsys/ -type f | cut -d'/' -f2-
+find metsys/ type f
+fname-hypens-to-underscores $STR
+fname-to-lower-with-hypens $STR
+fname-underscores-to-hypens-mdb obletnica_c.c 
+for FFF in $(find * -maxdepth 0 -type f |  grep -v "_test"); do softlink1-fname-to-ulb 
+for FFF in $(find * -maxdepth 0 -type f |  grep -v "_test"); do softlink1-fname-to-ulb $FFF; done
+for FFF in $(find * -maxdepth 0 -type f |  grep -v "_test"); do softlink1-fname-to-ulb; done
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr grep -i dclean
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr i| grep -i dclean
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr | clm
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr | grep -i backup
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr | grep -i both
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr | grep -i conta
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr | grep -i dclean
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr | grep -i logo
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo " $FFF"; done | sort -hr | grep -i mdbdiff
+for FFF in $(find * -maxdepth 0 -type f); do stat $FFF --printf="%s"; echo $FFF; done
+for FFF in $(find * maxdepth 0 -tape f); do echo $FFF; done
+for FFF in *; do fname-underscores-to-hypens-mdb $FFF; done
+for FJL in *; do compare $FJL; done
+fslp
+fsplit 
+fsplit_en 
+fzf-nova/
+fzf-speed/
+ghgl-push-mdb 
+git branch --set-upstream-to=ghkdb/main main
+git clone https://github.com/gotbletu/fzf-speed.git
+git commit -m "update"
+gksu synaptic
+go run rsort_by_enddate_V3.go testdir/
+go run rsort_by_enddate_V3.go ~/majstaf/mdbgit/knowledgedb/_C_and_Cpp/
+go run rsort_by_enddate_V3.go ~/majstaf/mdbgit/knowledgedb/_C_and_Cpp/ | head
+go run rsort_by_enddate_V3.go ~/majstaf/mdbgit/knowledgedb/_C_and_Cpp/ | head -n 30
+gparted 
+grep '_' config
+grep 'prompt-switch' *
+grep * BRISIME
+grep -i order _DOWNLOADED_MOVIES.txt 
+grep -l BRISIME *
+grep -lr BRIS *
+grep -lr BRISIME *
+grep STR _test.sh 
+grep STR= _test.sh 
+grep fzf ~/majstaf/majrcs/aliases_muadib
+grep reverse ~/majstaf/majrcs/aliases_muadib
+group
+groups
+gyes-gadd-push-jbe
+history | grep b-
+history | grep b_
+im .config/polybar/config.ini
+l -t
+ldd $(which polybar)
+less NAPOVEDNIK.txt 
+less _DOWNLOADED_MOVIES.txt 
+less ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+lkl
+mdbgit-multiple-repos-setup 
+mdbgt-testpush 
+mkdir $SVM/'From Paris With Love (2010)'
+mkdir 'Unthinkable (2010)'
+mkdir -p Seivom/20240901
+mkdir -p ~/majstaf/majmedia/Seivom/20241002
+mkdir 20240902
+mkdir 20240918
+mkdir 20241208
+mkdir 20241219
+mkdir SLO_srts
+mkdir c_999_vector_test_20240819
+mkdir from_en_20241216
+mkdir gobletu
+mkdir prejsnje_verzije
+mount | grep sdc1
+mv ${FFF} ${FFF//_/-}
+mv -i bashrc_prompt_nerd_muadib.1 bashrc_prompt_nerd_muadib
+mv -v DRYRUN-rsync-SLIKE_SSD_SAMSUNG_EVO_500G
+mv -v DRYRUN-rsync-muadib_SSD_SAMSUNG_EVO_500G
+mv -v DRYRUN-rsync-{jbez0rg,muadib}_SSD_SAMSUNG_EVO_500G
+mv -v RUN-rsync-SLIKE_SSD_SAMSUNG_EVO_500G
+mv -v RUN-rsync-muadib_SSD_SAMSUNG_EVO_500G
+mv -v RUN-rsync-{jbez0rg,muadib}_SSD_SAMSUNG_EVO_500G
+mv ../../../_podnapisi/drugstore-cowboy-1989-english-yify-131025.zip 
+mv ../../../_podnapisi/drugstore-cowboy-1989-english-yify-131025.zip .
+mv ../../../_podnapisi/the-lion-in-winter-1968-english-yify-1540333.zip .
+mv ./ ../*
+mv ./_TXT/screen_xrandr-static-dual-screen-setup_20151118.txt _LINUX_SYSTEM/
+mv Blink\ Twice\ \(2024\)/ ../
+mv Chandu\ Champion\ \(2024\)/ ../
+mv Companion\ \(2025\)/ ../
+mv Slingshot\ \(2024\)/ ../
+mv Subs/ en-subs
+mv Subs/hrv.srt .
+mv Subs/slo.srt SLO_srts/
+mv Subservience\ \(2024\)/ ../
+mv The\ Invisibles\ \(2024\)/ ../
+mv Uglies\ \(2024\)/ ../
+mv Unthinkable.2010.* 'Unthinkable (2010)'/
+mv You\ Dont\ Mess\ with\ the\ Zohan\ \(2008\)/ ../
+mv _NEW_MOVIES{_20240329,}.txt 
+mv _NEW_MOVIES{_20240329}.txt 
+mv _NOVO/* .
+mv _NOVO/Unthinkable\ \(2010\)/ .
+mv __DELITIONS_20230519.txt __DELITIONS.txt 
+mv __DELITIONS_20240918.txt 
+mv _{_,}DELITIONS.txt 
+mv bashrc_prompt_nerd_muadib{,.backup} 
+mv bashrc_prompt_nerd_{jbez0rg,muadib} 
+mv build/obletnica-z/obletnica-z .
+mv c_howto_implement-vector_20240819.txt c_999_vector_test_20240819/
+mv config.ini{,.backup}
+mv fsplit_en{.sh.txt,}
+mv fsplit{_en,} 
+mv fzf-nova/ gobletu/
+mv list_broken_symlinks broken_symlinks_list
+mv polybar_v{_,}3.5.7/
+mv polybar{,_}v_3.5.7/
+mv polybar{,v_3.5.7}
+mv string{_,-}lower-to-upper 
+mv string{_,-}spaces-to-hypens 
+mv vector_test_v1.c src/
+mv vector_test{,_v1}.c 
+mvol remote
+neofetch > ~/majstaf/seznami/neofetch_output_20240901.txt
+neotoppm 
+nitro
+obletnica-c
+obletnica-c 2033
+obletnica-z 
+obletnica_c 2033
+obletnica_c 2039
+p3
+pes
+pkexec "/usr/sbin/synaptic" "$@"
+polybar -r bar1
+polybar -v
+polybar bar -c ~/.config/polybar/config
+polybar bar -r
+polybar bar -r -c ~/.config/polybar/config.ini
+prepare-fjl-for-knowledgebase-d c_closures-as-library_20240819.txt 
+printf "%(%F %T)T 1724131916"
+printf "%(%F %T)T 1724131916" "history -w"
+printf "%(%F %T)T 1724131916"; printf "history -w"
+printf "%(%F %T)T 1724131916";printf "history -w"
+printf "%(%F %T)T"
+printf "%(%F %T)T" 1724131916
+printf "%(%F %T)T" 1724131916; printf " history -w"
+printf "%(%F %T)T" 1724131916; printf "history -w!
+printf "%(%F %T)T" 1724131916; printf "history -w"
+printf -v epochtime "%(%s)T"
+printf -v epochtime "%(%s)T" 1724131916
+prs
+ps -aux | grep chrome
+ps -aux | grep google
+ps -aux | grep googlw
+ps -aux | grep thunar
+ps -aux | grrp thunar
+rename-to-basename-with-new-ext English.srt The.Accountant.2.2025.mp4 
+rename-to-basename-with-new-ext hrv.srt Drazen.2024.mp4 
+rsort-by-tmstmp_c /home/rgregor/majstaf/mdbgit/knowledgedb/_ZIG/
+rust update
+rustup update
+seivom_clean 
+softlink1-fname-to-ulb broken_symlinks_list 
+softlink1-fname-to-ulb d_logout_menu 
+softlink1-fname-to-ulb f_logout_menu 
+softlink1-fname-to-ulb fsplit 
+softlink1-fname-to-ulb fsplit_en 
+softlink1-fname-to-ulb logout_menu
+softlink1-fname-to-ulb logout_menu_dmn 
+softlink1-fname-to-ulb obletnica-z 
+softlink1-fname-to-ulb obletnica_z 
+softlink1-fname-to-ulb ~/majstaf/majbin/broken-symlinks-list 
+softlink1-fname-to-ulb ~/majstaf/majbin/contains
+source ~/majstaf/majrcs/bashrc_prompt_bare_muadib 
+starship print-config > ~/.config/starship.toml
+stat %s yes_gadd_push_jbe 
+stat .local/bin/yt-dlp 
+stat backup_jbez0rg/
+stat ydownload_list 
+stat yes_gadd_push_jbe "%s"
+stat yes_gadd_push_jbe --printf= "%s"
+stat yes_gadd_push_jbe --printf="%s"
+stat yes_gadd_push_jbe--printf= "%s"
+string-lower-to-upper $STR
+string-spaces-to-hypens $STR
+string-spaces-to-underscores $STR
+sudo apt autoremove 
+sudo apt remove --purge polybar
+sudo apt remove polybar
+sudo apt show polybar
+sudo chown -R rgreg
+sudo du -sh --total backup_muadib/
+sudo fc-cashe -fv
+sudo find * -iname "*fot*"
+sudo find * -iname "*jpg*"
+sudo find * -iname "*slik*"
+sudo find -iname "*jpg*"
+sudo find -iname "*slik*"
+sudo find -type d -iname "*slik*"
+sudo find / -type d -iname "*opus*"
+sudo find / -type d -iname polybar
+sudo find / tyoe d -iname polybar
+sudo find / type d -iname polybar
+sudo mv -v DRYRUN-rsync-SLIKE_SSD_SAMSUNG_EVO_500G
+sudo mv -v DRYRUN-rsync-muadib_SSD_SAMSUNG_EVO_500G
+sudo mv -v RUN-rsync-SLIKE_SSD_SAMSUNG_EVO_500G
+sudo mv -v RUN-rsync-muadib_SSD_SAMSUNG_EVO_500G
+synaptic
+tail -n 20 _DOWNLOADED_MOVIES.txt 
+tail _DOWNLOADED_MOVIES.txt 
+testing-ghgl-r
+testing_ghgl_status_mdb
+time obletnica-c 2033
+time obletnica-z 2033
+time obletnica_c 2033 && time obletnica_z 2033
+time obletnica_c 2033 && timr obletnica_z 2033
+tm .dmrc 
+tree -d
+type prompt-switch 
+udisksctl mount -b /dev/sdc1
+uname -r
+unzip UbuntuMono.zip 
+unzop *.zip
+valgrind-test build/string_to_hex_v4 
+vlc 2012.2009.mp4 &
+vlc 21_Twenty_One_the_Movie_2008.mkv &
+vlc Blink.Twice.2024.mp4 &
+vlc Breaking.Infinity.2023.mp4 &
+vlc Carry.On.2024.mp4 &
+vlc Chandu.Champion.2024.mp4 &
+vlc Companion.2025.mp4 &
+vlc Drugstore.Cowboy.1989.mp4 &
+vlc From.Paris.With.Love.2010.720p.X264.AAC..mkv 
+vlc Love.Me.2024.mp4 &
+vlc Out.Come.The.Wolves.2024.mp4 &
+vlc Slingshot.2024.mp4 &
+vlc Thale.2012.mp4 &
+vlc The.Accountant.2.2025.mp4 &
+vlc The.Exorcism.2024.mp4 &
+vlc The.Invisibles.2024.mp4 &
+vlc The.Lion.in.Winter.1968.720p.BluRay.x264.YIFY.mp4 &
+vlc Unthinkable.2010.mp4 &
+vlc You.Dont.Mess.with.the.Zohan.2008.mp4 &
+wf
+wget "https://raw.githubusercontent.com/r-gregor/dotfiles_jbe/refs/heads/main/.config/i3/config" -O i3conf_jbe
+wget "https://raw.githubusercontent.com/r-gregor/dotfiles_jbe/refs/heads/main/.config/i3/config" -o i3conf_jbe
+wget "https://raw.githubusercontent.com/r-gregor/dotfiles_jbe/refs/heads/main/.config/picom/picom.conf" -O picomconf_jbe
+wget "https://raw.githubusercontent.com/r-gregor/dotfiles_jbe/refs/heads/main/.config/picom/picom.conf" -o picomconf_jbe
+wget "https://raw.githubusercontent.com/r-gregor/majrcs_jbe/6385704f721a79c768dd318adeb99b1197f9fabb/bashrc_prompt_nerd_jbez0rg"
+wget "https://starship.rs/presets/toml/gruvbox-rainbow.toml"
+wmctrl -l | awk '! /fzf-nova/ && $2 != "-1" {print $0}'
+wmctrl -l | awk '! /fzf-nova/ && $2 != "-1" {print $0}' | fzf -d ' ' --with-nth 5.. --prompt="window switcher: " | cut -d' ' -f1
+wmctrl -l | awk '! /fzf-nova/ && $2 != "-1" {print $1}'
+wmctrl -l | awk '{print $0}'
+wmctrl -l | awk '{print $1}'
+xdg-open $(find /usr/share/applications/* -type f -iname "*\.desktop" | fzf --reverse)
+xdg-open /usr/share/applications/arandr
+xdg-open /usr/share/applications/arandr.desktop 
+xrandr
+yt-dlp
+zelij
+'
+. .bashrc_nerd 
+..
+./get_mdbdiffs
+./todays_knowledgedb_files_mdb_v2 20250225 23
+7z
+FJL="IZVID_smpl_(MAIL)_(1)__29082024_Avtorizirana_verzija.PDF" 
+I
+LTR=A
+LTR=B
+LTR=C
+LTR=D
+LTR=E
+LTR=F
+LTR=G
+LTR=H
+LTR=I
+LTR=J
+LTR=K
+LTR=L
+LTR=M
+LTR=N
+LTR=O
+LTR=P
+LTR=Q
+LTR=R
+LTR=S
+LTR=T
+LTR=U
+LTR=V
+LTR=W
+LTR=X
+LTR=Y
+LTR=Z
+LTR=z
+abr
+basg gh-create-new-repo-acctkn.sh 
+bash mount_ext_usbs.sh 
+bin/main 
+c doc/
+cat COPYRIGHT 
+cat README.md 
+cat list_dotfiles_20211102.txt 
+chmod 755 new-c-project-setup 
+chmod 755 show_exports_mdb 
+chromium-browser rust.html 
+complete -p
+cp -i ./funclist ~/_MGT/majrcs_mdb/
+cp -i .bashrc ~/_MGT/dotfiles_mdb/
+cp -i .bashrc* ~/_MGT/dotfiles_mdb/
+cp -i .config/i3/config ~/majstaf/mdbgit/dotfiles_mdb/.config/i3/
+cp -i .config/kitty/kitty.conf ~/majstaf/mdbgit/dotfiles_mdb/.config/kitty/
+cp -i .config/picom/picom.conf ~/majstaf/mdbgit/dotfiles_mdb/.config/picom/
+cp -i bashrc_muadib bashrc_prompt_* ~/_MGT/majrcs_mdb/
+cp -i todays_knowledgedb_files_mdb $MMJBN/
+cp -r "*YTS." ~/majstaf/majmedia/Seivom/20241121/
+cp -r "*YTS.*" ~/majstaf/majmedia/Seivom/20241121/
+cp -r *YTS.* ~/majstaf/majmedia/Seivom/20241121/
+cp -r /media/rgregor/B1_2_EXT4/backup_jbez0rg/home/rgregor/.fonts/Iosevka/ .
+cp -r Subservience\ \(2024\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ Uglies\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240916/
+cp -r ext_backup_scripts/ ~/_MGT/majbin_mdb/
+cp .config/i3/config ~/_MGT/dotfiles_mdb/.config/i3/
+cp DRYRUN-rsync-* RUN-rsync-* ~/majstaf/majbin/ext_backup_scripts/SAMSUNG_SSD_860_EVO_500Gb/
+cp stare_verzije_mdb/mvol_* .
+cp ~/majstaf/src_majbin/00_ukazi_mdb/mount_usbs.sh .
+cpi ../../_DOWNLOADED_MOVIES.txt $MPRNS 
+diff -q ./ ~/.config/
+diff -q ./ ~/.config/  | grep "Only in ."
+diff -q ./ ~/.config/  | grep "Only in \."
+diff -q ./ ~/.config/  | grep -v "Only\|Common"
+diff -q ./ ~/.config/  | grep -v Only
+diff -q ./ ~/.config/  | grep Only
+diff -q ./ ~/.config/  | grep Only | less
+diff -q ./ ~/.config/  | less
+diff -q config ~/.config/i3/config 
+diff -q funclist ~/majstaf/majrcs/funclist
+diff -qR ./ ~/.config/  | grep -v "Only\|Common"
+diff ./ stare_verzije_mdb/
+diff funclist ~/majstaf/majrcs/funclist
+diif -q ./ ~/.config/
+echo $MPRNS 
+echo /home/rgregor/majstaf/mdbgit/majrcs_mdb/bashrc_muadib
+em www.YTS.MX.jpg YTSYifyUP...\ \(TOR\).txt 
+fd ali
+fd md
+fd mu
+ffn COPYRIGHT 
+ffn rust.html 
+file $(which zig)
+find * -maxdepth 0 -type f | uim
+find -type f -iname "*gesl*"
+for FFF in $(find * -maxdepth 0 -type f); do echo $FFF; done
+for FFF in $(find * -maxdepth 0 -type f); do softlink1-fname-to-ulb $FFF; done
+for FFF in $(find * -maxdepth 0 -type f); doe echo $FFF; done
+for FFF in $(find * maxdepth 0 -type f); do echo $FFF; done
+for FFF in $(find * maxdepth 0 -type f); do echo mv $FFF prejsnje_verzije/${FFF}_20240821; done
+for FFF in $(find * maxdepth 0 -type f); do mv -v $FFF prejsnje_verzije/${FFF}_20240821; done
+for FFF in *; do echo $FFF; done
+for N in 1 12 8 9 45 100 2005; do if [ N -lt 10 ]; then N="0{N}" fi; echo $N; done
+for N in 1 12 8 9 45 100 2005; do if [ N -lt 10 ]; then N="0{N}"; echo $N; done
+for PART in sdb1 sdc1 sdd1; do echo udisksctl mount -b /dev/${PART}; done
+for PART in sdb1 sdc1 sdd1; do udisksctl mount -b /dev/${PART}
+for PART in sdb1 sdc1 sdd1; do udisksctl mount -b /dev/${PART}; done
+fzf-speed/fzf-speed 
+g
+get_j
+git clone "https://github.com/r-gregor/majbin_jbe.git"
+git clone https://github.com/r-gregor/test_repo.git
+git commit -m "GO!"
+git push -u main
+git push origin -u main
+git remote add origin git@github.com:r-gregor/test_repo.git
+go help
+go help math
+go help math.rand
+go help math/rand
+go help modules
+go help modules math
+go help rand
+go help random
+go run randomMapKey.go 
+go run randomMapKey_V3_20200408.go 
+godoc
+grep $pttns _DOWNLOADED_MOVIES.txt 
+grep $pttsn _DOWNLOADED_MOVIES.txt 
+grep -i $mv _DOWNLOADED_MOVIES.txt 
+grep -i $pttsn _DOWNLOADED_MOVIES.txt 
+grep -i dead _DOWNLOADED_MOVIES.txt 
+grep -i shot ./_DOWNLOADED_MOVIES.txt 
+grep -r kty
+grep DIRTR *
+grepc -ir ' kty'
+grepc -r ' kty 
+grepc -r ' kty '
+grepc -r ' kty'
+grepc -r kty
+gs
+help complete
+history | grep -i redelonghi
+https://www.youtube.com/watch?v=GgAQw08zJzs
+https://www.youtube.com/watch?v=VC9Kk7Ao944
+https://www.youtube.com/watch?v=Wfohu9sCtRo&pp=ygU2dWJ1bnR1IDIyLjA0IGluc3RhbGwgZGViaWFuIGJvb2t3b3JtIGt2bS9xZW11IGZyb20gaXNv
+jq
+jw
+kty
+l -1
+l stare_verzije_mdb/
+mkdir -p ~/majstaf/majmedia/Seivom/20250307
+mkdir 20240916
+mkdir 20241121
+mkdir SAMSUNG_SSD_860_EVO_500Gb
+mkdir build
+mkdir polybar
+mkdir zacasno
+mountctl
+mv -v RPi* ../_RPi/
+mv ../../../_podnapisi/the-count-of-monte-cristo-2024-english-yify-626345.zip .
+mv ../../../_podnapisi/the-crow-2024-english-yify-628440.zip .
+mv ../../../_podnapisi/the-intern-2015-english-yify-16880.zip .
+mv Apocalypse\ Z\ El\ Principio\ Del\ Fin\ \(2024\)/ ../
+mv Breaking\ Infinity\ \(2023\)/ ../
+mv Brothers\ \(2024\)/ ../
+mv Megalopolis\ \(2024\)/ ../
+mv Out\ Come\ The\ Wolves\ \(2024\)/ ../
+mv The\ 
+mv The\ Count\ Of\ Monte-Cristo\ \(2024\)/ ../
+mv The\ Crow\ \(2024\)/ ../
+mv The\ Exorcism\ \(2024\)/ ../
+mv The\ Glitch\ \(2019\)/ ../
+mv The\ Intern\ \(2015\)/ ../
+mv The\ Outrun\ \(2024\)/ ../
+mv Tootsie\ \(1982\)/ The\ Intern\ \(2015\)/ ../Movies/
+mv glog_status{,_mdb}
+mv prejsnje_verzije/ stare_verzije_mdb
+mv todays_knowledgedb_files_mdb{_v2,} 
+mv {ext_,}WD_5Tb/
+mv="brother"
+mv=crow
+mv=romul
+n
+new-c-project-setup 
+poppler
+pttsn="survi"
+python -m http.server
+python3 -m http.server
+q
+rit status
+rustup doc
+rustup doc --std
+s2 "KVM to Debian 5+" "https://www.youtube.com/watch?v=GgAQw08zJzs"
+shopt +s direxpand
+shopt -s direxpand
+show_exports_mdb | tail -n15
+softlink1-fname-to-ulb gyes_gadd_push_jbe 
+softlink1-fname-to-ulb new-c-project-setup 
+stat rust.html 
+sudo apt show i3
+sudo cat /sys/kernel/debug/usb/devices | grep -i medion
+sudo mountctl
+sudo ranger
+sudo reboot 
+t
+tree build/
+tree defaultprojectname-rename-me_20250214/
+ty
+udisksctl mount -b /dev/sdb2
+udisksctl mount -b /dev/sdc2
+unzip the-count-of-monte-cristo-2024-english-yify-626345.zip 
+unzip the-crow-2024-english-yify-628440.zip 
+unzip the-intern-2015-english-yify-16880.zip 
+vlc Apocalypse.Z.El.Principio.Del.Fin.2024.mp4 
+vlc Brothers.2024.mp4 &
+vlc Latency.2024.mp4 &
+vlc Megalopolis.2024.mp4 &
+vlc Old.Guy.2024.mp4 &
+vlc The.Count.Of.Monte-Cristo.2024.mp4 &
+vlc The.Crow.2024.mp4 &
+vlc The.Intern.2015.mp4 $
+vlc The.Outrun.2024.mp4 &
+which zig
+wmctrl -l | awk '{print $3, $4}'
+wmctrl -l | awk -FS '\t' '{print $3, $4}'
+yes
+zig-clean 
+./check_git_diffs_jbe 
+./check_git_diffs_mdb 
+./clean_ff-bookmarks ./ff-mdb_bookmarks_20250201.html
+./hypens-to-underscores-d 
+./i3_picom_setup2 
+./todays_knowledgedb_files_mdb_v2 
+./todays_konwledgedb_files 
+./yes_gadd_push_jbe 
+/media/rgregor/30c6cbae-b667-4505-87e2-1fe81278be05/muadib_backup/RUN-rsync-muadib_SSD_SAMSUNG_EVO_500G 
+0a_apps/c_toolbox/obletnica36/obletnica_36 
+0a_apps/c_toolbox/obletnica36/obletnica_36 2033
+KVM-OK
+LS -T
+LSBLK
+LSUSB
+alias fm='thunar'
+apt search xcb-xinerama
+apt show libev
+bash ../i3_picom_setup2 
+bash 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+bash REMOVE 
+bash i3_picom_setup2 
+bash i3_picom_setup_20230117.txt 
+bash mount_ext_usbs_mdb_v2.sh 
+bin/fibonacci_2  300000000
+bin/fibonacci_2  3000000000
+bin/hex2rgb_v3 
+bin/hex2rgb_v3 aabbff
+bin/rsort_by_enddate_g 
+binds_from_i3 
+blkid
+broken_symlinks_list | cut -d':' -f1
+cat /sys/kernel/debug/usb/devices
+cat 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+cat CHECK_OUT.txt 
+cat README 
+cat sources.list
+cat yes_gadd_push_jbe
+cat ~/.bash_history
+chmod 755 clean_ff-bookmarks 
+chmod 755 todays_konwledgedb_files 
+chmod 755 ~/majstaf/majbin/i3_keybindings_show
+cp -i .config/i3/config ~/_GTM/dotfiles_mdb/.config/i3/y
+cp -i bashrc_muadib $MMRCS/
+cp -i clean_* ~/majstaf/majbin/
+cp -i config konfig.bekap 
+cp -i novo/check_git_diffs_mdb .
+cp -i todays_konwledgedb_files $MMJBN/
+cp -i ~/majstaf/majbin/binds_from_i3 ~/_MGT/majbin_mdb/
+cp -i ~/majstaf/majbin/logout_menu_dmn ~/_MGT/majbin_mdb/
+cp -i ~/majstaf/majrcs/bashrc_muadib ~/majstaf/mdbgit/majrcs_mdb/
+cp -r Flight\ Risk\ \(2025\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20250216/
+cp -r See\ You\ In\ Montevideo\ \(2014\)\ \[480p\]\ \[DVDRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20250201/
+cp -r ~/majstaf/BRISI/_danes_20241120/dotfiles_jbe/.config/picom .
+cp -r ~/majstaf/majbin/* .
+cp -rnv ./* /media/rgregor/MEDION_sA/majmedia/Seivom/
+cp ../i3_picom_setup_20230117.txt .
+cp .local/bin/odjava_dmn ~/majstaf/metsys/dmenu_font_settings_20241008.txt
+cp Subs/English\ \(SDH\).eng.srt ./Den.Of.Thieves.2.Pantera.2025.srt
+cp Subs/English\ \[SDH\].eng.srt ./En.srt
+cp _MBN/i3_keybindings_show ~/_MGT/majbin_mdb/
+cp config konfig.bekap
+cp config.ini{.from_jbe,} 
+cp ff-mdb_bookmarks_20250201.html{,.original} 
+cp git-project-setup new-project-setup_2
+cp i3_picom_setup_20230117.txt ~/majstaf/sorsi/
+cp i3_picom_setup{,2} 
+cp yes_gadd_push_jbe ../
+cp ~/Downloads/ff-mdb_bookmarks_20250201.html .
+cp ~/majstaf/majbin/binds_from_i3 ~/_MGT/majbin_mdb/
+cp ~/majstaf/majbin/clean_ff-bookmarks .
+cpi _DOWNLOADED_MOVIES.txt $MPRNS 
+cpi _DOWNLOADED_MOVIES.txt /media/rgregor/E75F-1AEC/majmedia/
+cpi _DOWNLOADED_MOVIES.txt /media/rgregor/MEDION_sA/majmedia/
+cpi aliases_muadib $MMRCS 
+cpi aliases_muadib $MRCS 
+d
+diff -c i3/config ~/.config/i3/config
+diff -c picom/picom.conf ~/.config/picom/picom.conf 
+diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/
+diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/ | grep -iv "common\|differ"
+diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/ | grep -iv "common\|differ" | grepc _danes
+diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/ | grep -iv "common\|differ" | grepc _danes | cut -d' ' -f4-
+diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/ | grep -iv "common\|differ" | grepc _danes | cut -d' ' -f4- | fzf
+diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/ | grep -iv "common\|differ" | grepc _danes | cut -d' ' -f4- | fzf -m | xargs -I{} cp -v {} ~/majstaf/majbin/novo/
+diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/ | grep -iv "common\|differ" | grepc _danes | cut -d' ' -f4- | fzf -m | xargs -I{} cp -v ~/majstaf/BRISI/_danes_20241120/majbin_jbe/{} ~/majstaf/majbin/novo/
+diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/ | grep -iv "common\|differ" | grepc _danes | cut -d' ' -f4- | fzf -m | xargs -I{} echo {}
+diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/ | grep -iv common
+diff mdbgt_testpush jbegt_testpush 
+diff testing_ghgl_testpush_mdb testing_ghgl_testpush_jbe 
+dmenu_run -fn "Iosevka-14"
+dmenu_run -fn "Iosevka-14" -l 30
+dmenu_run -fn "Iosevka-14" -l 5
+echo $KNOWLEDGEDB 
+echo 'grep bind .config/i3/config | cut -d' ' -f2- | grep -v "#\|workspace\|XF\|focus\|move"' >> ~/majstaf/majbin/i3_keybindings_show
+egrep -c '(vmx|svm)' /proc/cpuinfo
+fcwm &
+file $(which synaptic-pkexec)
+find * -type d
+find * maxdepth 0 -type f
+find -type d -iname "*opus*"
+find -type d -iname "broth*"
+floatings_dmn 
+for FJL in *; do echo $FJL | ./compare.sh -; done
+for FJL in *; do echo $FJL | ./compare.sh ; done
+for FJL in *; do echo $FJL | xargs -I{} ./compare.sh {}; done
+for FJL in *; do echo $FJL | xargs ./compare.sh; done
+for FJL in *; do echo $FJL; done
+fzf-nova/fzf-nova 
+git clone https://github.com/LuaDist/libev.git
+git clone https://github.com/jonaburg/picom
+git diff
+git diff -q majstaf/majbin/ ~/majstaf/BRISI/_danes_20241120/majbin_jbe/
+git diff bashrc_muadib
+git help prune
+git log --oneline
+git push -f ghprns main 
+git show HEAD
+git show HEAD-1
+git show HEAD~1
+glog-status-mdb 
+go build -o bin/rsort_by_enddate_g rsort_by_enddate_V3.go 
+grep '\${mdb}' *
+grep -ir "swit"
+grep -l USR *
+grep -r autostart .*
+grep USR *
+grep bind .config/i3/config 
+grep bind .config/i3/config | cut -d' ' -f2- | grep -v "#\|workspace\|XF\|focus\|move"
+grep bind .config/i3/config | grep -v "#\|workspace" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -v "#\|workspace\|XF" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -v "#\|workspace\|XF\|focus" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -v "#\|workspace\|XF\|focus" | cut -d' ' -f2- | grepc move
+grep bind .config/i3/config | grep -v "#\|workspace\|XF\|focus\|move" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -v "#\|workspace\|XF\|focus\|move" | cut -d' ' -f2- | grepc move
+grep bind .config/i3/config | grep -v "^#"
+grep bind .config/i3/config | grep -v "^#" | cut -d' ' -f1-
+grep bind .config/i3/config | grep -v "^#" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -v "^#\|workspace" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -vE "#\|workspace" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -vE "^#\| * #\|workspace" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -vE "^#\| *#\|workspace" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -vE "^#\| \+#\|workspace" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -vE "^#\| \+\#\|workspace" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -vE "^#\|.*#\|workspace" | cut -d' ' -f2-
+grep bind .config/i3/config | grep -vE "^#\|workspace" | cut -d' ' -f2-
+grep export /home/rgregor/majstaf/mdbgit/majrcs_mdb/bashrc_muadib
+grepc -ir "promp"
+grepc -ir "swit"
+grepc -r "_" *
+gyes
+head -n1 i3_picom_setup_20230117.txt
+kvm-ok
+less sources.list
+logout
+mc "Den Of Thieves (2018){,_subs-must-be-correctedn"
+mkdir -p majstaf/SLIKE
+mkdir -p ~/majstaf/majbin/novo
+mkdir 20250201
+mkdir check_out
+mkdir for_en
+mkdir for_jbe
+mkdir for_mdb
+mkdir slike_2024
+mkdir ~/majstaf/majmedia/Seivom/20250216
+mount -+a
+mount -a
+mv "Den Of Thieves (2018)"{,_subs-must-be-corrected}
+mv "Den Of Thieves (2018){,_subs-must-be-corrected}"
+mv -i todays_konwledgedb_files ~/majstaf/majbin/
+mv ../../../_podnapisi/den-of-thieves-2018-english-yify-3962.zip .
+mv ../../_podnapisi/tootsie-1982-english-yify-136133.zip .
+mv 20250301/* .
+mv Flight\ Risk\ \(2025\)/ ../
+mv Mad\ About\ Mambo\ \(2000\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ $BRISI/
+mv Sex-Positive\ \(2024\)/ ../
+mv Wind.River.2017.srt English-1.srt
+mv check_git_diffs_{jbe,mdb} 
+mv config.ini{,.from_jbe} 
+mv i3_picom_setup_20230117.txt i3_picom_setup
+mv mount_ext_usbs{,_mdb}.sh 
+mv new-project-setup git-project-setup 
+mv new-project-setup{_2,} 
+mv picom{,.old}
+mv un-mount-ext-usbs{,_mdb}.sh 
+obletnica_c
+obletnica_z 
+odjava_dmn 
+picom &
+rename-to-basename-with-new-ext Den.of.Thieves.2018.srt Den.Of.Thieves.2018.mp4 
+rename-to-basename-with-new-ext En.srt Virtuosity.1995.mp4 
+rename-to-basename-with-new-ext Sex-Positive.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264.srt Sex-Positive.2024.mp4 
+rename-to-basename-with-new-ext Tootsie-English.srt Tootsie.1982.mp4 
+rename-to-basename-with-new-ext Wind.River.2017.720p.BluRay.x264.\[YTS.MX\]-English.srt Wind.River.2017.mp4 
+rndir 20250301/
+softlink1-fname-to-ulb check_git_diffs_mdb 
+softlink1-fname-to-ulb obletnica-c 
+softlink1-fname-to-ulb todays_konwledgedb_files 
+softlink1-fname-to-ulb yes_gadd_push_jbe 
+sudo apt instal
+sudo apt search libev
+sudo apt search libev | grep ^libev
+sudo apt search libev | grep ^libev | less
+sudo apt search libev | grep libev
+sudo apt show jinja
+sudo apt show meson
+sudo apt show ninja
+sudo blkid
+sudo blkid | grep -i usb
+sudo cat /sys/kernel/debug/usb/devices
+sudo dmesg | grep -i "new usb device found"
+sudo dmesg | grep -i "new usb device"
+sudo fdisk -l
+sudo pkexec "/usr/sbin/synaptic" "$@"
+sudo pkexec "/usr/sbin/synaptic" "$@" & disown
+testing_ghgl_
+todays_konwledgedb_files 
+touch __SUBS-MUST-BE-CORRECTED.txt
+tree bin/
+unzip den-of-thieves-2018-english-yify-3962.zip 
+unzip tootsie-1982-english-yify-136133.zip 
+vil todays_konwledgedb_files 
+vlc Den.Of.Thieves.2.Pantera.2025.mp4 $
+vlc Den.Of.Thieves.2.Pantera.2025.mp4 &
+vlc Den.Of.Thieves.2018.mp4 &
+vlc Flight.Risk.2025.mp4 &
+vlc Heretic.2024.mp4 &
+vlc Mad.About.Mambo.2000.720p.WEBRip.x264.AAC-\[YTS.MX\].mp4.part 
+vlc See.You.In.Montevideo.2014.mp4 
+vlc Sex-Positive.2024.mp4 &
+vlc Tootsie.1982.mp4 &
+vlc Virtuosity.1995.mp4 &
+vlc Vuk.Samotnjak.1972.mp4 &
+which synaptic-pkexec 
+xit
+xrandr -q
+y
+z c_t
+zelijj
+~/majstaf/majbin/i3_keybindings_show
+./todays_knowledgedb_files_mdb 
+./todays_knowledgedb_files_mdb 20250303 7
+alias | grep fzf
+bin/fibonacci_2 10000
+bin/fibonacci_2 100000
+bin/fibonacci_2 600
+bin/fibonacci_2 900
+bin/fibonacci_2 999
+cat __downloaded_movies_20250215.txt >> ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+cp -i ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt /media/rgregor/E75F-1AEC/majmedia/
+cp -i ~/majstaf/majrcs/aliases_muadib ~/_MGT/majrcs_mdb/
+cp English\(Srt\).eng.srt ../English.srt
+find -type f -name "*.txt" | xargs -I{} grep --color -iH bad {}
+find -type f -name "*.txt" | xargs -I{} grep --color -iH boy {}
+for N in 1 12 8 9 45 100 2005; do if [ $N -lt 10 ]; then N="0${N}"; fi; echo $N; done
+for N in 1 12 8 9 45 100 2005; do if [ N -lt 10 ]; then N="0${N}"; fi; echo $N; done
+for N in 1 12 8 9 45 100 2005; do if [ N -lt 10 ]; then N="0{N}"; fi; echo $N; done
+for N in 1 12 8 9 45 100 2005; do if [ N \< 10 ]; then N="0${N}"; fi; echo $N; done
+for N in 1 12 8 9 45 100 2005; do if [[ N -lt 10 ]]; then N="0${N}"; fi; echo $N; done
+for N in 1 12 8 9 45 100 2005; do if [[ N -lt 10 ]]; then N="0{N}"; fi; echo $N; done
+for N in 1 12 8 9 45 100 2005; do if test $N -lt 10; then N="0${N}"; fi; echo $N; done
+for N in 1 12 8 9 45 100 2005; do if test N -lt 10; then N="0${N}"; fi; echo $N; done
+git push -f glprns main
+inxi
+l1
+m,ake
+mkdir -p Seivom/20240911
+mkdir NOVO
+mv hex{_to_,2}rgb_v1
+mv hex{_to_,2}rgb_v3.c 
+mvol add .
+obletnica_z
+p
+rename-to-basename-with-new-ext English.srt Bad.Boys.Ride.Or.Die.2024.mp4 
+run
+testing_ghgl_testpush_mdb 
+vlc Bad.Boys.Ride.Or.Die.2024.mp4 &
+vlc Sheriff.2024.mp4 &
+wget "https://raw.githubusercontent.com/r-gregor/majbin_en/main/check_for_emptyd"
+which polybar
+wmctrl -l
+,mntm
+. .bashrc_base 
+./_test.sh 
+./build/deletelines 
+./build_test.sh 6
+./build_test1 
+./clear-bin.sh 
+./fname-4-spaces-to-tabs 
+./fname-4-spaces-to-tabs $STR
+./fname-hypens-to-underscores 
+./fname-hypens-to-underscores $STR
+./fname-to-lower-with-hypens $STR
+./gaddacomm 
+./hex_to_rgb 
+./string-lower-to-upper $STR
+./test1
+./test1 
+./test1 | clm
+./testing/test1 
+./testing/test1 | less
+CD
+PS!=\u@\h
+PS1=\u@\h
+apt show polybar 
+bash move_build_to_bin.sh 
+bin/hex_to_rgb_v3 c3ff9a
+bin/rsort_by_enddate_g testdir/
+bin/test6 
+bin/test6 >> ~/majstaf/ff-bookmarks_cleaned.html
+broken-symlinks-list 
+cat common/.gitignore
+cat file.txt 
+catg send.txt 
+chmod 755 _test.sh 
+chmod 755 build_test1 
+chmod 755 gaddacomm 
+chmod 755 ghgl_testpush
+cp -i .config/mc/ini ~/_MGT/dotfiles_mdb/.config/mc/
+cp -i Makefile ../common/
+cp -i majstaf/majbin/todays_knowledgedb_files_mdb $MMJBN 
+cp -r Silver\ Skates\ \(2020\)/ /media/rgregor/1545-AB81/majmedia/Movies/
+cp -r ~/.config/polybar ~/majstaf/mdbgit/dotfiles_mdb/.config/
+cp -rn $SVM/* /media/rgregor/MEDION_sA/majmedia/Seivom/
+cp -rn ./* /media/rgregor/E75F-1AEC/majmedia/Movies/
+cp -rn ./* /media/rgregor/Ventoy/
+cp /media/rgregor/E75F-1AEC/DRYRUN-rsync-* .
+cp /media/rgregor/E75F-1AEC/RUN-rsync-* .
+cp <
+cp LICENSE ../common/
+cp original_file.txt file.txt
+cp pdtk_20220418.txt ~/Dropbox/SKUPNI/
+cp ~/majstaf/coding2/testing/c_testing/.gitignore common/
+cpi ../_DOWNLOADED_MOVIES.txt $MPRNS 
+d_majsettingsmenu 
+diff -c .config/i3/config ~/majstaf/BRISI/_danes_20241120/dotfiles_jbe/.config/i3/config 
+diff -c .config/i3/config ~/majstaf/BRISI/_danes_20241120/dotfiles_jbe/.config/i3/config | less
+diff -c config i3conf_jbe 
+diff -c config i3conf_jbe | less
+diff -c picomconf_jbe picom.conf 
+diff _DOWNLOADED_MOVIES.txt ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+disks &
+echo "$FF"
+echo $FF
+echo $STR
+echo $STR >> _test.sh 
+echo STR
+exirt
+export PS1=\u@\h
+fc-list
+find * -maxdepth 0 -type d -name "*_d"
+find * -maxdepth 0 -type d -name "*_d" | xargs -IF echo F
+find * -maxdepth 0 -type d -name "*_d" | xargs -IF echo mv F $(echo F | sed 's/_d/_mdb/')
+find * -type d -name bin
+find * -type d -name buil
+find * -type d -name build
+find * -type d -name build *
+find -iname "*xrandr*"
+find -iname "*xrandr*" | uim
+find -name Makefile
+find -type d -name Subs
+find -type d -name build *
+find -type f -iname "*20250201.html"
+find -type f -iname "*tadeja*"
+find -type f -name "*.txt"
+find -type f -name "*.txt" | xargs -I{} grep --color -i trap {}
+find -type f -name "*.txt" | xargs -I{} grep --color -iH trap {}
+find -type f -name "*.txt" | xargs -I{} grep --color -il trap {}
+find -type f -name "*.txt" | xargs grep -i trap
+fname-underscores-to-hypens-mdb vars_muadib 
+for DDD in $(find * -maxdepth 0 -type d -name "*_d"); do echo mv -v $DDD ${DDD//_d/_mdb}; done
+for DDD in $(find * -maxdepth 0 -type d -name "*_d"); do mv -v $DDD ${DDD//_d/_mdb}; done
+for DDD in $(find * -type d -name build); do echo mv -v $DDD ${DDD//build/bin}; done 
+for DDD in $(find * -type d -name build); do mv -v $DDD ${DDD//build/bin}; done 
+for DDD in ../java_testing/ ../ncurses_testing/ ../go_testing/ ../python_testing/ ../rust_testing/ ../zig_testing/; do cp -vi move_build_to_bin.sh rename_build_to_bin_20250202.sh $DDD/; done
+fvwm &
+gaddacomm 
+git add --verbose .
+git add -v .
+git branch -M main
+git bransh
+git clone "https://github.com/r-gregor/tmspkg.git"
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+git clone https://github.com/r-gregor/majbin_en.git
+git commit -m "Makefile and dummy prog"
+git commit -m "initial commit 20250203"
+git commt -m "Makefile and dummy prog"
+git push -f ghct main 
+git push -f ghrd main 
+git push -f glct main 
+git push -u ghrd main 
+git push ghct main -u
+git push ghpt main -e
+git push ghpt main -u
+git push ghrd -u main
+git push ghrd -u main 
+git push ghrd -uf main
+git push ghrd main 
+glog_status 
+go version
+grep -i "reload\|refresh" .config/i3/config
+grep fzf ~/majstaf/majrcs/*
+grep status *
+grep vol ~/.config/i3/config
+grepc '_' config
+grepc -r fgets *
+history -w
+histroy -w
+less /etc/default/console-setup
+less Downloads/ff-mdb_bookmarks_20250201.html 
+makw
+mc
+mkdir -p ~/majstaf/dev/
+mkdir __DANES__
+mkdir _danes_20241120
+mkdir c_999_hex_to_rgb_20240909
+mkdir common
+mkdir testing
+mkir bin
+mount
+mv CHECK_OUT.txt check_out/
+mv FHD_4K_5K_8K_10K* check_out/
+mv HD_FHD_UHD_4K.jpeg check_out/
+mv Makefile common/
+mv config config.backup.20241120
+mv config i3/
+mv config{,.ini}
+mv ghgl_testpush_mdb{,.backup} 
+mv ghgl_testpush{,_mdb} 
+mv ghgl_testpush{_en,} 
+mv move_bi{,u}ild_to_bin.sh 
+mv move_b{,u}ild_to_bin.sh 
+mv obletnica{_,-}c
+mv rename_bin_to_build_20241203.sh rename_build_to_bin_20250202.sh
+mv rename_bin_to_build_20241203{_2,}.sh 
+mv rename_build_to_bin_20250202.sh rename_bin_to_build_20241203_2.sh 
+mv rst_book_projects_20240903/* .
+mv rst_book_projects_20240904/* .
+neofetch 
+nifs
+obletnica_z 2033
+polybar -r bar
+polybar bar -c ~/.config/polybar/config.ini & disown
+polyvar -r bar
+qcc -v
+softlink1-fname-to-ulb gaddacomm 
+stfont
+suddo su
+sudo dpkg_reconfigure console-setup
+sudo fc-cache -fv
+sudo find -iname "*png*"
+sudo setfont
+switch_prompt 
+todays_knowledgedb_files_mdb
+todays_knowledgedb_files_mdb 20250225 1
+todays_knowledgedb_files_mdb 20250302 1
+todays_knowledgedb_files_mdb 20250303 23
+vi ../../../git-project-setup 
+vlc The.Glitch.2019.mp4 &
+vlc Trap.2024.mp4 &
+wget https://raw.githubusercontent.com/r-gregor/prenos/refs/heads/main/fsplit_en
+xs
+yazi
+~/__DANES__/git-project-setup 
+žmntm
+c
+cat _DOWNLOADED_MOVIES.txt 
+cp -rn ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt /media/rgregor/MEDION_sA/majmedia/Seivom/
+dc
+echo $PS1
+find * -maxdepth 0 -type d -not -name "2*"
+find * maxdepth 0 -type d -not -name "2*"
+find -type -name -not "2*"
+find -type -not -name "2*"
+find -type d -not -name "2*"
+for N in $(seq 0 255); do printf "\e[7;38;5;${N}m   ";printf "\e[0m "; done
+for N in $(seq 0 255); do printf "\e[7;38;5;${N}m   ";printf "\e[0m"; done
+grep -i flig ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+grep -i level ~/majstaf/majmedia/_DOWNLOADED_MOVIES.txt 
+grepc -ir "promp" | less
+ln -s logout_menu_dmn odjava_dmn
+mv "Spenser Confidential (2020)"{,_no-subs}
+mv ../../../_podnapisi/spenser-confidential-2020-english-yify-17420.zip .
+mv Bad\ Boys\ Ride\ Or\ Die\ \(2024\)/ ../
+mv Cuban\ Fury\ \(2014\)/ ../
+mv Moonage\ Daydream\ \(2022\)/ ../
+mv Sheriff\ \(2024\)/ ../
+mv The\ Good\ Nurse\ \(2022\)/ ../
+mv Trap\ \(2024\)/ ../
+mv _GTM _MGT
+mv hex_to_rgb* c_999_hex_to_rgb_20240909/
+mvol status
+source bashrc_prompt_base_muadib 
+source bashrc_prompt_nerd_muadib
+source ~/majstaf/majrcs/bashrc_prompt_color_muadib 
+sudo apt upgrade -y
+switch_prompt_dmn 
+switch_prompt_rofi 
+untip spenser-confidential-2020-english-yify-17420.zip 
+vlc Moana.2.2024.mp4 &
+vlc Spenser.Confidential.2020.
+vlc Spenser.Confidential.2020.mp4 &
+vlc Star.Trek.Section.31.2025.mp4 &
+vlc Uglies.2024.mp4 &
+which google-chrome-stable
+.. -t
+./check4emptyd 
+./danes_check 
+LP,
+bas
+bash ./un-mount-ex-usbs.sh 
+bash un-mount-ex-usbs.sh 
+bash ~/majstaf/src_majbin/mount_usbs.sh 
+bbb
+bin/hex_to_rgb 
+bin/hex_to_rgb AABBCC
+bin/hex_to_rgb2
+bin/hex_to_rgb_v2
+bin/hex_to_rgb_v2 
+bin/hex_to_rgb_v2 AAAAAA
+bin/hex_to_rgb_v2 AAAAAAAAA
+bin/hex_to_rgb_v2 AABBCC
+bin/hex_to_rgb_v2 GGAABB
+bin/hex_to_rgb_v2 ggggggggggg
+bin/hex_to_rgb_v3 00ffff
+bin/hex_to_rgb_v3 00ffgg
+bin/hex_to_rgb_v3 F7D8DF
+bin/hex_to_rgb_v3 aabbff
+bin/hex_to_rgb_v3 aafa
+bin/hex_to_rgb_v3 aafa44
+bin/hex_to_rgb_v3 aaff00
+bin/hex_to_rgb_v3 aafg44
+bin/hex_to_rgb_v3 abd9e
+bin/hex_to_rgb_v3 abd9ef
+bin/hex_to_rgb_v3 abd9er
+bin/hex_to_rgb_v3 abdef
+bin/hex_to_rgb_v3 abldef
+bin/hex_to_rgb_v3 ffffff
+bin/hex_to_rgb_v3 ggff00
+cargo eun
+cat NAPOVEDNIK.txt 
+cat updat
+cat ~/Downloads/update_from_en_20240912.txt 
+clear
+cp -i * ~/majstaf/majbin/
+cp -i ~/majstaf/majrcs/bashrc_prompt_nerd_muadib .
+cp -r c_999_hex_to_rgb_20240909/ ~/majstaf/coding2/testing/c_testing/
+cp -r ~/.config/dunst ~/_MGT/dotfiles_mdb/.config/
+cp -rn ~/majstaf/majmedia/Seivom/* /media/rgregor/E75F-1AEC/majmedia/Seivom/
+cp /media/rgregor/B1_2_EXT4/DRYRUN-rsync-* .
+cp /media/rgregor/B1_2_EXT4/RUN-rsync-* .
+cp hex_to_rgb_v{,2}1.c 
+cp hex_to_rgb_v{1,2}.c 
+cp hex_to_rgb_v{2,3}.c 
+cp un-mount-ex-usbs.sh ~/majstaf/src_majbin/
+danes_check 
+duh -h
+duh head
+duh | head -n 30
+for FJL in *; do ./compare.sh $FJL; done
+get
+git clone https://github.com/r-gregor/metsys_jbe.git
+git config --global --list
+git config-global
+git diff HEAD^ HEAD
+git help config
+git help config global
+git help config.global
+ip addr show
+les pdtk_20220418.txt 
+less pdtk_20220418.txt
+list_broken_symlinks 
+list_broken_symlinks | cut -d' ' -f1
+list_broken_symlinks | cut -d' ' -f1 | sed 's/://'
+lynxd "https://stackoverflow.com/questions/3723846/convert-from-hex-color-to-rgb-struct-in-c" c_convert-hex-color-to-rgb-struct
+lynxd "https://stackoverflow.com/questions/63006434/how-to-check-if-char-only-has-hex-characters-in-c" c_check-if-char-is-hex
+lynxd "https://www.codedrome.com/colour-converter-in-c/" c_colour-converter
+mdir src
+mkdir SEAGATE_1-5Tb
+mksie src
+mnt
+mv c_c* ~/majstaf/mdbgit/knowledgedb/_C_and_Cpp/
+mv c_colour-converter_20240910{,__UNEDITED}.txt 
+mv c{_999,t_133}_hex_to_rgb_20240909/
+mv hex_to_rgb_v1.c src/
+mv hex_to_rgb_v2.c src/
+mv hex_to_rgb{,_v1}.c
+mv mount_usbs.sh un-mount-ex-usbs.sh 00_ukazi_mdb/
+mv mount_{,new_}usbs.sh 
+mv mount_{new,ext}_usbs.sh 
+mv pripn{,i}-spsl 
+mv un-mount-ex{,t}-usbs.sh 
+mv ~/.local/bin/check4emptyd{,_brisi} 
+prepare-fjl-for-knowledgebase-d c_check-if-char-is-hex_20240910.txt 
+prepare-fjl-for-knowledgebase-d c_colour-converter_20240910.txt 
+prepare-fjl-for-knowledgebase-d c_convert-hex-color-to-rgb-struct_20240910.txt 
+s2 "nefault bransh main setup"
+s2 "nefault bransh main setup" """
+softlink1-fname-to-ulb check4emptyd 
+softlink1-fname-to-ulb danes_check 
+softlink1-fname-to-ulb list_broken_symlinks 
+sudo umount -v /dev/sdd*
+tm Wolfs\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\].torrent Tootsie\ \(1982\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\].torrent The\ Substance\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\].torrent 
+touch data_in.txt
+type un-mount_dev_sdbs 
+un-mount-dev-sdds 
+un-mount_dev_sdds
+which un-mount_dev_sdbs 
+while read DATA; do echo $DATA; done < data_in.txt 
+while read DATA; do echo wget $DATA; done < data_in.txt 
+while read DATA; do wget $DATA; done < data_in.txt 
+xprop
+MONITOR=HDMI-2 polybar bar
+MONITOR=HDMI-2 polybar bar -c ~/.config/polybar/config.ini
+cp -i ~/.config/i3/config .
+cp -i ~/.config/i3/config ./i3/config 
+cp -i ~/.config/kitty/kitty.conf kitty/
+cp -r ~/.config/picom .
+cp -r ~/majstaf/BRISI/_danes_20241120/dotfiles_jbe/.config/dunst .
+cp -rn ~/majstaf/majmedia/Seivom/* /media/rgregor/MEDION_sA/majmedia/Seivom/
+cp ~/.config/kitty/kitty.conf kitty/
+dunstify
+dunstify " " "TEST"
+dunstify --urgency=critical "Q" "LOW"
+dunstify --urgency=low
+dunstify --urgency=low "Q" "LOW"
+find -type d
+git branch -m main
+git init
+less README
+less README.md 
+logout_menu
+notify-send " " "TEST2"
+notify-send "TEST" "TEST2"
+picom --experimental-backend &
+picpm --experimental-backend &
+.
+. .bashrc
+./clean_ff-bookmarks ff-mdb_bookmarks_20250201.html
+./clean_ff-bookmarks_v2 ff-mdb_bookmarks_20250201.html
+./fzf-nova 
+./show_subdirs_tree 
+L
+bin/hex_to_rgb_v3 
+cat pdtk_20220418.txt 
+cp -i aliases_muadib ~/_MGT/majrcs_mdb/
+cp -i bin/hex2rgb_v3 ~/majstaf/coding2/toolbox/c_toolbox/
+cp -i majstaf/majbin/logout_menu_dmn ~/_MGT/majbin_mdb/
+cp -i show_* ~/majstaf/mdbgit/majbin_mdb/
+cp -i ~/.config/i3/config ~/_MGT/dotfiles_mdb/.config/i3/
+cp -i ~/majstaf/metsys/dmenu_font_settings_20241008.txt ~/_MGT/metsys_mdb/
+cp -r ~/Downloads/Empire\ Queen\ The\ Golden\ Age\ Of\ Magic\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ .
+cp clean_ff-bookmarks{,_v2}
+cp config config.backup.20241120.2
+diff -c config config.backup.20241120 
+git clone https://github.com/r-gregor/dotfiles_jbe.git
+git clone https://github.com/r-gregor/majbin_jbe.git
+grep -ir "transp\|opacy" *
+grep -ir "transp\|opacy" .*
+grep jbez .bashrc
+grepc -ir "transp\|opacy" .* | less
+hex2rgb ccff92
+i3_keybindings_show 
+l exercises/
+ln -s logout_menu odjava
+make clean
+mv .git .dot_git
+mv clean_ff-bookmarks{_v2,} 
+mv config.backup.20241120 config
+mv hex2rgb{_v3,} 
+mv hex{_to_,2}rgb_v1.c 
+mv hex{_to_,2}rgb_v2.c 
+mv show_trees_of_subdirs show_subdirs_tree
+mv {_brisime_,}ff-mdb_bookmarks_20250201.html 
+nitrogen 
+odjava
+s2 "Novo from mdb 20240911" """
+softlink1-fname-to-ulb hex2rgb 
+softlink1-fname-to-ulb i3_keybindings_show 
+softlink1-fname-to-ulb show_subdirs_tree 
+testing_gtgh_status_mdb 
+vlc Death.Of.A.Shadow.2012.mp4 &
+vlc Subservience.2024.mp4 &
+wget https://raw.githubusercontent.com/r-gregor/dotfiles_mdb/refs/heads/main/.config/i3/config
+xfce4-settings-editor 
+bash gh-create-new-repo-acctkn.sh 
+bin/fibonacci_2 
+co -rn ./* /media/rgregor/EKSFAT/majmedia/Seivom/
+cp -r Moonage\ Daydream\ \(2022\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ The\ Good\ Nurse\ \(2022\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240908/
+cp -r ~/Downloads/Moonage\ Daydream\ \(2022\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240908/
+cp Subs/English.srt .
+echo $GHAT 
+fg %1
+for N in $(seq 0 256); do printf "'\e[7;38;2;$N;200;200m           "; printf "\e[0m'"; done
+for N in $(seq 0 256); do printf "'\e[7;38;2;$N;200;200m           "; printf "\e[0m', "; done
+for N in $(seq 0 256); do printf "\e[7;38;2;$N;200;200m           ";printf "\e[0m"; done
+for N in $(seq 0 256); do printf "\e[7;38;2;100;100;$Nm           ";printf "\e[0m"; done
+for N in $(seq 0 256); do printf "\e[7;38;2;100;100;${N}m           ";printf "\e[0m"; done
+for N in $(seq 0 256); do printf "\e[7;38;2;200;$N;200m           ";printf "\e[0m"; done
+for N in $(seq 0 256); do printf "\e[7;38;2;200;200;$Nm           ";printf "\e[0m"; done
+for N in $(seq 0 256); do printf "\e[7;38;2;200;200;${N}m    ";printf "\e[0m "; done
+for N in $(seq 0 256); do printf "\e[7;38;2;200;200;${N}m   ";printf "\e[0m "; done
+for N in $(seq 0 256); do printf "\e[7;38;2;200;200;${N}m  ";printf "\e[0m "; done
+for N in $(seq 0 256); do printf "\e[7;38;2;200;200;${N}m  ";printf "\e[0m"; done
+for N in $(seq 0 256); do printf "\e[7;38;2;200;200;${N}m  ";printf "\e[0m|"; done
+for N in $(seq 0 256); do printf "\e[7;38;2;200;256;${N}m   ";printf "\e[0m "; done
+for N in $(seq 0 256); do printf "\e[7;38;2;256;256;${N}m   ";printf "\e[0m "; done
+ghgl-testpush-mdb 
+git push ghrst main 
+gparted
+grep -i "*nurse*" *
+grep -ir "*nurse*" *
+grep -ir "*nurse*" _DOWNLOADED_MOVIES.txt 
+inzip *.zip
+mkdir 20240908
+mv ../../../_podnapisi/moonage-daydream-2022-english-yify-461617.zip .
+printf "'\e[7;38;2;0;200;200m           "; printf "\e[0m'"
+printf "'\e[7;38;2;0;200;200m           "; printf "\e[0m', "
+printf "'\e[7;38;2;0;200;200m[           ]"'; printf "\e[0m"
+printf "'\e[7;38;2;0;200;200m[           ]"; printf "\e[0m'"
+printf "'\e[7;38;2;0;200;200m[           ]'"; printf "\e[0m"
+printf "\e[7;38;2;0;200;200m            "; printf "\e[0m"
+printf "\e[7;38;2;0;200;200m[           ] "; printf "\e[0m"
+printf "\e[7;38;2;0;200;200m[           ]"; printf "\e[0m"
+printf ''\e[7;38;2;0;200;200m[           ]''; printf "\e[0m"
+printf '\e[7;38;2;0;200;200m[           ]'; printf "\e[0m"
+printf \''\e[7;38;2;0;200;200m[           ]\''; printf "\e[0m"
+rename-to-basename-with-new-ext Moonage.Daydream.2022.mp4 Moonage.Daydream.2022.WEBRip.x264-ION10-RBB-English.srt 
+sudo apt autoremove
+sudo dmesg
+tree -d 20240*
+vlc The.Good.Nurse.2022.mp4 &
+../../../git-project-setup 
+./build_and_run_struct_test_print.sh 
+bin/fibonacci_2 1000000
+bin/fibonacci_2 10000000
+bin/fibonacci_2 100000000
+bin/fibonacci_2 1000000000
+bin/fibonacci_2 10000000000
+bin/fibonacci_2 100000000000
+bin/fibonacci_2 1000000000000
+c ..
+dbs
+for N in $(seq 0 256); do printf "\e[7;38;5;${N}m   ";printf "\e[0m "; done
+git remote
+gsz
+mkdir bin
+mkdir majbin
+mv ../../../_podnapisi/wind-river-2017-english-yify-8244.zip .
+polybar bar
+sbrn
+testing_gtgh_testpush_mdb 
+unzip wind-river-2017-english-yify-8244.zip 
+vlc First.Desires.1983.mp4 &
+vlc Wind.River.2017.mp4 &
+chmod 755 *
+db0
+eexit
+get-mdbdiffs 
+git config --global init.defaultBranch main
+history | grep sed
+show_exports_mdb 
+softlink1-fname-to-ulb todays_knowledgedb_files_mdb 
+sud co /home/tadeja/Documents/
+todays_knowledgedb_files_mdb 1
+todays_knowledgedb_files_mdb 20250304 1
+CD ..
+audo apt update && duso apt upgrade -y
+bash rename_build_to_bin_20250202.sh 
+cp -i .config/kitty/kitty.conf ~/_MGT/dotfiles_mdb/.config/kitty/
+cp move_build_to_bin.sh rename_b* ~/_MGT/prenos/
+ffn
+find -name "*.txt*"
+find -name "*.txt*" | fzvm
+find -name "*.txt*" | fzvmp
+find -name "*.txt*" | fzvmp -M
+find -name "*.txt*" | uimp
+find -type f -name Makefile
+find type d -name build
+for FFF in $(find -type f -name Makefile); do grep build $FFF; done
+for FFF in $(find -type f -name Makefile); do grep build $FFF; echo $FFF; done
+ghgl_push_mdn 
+git help add
+git push -f glrd main 
+git push glrd main 
+grep fzf *
+grepc -r './build' *
+grepc -r build *
+grepc status *
+gstz
+history 
+history | grep 2025-02-02
+history | grep 2025-02-02 | wc -l
+history | grep 20250202
+hszl
+majmedia/
+prompt_switch 
+ps aux | grep xfce4
+setfont
+udiskctl mount -b devsdb1
+udisksctl mount -b devsdb1
+udisksctl status
+vlc Empire.Queen.The.Golden.Age.Of.Magic.2024.mp4 &
+cp -rn ./* /media/rgregor/1545-AB81/majmedia/Movies/
+udisksctl help
+udisksctl mounr help
+udisksctl mount 
+udisksctl mount help
+cp -i .config/i3/config ~/_GTM/dotfiles_mdb/.config/i3/
+broken_symlinks_list 
+cp -rn ./* /media/rgregor/EKSFAT/majmedia/Seivom/
+cp -rn ~/majstaf/majmedia/Seivom/* /media/rgregor/EKSFAT/majmedia/Seivom/
+find -type d -name build
+git log
+mkdir src
+bash mount_usbs.sh 
+bb
+bbc jel
+polybar -r bar -c ~/.config/polybar/config.ini
+zig build
+čpw
+diff -c .config/kitty/kitty.conf ~/majstaf/BRISI/_danes_20241120/dotfiles_jbe/.config/kitty/kitty.conf
+diff -c .config/kitty/kitty.conf ~/majstaf/BRISI/_danes_20241120/dotfiles_jbe/.config/kitty/kitty.conf | less
+hex2rgb 
+sudo apt dist-upgrade
+udisksctl mount -b /dev/sdb1
+chmod 755 check_for_emptyd 
+cp ~/majstaf/coding2/testing/c_testing/Makefile .
+find * -maxdepth 0 -type f
+git branch
+:wq
+bin/check_for_hex_digits_v3 
+cargo tun
+polybar bar -c ~/.config/polybar/config.ini
+todays_knowledgedb_files_mdb 
+cp -r *\[YTS* ~/majstaf/majmedia/Seivom/20250201/
+git commit -a
+"""
+cargo clean 
+cp ../../../_podnapisi/moonage-daydream-2022-english-yify-461617.zip .
+sudo apt update && sudo apt upgrade -y
+vlc Moonage.Daydream.2022.mp4 &
+cat send.txt 
+cp -i .config/i3/config ~/_MGT/dotfiles_mdb/.config/i3/
+duh | head
+majbin/NOVO/check_for_emptyd 
+majbin/NOVO/check_for_emptyd ~/_NERAZPOREJENO/
+majbin/NOVO/check_for_emptyd ~/_NERAZPOREJENO/__DANES__/
+switch_prompt
+un-mount-dev-sdbs 
+git sttaus
+sudo apt reinstal chromium-browser
+sudo dpkg-reconfigure console-setup
+bbc
+cp -rn ./* /media/rgregor/MEDION_sA/majmedia/Seivom/
+git status 
+picom -b &
+snap list
+sudo apt remove --purge chromium-browser
+sudo snap remove chromium
+un-mount-dev-sdcs 
+cp -i ~/majstaf/majrcs/aliases_muadib ~/majstaf/mdbgit/majrcs_mdb/
+sudo apt upgrade
+pwd
+sudo apt update
+gyes-gadd-push-jbe 
+history
+/home/rgregor/majstaf/majbin/BrthReminder_c/BrthReminder_c_color
+db1
+mount_ext_usbs_mdb 
+sudo snap list
+glog_status_mdb 
+sudo apt-get reinstal chromium-browser
+git remote -v
+htop
+mount-ext-usbs-mdb 
+cargo clean
+mdbgt_testpush 
+mdbgt_status 
+r
+cp -rn ./* /media/rgregor/E75F-1AEC/majmedia/Seivom/
+/media/rgregor/EKSFAT/RUN-rsync-muadib_WD_5Tb 
+c d..
+chromium-browser 
+duh
+unzip *.zip
+mv ./* ../
+
+/media/rgregor/E75F-1AEC/RUN-rsync-muadib_WD_5Tb 
+check_git_diffs_mdb majrcs
+check_git_diffs_mdb metsys
+:q
+tmxks
+LL
+yes_gadd_push_jbe 
+cargo run
+picom -b
+sudo reboot
+sudo su
+make clean 
+check_git_diffs_mdb 
+un-mount_dev_sdcs 
+make
+tmxns
+/media/rgregor/B1_2_EXT4/RUN-rsync-muadib_SEAGATE_1-5Tb 
+git add .
+git status
+fm
+sbr
+dclean-movie-dname 
+tree
+ghgl_push_mdb 
+shorten-movie-name 
+ghgl_testpush_mdb 
+un-mount_dev_sdbs 
+gyes_gadd_push_jbe 
+mntm
+get_mdbdiffs 
+gst
+l
+pwf

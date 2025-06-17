@@ -1,0 +1,917 @@
+$pwd
+./check_if_mvs_in_both_dirs.sh 
+./check_if_mvs_in_both_dirs.sh 150
+./check_if_mvs_in_both_dirs.sh 15000
+./check_if_mvs_in_both_dirs.sh 1500055
+./check_if_mvs_in_both_dirs.sh 1505
+./check_if_mvs_in_both_dirs.sh 2023
+./check_if_mvs_in_both_dirs.sh a
+./get_mdbdiffs
+./softlink1-fname-to-ulb softlink1-fname-to-ulb 
+./testing_gtghstatus_mdb 
+./testing_gtghtestpush_mdb 
+./tt
+/usr/bin/cp -vi /home/rgregor/majstaf/majbin/BrthReminder_c/ROJSTNIDNEVI.txt ~/majstaf/mdbgit/majbin_mdb/BrthReminder_c/
+EXIT
+GET
+GIT status
+NM=make_random_test_moviedir 
+Subs/
+TMXKS
+[3~
+bin/ncrs_win_test_v05
+c dmed
+cat *.txt | less
+cat ../downloads_20240503.txt 
+cat downloadani_filmi_sorted_20240117_04.txt 
+cat downloads_20240503.txt 
+cat status 
+cat ~/majstaf/majmedia/downloadani_filmi_sorted_20240117_04.txt | wc -l
+check_if_mvs_in_both_dirs 2009
+check_if_mvs_in_both_dirs 2020
+check_if_mvs_in_both_dirs 20202
+check_if_mvs_in_both_dirs 202o
+chmod 755 check_if_mvs_in_both_dirs
+chmod 755 make_random_test_moviedir 
+chmod 755 ~/majstaf/majbin/update_dotfiles
+cp ${NM} ~/majstaf/src_majbin/00_ukazi_d/${NM}.sh
+cp *2020* *2009* ../Seivom/
+cp -i check_if_mvs_in_both_dirs make_random_test_moviedir ~/majstaf/mdbgit/majbin_mdb/
+cp -r *2020* *2009* ../Seivom/
+cp -r Life\ After\ Fighting\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Tetris\ \(2023\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240611/
+cp -r Out\ Of\ Darkness\ \(2022\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Damsel\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Poor\ Things\ \(2023\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240311/
+cp -r Pain\ Hustlers\ \(2023\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240503/
+cp -r Seivom/A\ Little\ Chaos\ \(2014\)/ Movies/
+cp -r Seivom/Friends\ With\ Benefits\ \(2011\)/ Movies/
+cp -r ~/Downloads/The\ Brave\ One\ \(2007\)\ \[BluRay\]\ \[720p\]\ \[YTS.AM\]/ .
+cp -r ~/majstaf/BRISI/ncurses_testing/* .
+cp -rn ./* ~/majstaf/metsys_mdb/
+cp -rn Seivom/* /media/rgregor/EKSFAT/majmedia/Seivom/
+cp -rn majstaf/majmedia/Seivom/* /media/rgregor/EKSFAT/majmedia/Seivom/
+cp -rn ~/majstaf/majmedia/Movies/* /media/rgregor/1545-AB81/majmedia/Movies/
+cp ../../../_podnapisi/the-brave-one-2007-english-yify-103009.zip .
+cp English\ \(SDH\).eng.srt ../
+cp Seivom/Friends\ With\ Benefits\ \(2011\)/ Movies/
+cp Subs/English\ \(CC\).eng.srt ./english.srt
+cp check_if_mvs_in_both_dirs ~/majstaf/src_majbin/00_ukazi_d/check_if_mvs_in_both_dirs.sh 
+cp check_if_mvs_in_both_dirs{,_backup.txt}
+cp get_mdbdiffs{_backup_v1}
+cp mdbgtstst_backup_20240229 old-versions/
+cp mdbgtstst{,_backup_20240229} 
+cp ~/majstaf/majrcs/aliases_muadib ~/majstaf/mdbgit/majrcs_mdb/
+dkdb commit -a
+dkdb commit -m "update 20240327_0732_mdb"
+dkdb commit -m "update 20240416_0735_mdb"
+dkdb commit -m "update 20240427_1804_mdb"
+dkdb commit -m update "20240416_0735_mdb"
+dkdb log
+duh ODPRTO | head
+duh ODPRTO/ | head
+duh SKUPNI | head
+duh | head
+dvol remote -v 
+efibootmgr -v
+etree
+ffmpeg
+ffmpeg --version
+ffmpeg -v
+ffmpeg version
+find * -maxdepth 0 -type f
+find * -maxdepth 0 -type f | xargs -I{} ~/majstaf/majbin_mdb/softlink1-fname-to-ulb {}
+find -empty
+find -iname "*her*"
+find -iname "*tmux*"
+find -l
+find -link
+find -maxdepth 1 -type l
+find -type d -empty
+find -type f -iname "marko*"
+find -type l
+find ../ -size +100M
+find ../Movies/ -iname "*muskete*"
+find /media/rgregor/EKSFAT/majmedia/ -iname "*exc*"
+find ~/majstaf/majmedia/ -iname "*dau*"
+find ~/majstaf/majmedia/ -iname "*exc*"
+find ~/majstaf/majmedia/ -iname "*excep*"
+find ~/majstaf/majmedia/ -iname "*hust*"
+find ~/majstaf/majmedia/ -iname "*kin*"
+find ~/majstaf/majmedia/ -iname "*pai*"
+find ~/majstaf/majmedia/ -iname "*promis*"
+for FFF in *; do softlink1-fname-to-ulb $FFF; done
+for N in $(seq 1 20); do make_random_test_moviedir; done
+ghgltestpush_mdb 
+git btranch
+git clone "https://github.com/r-greg"
+git clone "https://github.com/r-gregor"
+git clone git@github:r-gregor/majbin_en.git
+git clone git@github_r-gregor/majbin_en.git
+git clone https://github.com/r-gregor/ncurses_testing.git
+git commit -m "BIG update 20240229_1735_mdb"
+git commit -m "update 202402
+git commit -m "update 20240229_0741_mdb"
+git commit -m "update 20240229_1738_mdb"
+git commit -m "update 20240229_1806_mdb"
+git commit -m "update 20240329_1647_mdb"
+git commit -m "update 20240416_0737_mdb"
+git commit -m "update 20240423_1654_mdb"
+git commit -m "update 20240424_1806_mdb"
+git commit -m "ups"
+git commit -m "ups2"
+git config
+git mranch
+git push ghmdb 
+git remote
+git remote add ghnct git@github.com:r-gregor/ncurses_testing.git
+git reset --hard HEAD
+git reset --soft HEAD~1
+git sta
+git staT
+grep -i her downloadani_filmi_sorted_20240117_04.txt 
+grep -i hustl *.txt
+hast
+l ../Seivom/
+l ~/.local/bin/
+less downloadani_filmi_sorted_20240117_04.txt 
+less setup.txt 
+mc Damsel\ \(2024\)/ ../
+mkdir -p ~/majstaf/majmedia/Seivom/20240503
+mkdir 20240224
+mkdir 20240311
+mkdir 20240503
+mkdir 20240511
+mkdir 20240611
+mkdir Movies Seivom
+mkdir old-versions
+mkdir testing_20240423
+mount
+mv -i Friends\ With\ Benefits\ \(2011\)/ ../Movies/
+mv ../../../_podnapisi/marguerites-theorem-2023-english-yify-624357.zip .
+mv ../../../_podnapisi/master-cheng-2019-english-yify-596134.zip .
+mv ../../../_podnapisi/the-exception-2016-english-yify-36280.zip .
+mv ../../../_podnapisi/the-way-way-back-2013-english-yify-75792.zip .
+mv ../Seivom/Friends\ With\ Benefits\ \(2011\)/ .
+mv ../Seivom/Lady\ Chatterleys\ Lover\ \(2015\)/ .
+mv ../Seivom/Master\ Cheng\ \(2019\)/ .
+mv ../Seivom/The\ Exception\ \(2016\)/ .
+mv 20221012/Silver\ Skates\ \(2020\)/ __SUBS-MUST-BE-CORRECTED__/
+mv 20231130/Obi-Wan\ Kenobi\ \(2022\)/ __NO-SUBS__/
+mv A\ Little\ Chaos\ \(2014\)/ ../
+mv Damsel\ \(2024\)/ ../
+mv English\ \(SDH\).eng.srt EN.srt
+mv Friends\ With\ Benefits\ \(2011\)/ ../Movies/
+mv Lady\ Chatterleys\ Lover\ \(2015\)/ ../Movies/
+mv Love\ Lies\ Bleeding\ \(2024\)/ ../
+mv Maksym\ Osa\ \(2022\)/ ../__SUBS-MUST-BE-CORRECTED__/
+mv Marguerites\ Theorem\ \(2023\)/ ../
+mv Master\ Cheng\ \(2019\)/ ../
+mv Master\ Cheng\ \(2019\)/ ../Movies/
+mv Out\ Of\ Darkness\ \(2022\)/ ../
+mv Pain\ Hustlers\ \(2023\)/ ../
+mv SKENIRANI_RACUNI{,_staro}
+mv SLIKE/ ../
+mv Seivom2 Seivom
+mv Seivom{,2}
+mv The\ Beast\ \(2023\)/ ../
+mv The\ Brave\ One\ \(2007\)\ \[BluRay\]\ \[1080p\]\ \[YTS.AM\]-English.srt English.srt
+mv The\ Exception\ \(2016\)/ ../
+mv The\ Exception\ \(2016\)/ ../Movies/
+mv The\ Promised\ Land\ \(2023\)/ ../
+mv The\ Way\ Way\ Back-English.srt EN.srt
+mv The\ Way\ Way\ Back\ \(2013\)/ ../
+mv _ZA-TADEJO/ Documents/
+mv apps_setups/ ~/majstaf/
+mv check_if_mvs_in_both_dirs{.1,} 
+mv downloads_20240503.txt ../
+mv get_ddifs_backup{,_v1} 
+mv ghglpush_{en,mdn} 
+mv ghgltestpush_{en,mdb}
+mv majbin{,_mdb}
+mv majbin{_mdb,}
+mv majrcs{,_mdb}
+mv majrcs{_mdb,}
+mv metsys_muadib metsys_mdb
+mv metsys_muadib/* .
+mv old_home/SLIKE/ .
+mv testing_gtghstatus_{en,mdb} 
+mv testing_gtghtestpush_{en,mdb} 
+mv ~/majstaf/majmedia/_podnapisi/the-beast-2023-10010520.zip .
+mvol status
+nvol remote -v
+prepare-fjl-for-knowledgebase-d c_closures-as-library_20240819.txt 
+rename-to-basename-with-new-ext EN.srt Pain.Hustlers.2023.mp4 
+rename-to-basename-with-new-ext EN.srt The.Way.Way.Back.2013.mp4 
+rename-to-basename-with-new-ext English.srt The.Brave.One.2007.mp4 
+rename-to-basename-with-new-ext The.Beast.2023.1080p.BluRay.x264.AAC5.1-\[YTS.MX\].srt The.Beast.2023.mp4 
+softlink1-fname-to-ulb duh
+softlink1-fname-to-ulb get_mdbdiffs
+softlink1-fname-to-ulb ghgltestpush_mdb 
+softlink1-fname-to-ulb make_random_test_moviedir 
+softlink1-fname-to-ulb ~/majstaf/majbin/contains
+softlink1-fname-to-ulb ~/majstaf/majbin/update_dotfiles
+su tadeja
+sudo * -maxdeptgh 0 find -empty
+sudo . -maxdeptgh 0 find -empty
+sudo apt remove
+sudo apt-cache search adobe
+sudo apt-cache search adobe | grep -i adobe
+sudo apt-cache search adobe | grep adobe
+sudo cp -r _ZA-TADEJO/ /home/tadeja/Documents/
+sudo fc-cache -f -v
+sudo find * -maxdeptgh 0 find -empty
+sudo find * -maxdepth 0 find -empty
+sudo find -empty
+sudo find ./ -maxdepth 0 -empty
+sudo find ./ -maxdepth 1 -empty
+sudo mv old_home/SLIKE/ .
+sudo mv {,old_}home
+sudo su
+suod apt update
+tree -d media/
+tree 202*
+tt
+un-mount_dev_sdb
+un-mount_dev_sdbs
+un-mount_dev_sdcs
+unzip the-beast-2023-10010520.zip 
+unzip the-brave-one-2007-english-yify-103009.zip 
+update_dotfiles 
+v
+vf 20240409/
+vlc A.Little.Chaos.2014.mp4 &
+vlc Damsel.2024.mp4 &
+vlc Lady.Chatterleys.Lover.2015.mp4 &
+vlc Lady.Chatterleys.Lover.2022.mp4 &
+vlc Life.After.Fighting.2024.mp4 &
+vlc Love.Lies.Bleeding.2024.mp4 
+vlc Marguerites.Theorem.2023.mp4 
+vlc Master.Cheng.2019.mp4 &
+vlc Out.Of.Darkness.2022.mp4 &
+vlc Pain.Hustlers.2023.mp4 &
+vlc Red.Sparrow.2018.mp4 &
+vlc Tetris.2023.mp4 &
+vlc The.Beast.2023.mp4 &
+vlc The.Brave.One.2007.mp4 &
+vlc The.Promised.Land.2023.mp4 &
+vlc The.Way.Way.Back.2013.mp4 &
+wget "https://raw.githubusercontent.com/r-gregor/majbin_en/main/check_if_mvs_in_both_dirs"
+wget "https://raw.githubusercontent.com/r-gregor/majbin_en/main/make_random_test_moviedir"
+y
+~/majstaf/majbin_mdb/duh
+~/majstaf/majbin_mdb/duh | head
+./BrthReminder_c
+./BrthReminder_v20
+./BrthReminder_v22_colors
+./BrthReminder_v22_colors 
+./build_and_run.sh 30 25
+./build_and_run.sh substring_withpointers_v3.c -5 15
+./build_and_run.sh substring_withpointers_v3.c 30 25
+./build_and_run.sh substring_withpointers_v3.c 5 15
+./build_and_run.sh substring_withpointers_v3.c 5 150
+./build_and_run.sh substring_withpointers_v3.c 5 2
+./check_if_mvs_in_both_dirs 
+./check_if_mvs_in_both_dirs 2011
+./check_if_mvs_in_both_dirs.sh
+./check_if_mvs_in_both_dirs.sh 1500
+./check_if_mvs_in_both_dirs.sh 150000
+./check_if_mvs_in_both_dirs.sh 201
+./check_if_mvs_in_both_dirs.sh 2011
+./check_if_mvs_in_both_dirs.sh 2011 d
+./check_if_mvs_in_both_dirs.sh 20111
+./check_if_mvs_in_both_dirs.sh 20133
+./check_if_mvs_in_both_dirs.sh 2014
+./check_if_mvs_in_both_dirs.sh 20145
+./check_if_mvs_in_both_dirs.sh 20146
+./check_if_mvs_in_both_dirs.sh 2014e
+./check_if_mvs_in_both_dirs.sh ALL
+./compare.sh "One Day as a Lion (2023) [720p] [WEBRip] [YTS.MX].torrent"
+./mdbgtstst 
+./mdbgttestpush 
+CD ..
+FM
+L
+NM="Ghost"
+PTRN="quiet"
+TREE
+alias | grep dvol
+bb
+bbc
+bin/BrthReminder_c
+bin/BrthReminder_c_color 
+bin/BrthReminder_v20 
+bin/BrthReminder_v22_colors 
+bin/leap-years-write-to-file_v3 
+bin/main7 
+bin/substring_withpointers_v3 0 3
+bin/substring_withpointers_v3 1 3
+bin/substring_withpointers_v3 11 13
+bin/substring_withpointers_v3 15 145
+bin/substring_withpointers_v3 15 45
+bin/substring_withpointers_v3 54 11
+bin/substring_withpointers_v3 54 12
+bin/substring_withpointers_v3 54 30
+c
+c dFi
+c dSu
+cal
+cal -C
+cal -M
+cal -b
+cal -d 2023-03
+cal -d 2023-03 -H
+cal -d 2023-03 -h
+cal -dh 2023-03
+cal -e
+cal -h
+cal -m 02 2000
+cal -m 12
+cal -m 2
+cal -p
+cal 2023-02
+cal _C
+cargo run
+cat OUTPUT_leap-years_20240321_170628.txt 
+cat OUTPUT_leap-years_20240321_170724.txt 
+cat OUTPUT_leap-years_20240331_151820.txt 
+cat _movies-list_202* > _movies-list_20240618.txt
+check_if_mvs_in_both_dirs 2011
+check_if_mvs_in_both_dirs 2014
+chmod 644 ./*
+chmod 755 compare.sh 
+chmod 755 compare.sh ¸
+chmod 755 dvol_*
+chmod 755 get_mdb_diffs 
+color10bit 
+cp -i ./* ~/majstaf/majbin/BrthReminder_c/
+cp -i .config/mc/ini ~/majstaf/mdbgit/dotfiles_mdb/.config/mc
+cp -i BrthReminder_v2* ~/majstaf/majbin/BrthReminder_c/
+cp -i check_if_mvs_in_both_dirs.sh ~/majstaf/majbin/check_if_mvs_in_both_dirs 
+cp -i check_if_mvs_in_both_dirs.sh ~/majstaf/mdbgit/majbin_mdb/check_if_mvs_in_both_dirs 
+cp -i majstaf/majbin/get_saved_link_address_and_name_by_timestamp ~/majstaf/mdbgit/majbin_mdb/
+cp -i majstaf/majrcs/funclist ~/majstaf/mdbgit/majrcs_mdb/
+cp -i ~/majstaf/majrcs/aliases_muadib ~/majstaf/mdbgit/majrcs_mdb/
+cp -r ./* ~/majstaf/mdbgit/
+cp -r BAJSOVA/ ~/Dropbox/SKUPNI/
+cp -r Finestkind\ \(2023\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240817/
+cp -r Sex-Positive\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Widow\ Clicquot\ \(2023\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ The\ Core\ \(2003\)/ The\ Abyss\ \(1989\)\ \[REPACK\]\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240817/
+cp -r ~/.config/kitty/blured_bgs ~/majstaf/mdbgit/dotfiles_mdb/.config/kitty/
+cp -r ~/Downloads/American\ Hustle\ \(2013\)/ 20240311/
+cp -r ~/Downloads/Code\ 8\ Part\ II\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/Road\ House\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ .
+cp -rf ~/Dropbox/SKUPNI/BERLIN_2024/* .
+cp -rn majstaf/majmedia/Seivom/* /media/rgregor/1545-AB81/majmedia/Seivom/
+cp BrthReminder_v2* ../
+cp Poor.Things.2023.srt{,.ORIGINAL.txt} 
+cp ROJSTNIDNEVI.txt bin/
+cp d_metsys_git/src_d_metsys/.gitignore mdbgit/
+cp daysdiff.h ../
+cp get_mdbdiffs{,_backup} 
+cp ~/Downloads/American\ Hustle\ \(2013\)/ 20240311/
+diff . ~/Dropbox/SKUPNI/BERLIN_2024
+diff Ryanair_Venezia_parking/ Venezia_parking/
+dkdb commit -m "how to remove snap/firefox 20240425_0735_mdb"
+dkdb commit -m "update 20240312_2048_mdb"
+dkdb commit -m "update 20240325_0738_mdb"
+dkdb commit -m "update 20240403_0728_mdb"
+dkdb commit -m "update 20240409_0720_mdb"
+dkdb commit -m "update 20240410_1757_mdb"
+dkdb push
+dkdb push -n 
+duh BAJSOVA
+duh BAJSOVA/
+duh _ORIGINALI
+duh _ORIGINALI/
+dvol add .
+dvol branch -m main
+dvol commit -m "Initial commit 20240227_1806_mdb"
+dvol push -n ghmdb
+dvol push -n glmdb
+dvol push ghmdb main
+dvol push glmdb
+dvol remote add ghmdb git@github.com:r-gregor/vlpprs_mdb.git
+dvot push -n ghmdb
+exir
+find * -maxdeept 2 -name .gitignore
+find * -maxdepth 0 -type d -exec cp -v .gitignore {}/ \;
+find * -maxdepth 0 -type d | grep -v '__'
+find * -maxdepth 0 -type d | grep -v '__' | xargs -I{} mv -v {} ../
+find * -maxdepth 2 -name .gitignore
+find -iname "*cod*"
+find -iname "*press*"
+find -name "*while*"
+find -name .gitignore
+find -size +1M
+find -size +500M
+find -type d -size +100M
+find -type d -size +10M
+find -type d -size +1M
+find -type d -size +500M
+for FFF in mdbgt*; do softlink1-fname-to-ulb $FFF
+for FFF in mdbgt*; do softlink1-fname-to-ulb $FFF; done
+for FJL in *; do compare $FJL; done
+for FJL in *; do echo $FJL | ./compare.sh -; done
+for FJL in *; do echo $FJL | ./compare.sh ; done
+for FJL in *; do echo $FJL | xargs -I{} ./compare.sh {}; done
+for FJL in *; do echo $FJL | xargs ./compare.sh; done
+for FJL in *; do echo $FJL; done
+gi status
+git add 
+git branch
+git clone git@github.com:r-gregor/majbin_en.git
+git commit -m "Initial commit 20240227_1738_mdb"
+git commit -m "Initial commit 20240227_1740_mdb"
+git commit -m "Initial commit 20240227_1742_mdb"
+git commit -m "Initial commit 20240227_1744_mdb"
+git commit -m "Initial commit 20240227_1746_mdb"
+git commit -m "added .gitignore"
+git commit -m "update 20240331_1519_mdb"
+git commit -m "update 20240412_0758_mdb"
+git commit -m "update 20243014_1801_mdb"
+git commit -m "update_20240309_2132_mdb"
+git init
+git init --bare
+git push ghct main -n
+git push ghmdb main
+git push ghmdb main 
+git remote add ghmdb git@github.com:r-gregor/dotfiles_mdb.git
+git remote add ghmdb git@github.com:r-gregor/majbin_mdb.git
+git remote add ghmdb git@github.com:r-gregor/majrcs_mdb.git
+git remote add ghmdb git@github.com:r-gregor/metsys_mdb.git
+git remote add ghmdb git@github.com:r-gregor/seznami_mdb.git
+grep -i "$NM" *
+grep -i "$NM" downloads_20240618.txt 
+grep -i $PTRN _DOWNLOADS.txt 
+grep -i charl downloads_20240618.txt 
+grep -i mil _DOWNLOADS.txt 
+grep -i monkex downloads_20240618.txt 
+grep -i monkey downloads_20240618.txt 
+grep -i vol ~/majstaf/majrcs/aliases_muadib
+grep -il tmp
+grep -il tmp *
+grep vol ~/majstaf/majrcs/aliases_muadib
+grep volp aliases_gredelonghi_en 
+l ~/Dropbox/SKUPNI/
+lA
+less _NEW_MOVIES_20240329.txt 
+less downloads_20240503.txt 
+less list_dotfiles_20211102.txt 
+lynxd "https://www.debugpoint.com/remove-firefox-snap-ubuntu/" firefox_remove-snap-ubuntu
+majstaf/majbin/tt 
+make 
+mdbgttestpush 
+mkae
+mkdir 20240309
+mkdir 20240325
+mkdir 20240622
+mkdir mdbgit
+mkdir ~/majstaf/mdbgit/vlpprs_mdb
+mv -n c_books/* knowledge_books/c_books/
+mv -rn c_books/* knowledge_books/c_books/
+mv 20240329_02/__SUBS-MUST-BE-CORRECTED__/ .
+mv BrthReminder_c_color{s,} 
+mv BrthReminder_v20 BrthReminder_c
+mv BrthReminder_v20.c BrthReminder_c
+mv BrthReminder_v20.c BrthReminder_c.c
+mv BrthReminder_v22_colors BrthReminder_c_colors
+mv BrthReminder_v22_colors.c BrthReminder_c_color
+mv BrthReminder_v22_colors.c BrthReminder_c_color.c 
+mv Code\ 8\ Part\ II\ \(2024\)/ ../
+mv Daybreakers\ \(2009\)/ ../
+mv Dune\ Part\ Two\ \(2024\)/ ../
+mv Knox\ Goes\ Away\ \(2023\)/ ../
+mv OUTPUT_leap-years_20240321_170724.txt ~/Documents/
+mv Poor\ Things\ \(2023\)/ ../__SUBS-MUST-BE-CORRECTED__/
+mv Road\ House\ \(2024\)/ ../
+mv Widow\ Clicquot\ \(2023\)/ The\ Core\ \(2003\)/ ../
+mv downloads_20240{503,618}.txt 
+mv get_ddifs{,_staro}
+mv get_mdb{_,}diffs 
+mv get_ndiffs get_mdb_diffs 
+mv {en,mdb}gtstst 
+mv {en,mdb}gttestpush 
+mv ~/majstaf/majmedia/_podnapisi/american-hustle-2013-english-yify-67724.zip .
+mv ~/majstaf/majmedia/_podnapisi/dune-part-two-2024-english-yify-618067.zip .
+mv ~/majstaf/majmedia/_podnapisi/en-poor-things-2023-SubRip-utf-8.zip .
+ncal
+ncal -M
+ncal -b
+ncal -b -h
+ncal -b -m -e
+ncal -b -m 4
+ncal -b -m 4 -e
+ncal -b -m 7
+ncal -b -m5
+ncal -be
+ncal -d 2023-03
+ncal -d 2038-02
+ncal -d 2038-02 -b
+ncal -e
+ncal -m 02 2000
+ncal -p
+ncal 2023-03
+nifs
+nvol
+prepare-fjl-for-knowledgebase-d firefox_remove-snap-ubuntu_20240425.txt 
+ps aux
+ps aux | grep vlc
+rename-to-basename-with-new-ext Poor.Things.2023.1080p.WEB-DL.DDP5.1.Atmos.H.264-FLUX.srt Poor.Things.2023.mp4 
+rename-to-basename-with-new-ext subs_corrected_20240412_210234.srt Poor.Things.2023.mp4 
+rename-to-basename-with-new-ext subs_corrected_20240412_210518.srt Poor.Things.2023.mp4 
+rsort-by-tmstmp_c 
+rsort-by-tmstmp_c ~/Dropbox/ODPRTO/_LINUX_SYSTEM/ | head
+rsort-by-tmstmp_c ~/majstaf/coding2/testing/c_testing/
+rsort-by-tmstmp_c ~/majstaf/coding2/testing/c_testing/ | head
+softlink1-fname-to-ulb get_mdbdiffs 
+stat ~/Dropbox/SKUPNI/BERLIN_2024/*
+tmxka
+touch BRISIME.txt
+type neww
+vf Sex-Positive\ \(2024\)/
+vlc American.Hustle.2013.mp4 &
+vlc Code.8.Part.II.2024.mp4 &
+vlc Daybreakers.2009.mp4 &
+vlc Dune.Part.Two.2024.mp4 &
+vlc Finestkind.2023.mp4 
+vlc Knox.Goes.Away.2023.mp4 &
+vlc Lights.Out.2024.mp4 &
+vlc Red.Right.Hand.2024.mp4 &
+vlc Road.House.2024.mp4 &
+vlc The.Exception.2016.mp4 &
+wget "https://raw.githubusercontent.com/r-gregor/majbin_en/main/get_ndiffs"
+wget "https://raw.githubusercontent.com/r-gregor/majrcs_en/main/aliases_gredelonghi_en"
+which color10bit 
+while read LINE; do echo ${LINE%%*[}; done
+while read LINE; do echo ${LINE%)}; done
+while read LINE; do echo ${LINE%*)}; done
+while read LINE; do echo ${LINE}; done
+while read LINE; do echo ${line%)}; done
+xs
+~/majstaf/majbin/subtitles/subs-correct Poor.Things.2023.srt -4
+~/majstaf/majbin/subtitles/subs-correct subs_corrected_20240412_210234.srt -1
+./get_mdb_diffs 
+DB1
+NM="back"
+NM="ghost"
+bin/ncrs_win_test_v05 
+cat .gitignore 
+check_if_mvs_in_both_dirs
+check_if_mvs_in_both_dirs 
+cp -i get_mdb_diffs ~/majstaf/mdbgit/majbin_mdb/
+cp -i ~/.config/kitty/kitty.conf ~/majstaf/mdbgit/dotfiles_mdb/.config/kitty/
+cp -n ./* ~/Dropbox/KNOWLEDGEBASE/knowledge_books/c_books/
+cp -r Furiosa\ A\ Mad\ Max\ Saga\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240801/
+cp -r Land\ Of\ Bad\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Air\ Force\ One\ Down\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Lights\ Out\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Red\ Right\ Hand\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240224/
+cp -r Movies/* /media/rgregor/EKSFAT/majmedia/Movies/
+cp -r Seivom/* /media/rgregor/EKSFAT/majmedia/Seivom/
+cp -r knowledge_* ~/Dropbox/KNOWLEDGEBASE/
+cp -rn ./* /media/rgregor/1545-AB81/majmedia/Movies/
+cp -rn ./Movies/* /media/rgregor/1545-AB81/majmedia/Movies/
+cp -rn Arthur\ The\ King\ \(2024\)/ /media/rgregor/1545-AB81/majmedia/Movies/
+cp -rn Movies/* /media/rgregor/1545-AB81/majmedia/Movies/
+cp Arcadian.2024.720p1080p.WEBRip.x264.AAC-\[YTS.MX\]-English.srt En.srt
+dkd status
+dkdb commit -m "update 20240329_1548_mdb"
+echo $CDPATH
+echo $CDPATH 
+echo find -iname "*${NM}*" 
+echo find -iname "\"*${NM}*\"" 
+find -iname "*${NM}*" 
+find -iname "*arc*"
+find -iname "*back*"
+find -iname "*gho*"
+find -iname "*ghost*"
+find -iname "\"*${NM}*\"" 
+find -size +100M
+find iname "*${NM}*" 
+fn
+for FFF in *; do echo $FFF; done
+for FJL in *; do ./compare.sh $FJL; done
+gds_
+git clone https://github.com/r-gregor/knowledgedb.git
+git commit -m "update 20240228_0016_mdb"
+git commit -m "update 20240228_0727_mdb"
+git push glmdb 
+git remote add ghkdb git@github.com:r-gregor/knowledgedb.git
+git remote remove origin
+glog_status
+glog_status | less
+gpdtestpush 
+grep -B 3 dkdb ~/majstaf/majrcs/aliases_muadib
+grep -i "arcad*" downloads_20240618.txt 
+grep -i $NM downloads_20240618.txt 
+grep dkdb ~/majstaf/majrcs/aliases_muadib
+hoet
+host
+kitty
+l 202403*
+l Subs/
+less downloads_20240618.txt 
+mdbgtstst
+mdbgtstst 
+mdbgtstst | less
+mkdir 20240329
+mkdir 20240801
+mv ../../../_podnapisi/arcadian-2024-english-yify-624953.zip .
+mv American\ Hustle\ \(2013\)/ ../
+mv Arthur\ The\ King\ \(2024\)/ ../Movies/
+mv Seivom/Friends\ With\ Benefits\ \(2011\)/ Movies/
+mv Seivom/Friends\ With\ Benefits\ \(2011\)/ Seivom/
+mv Subs/English.eng.srt .
+rename-to-basename-with-new-ext En.srt Arcadian.2024.mp4 
+rename-to-basename-with-new-ext English.srt Horizon.An.American.Saga.-.Chapter.1.2024.mp4 
+softlink1-fname-to-ulb get_mdb_diffs 
+touch __NO-SUBS-ON_20240801.txt
+tree Seivom/
+unzip arcadian-2024-english-yify-624953.zip 
+vlc Arcadian.2024.mp4 &
+vlc Chief.Of.Station.2024.mp4 &
+vlc Furiosa.A.Mad.Max.Saga.2024.mp4 &
+vlc Horizon.An.American.Saga.-.Chapter.1.2024.mp4 &
+vom main7.c 
+watch -n1 -d dbs
+wget "https://raw.githubusercontent.com/r-gregor/majbin_jbe/main/get_jbediffs"
+xs ext_WD_usbHDD_2TB/
+xs n_bekaps/Downloads_cugr_en/
+./COLORS
+./HELLO2_C 
+./HELLO_C 
+./build_and_run.sh substring_withpointers_v3.c 
+:wq
+amke cle
+bash 01_COLLECT-ALL-COMMANDS-from-history-en-dat_to_single-file.onl.txt 
+bin/ZpPadec 
+bin/ZpPadec 203.15 203.45 145.77
+bin/ZpPadec 203.15 203.45 45.77
+bin/custom_string_type_test_v5 
+bin/substring_withpointers_v2
+bin/substring_withpointers_v2 
+bin/substring_withpointers_v3
+bin/substring_withpointers_v3 11 2
+bin/substring_withpointers_v3 11 3
+c d..
+cat OUTPUT_leap-years_20240805_074026.txt 
+cat git_config_202*
+cat git_config_202* | xargs cat
+cp -i aliases_muadib ~/majstaf/d_metsys_git/src_d_metsys/majrcs_d/
+cp -i apt_clean_autoclean_autoremove_20230927.txt ffmpeg_cut-part-of-mp3_20240224.txt ~/majstaf/d_metsys_git/src_d_metsys/metsys_d/metsys_muadib/
+cp -i substring_withpointers_v{3,2}.c
+cp -r Baby\ Driver\ \(2017\)\ \[YTS.AG\]/ Drive\ \(2011\)/ ~/majstaf/majmedia/Seivom/20240226/
+cp -r Gepack\ \(2024\)\ \[SLOVENIAN\]\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ The\ Union\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Fly\ Me\ To\ The\ Moon\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ ~/majstaf/majmedia/Seivom/20240817/
+cp -r ~/Downloads/Boss\ Level\ \(2020\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/Cyborg\ Girl\ \(2008\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/Erased\ \(2012\)/ .
+cp -r ~/Downloads/On\ Fire\ \(2023\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/Restore\ Point\ \(2023\)\ \[BLURAY\]\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ .
+cp -r ~/Downloads/The\ Departed\ \(2006\)/ .
+cp -r ~/Downloads/The\ Fox\ \(2022\)\ \[720p\]\ \[BluRay\]\ \[YTS.MX\]/ .
+cp kitty.conf{,.backup_20240314} 
+diff 01_COLLECT*
+diff substring_withpointers_v1.c substring_withpointers_v2.c 
+diff substring_withpointers_v2.c substring_withpointers_v3.c 
+diff substring_withpointers_v{2,3}.c
+dkdb commit -m "update 20240319_1700_mdb"
+dkdb commit -m "update 20240404_1649_mdb"
+dkdb commit -m "update 20240410_0728_mdb"
+dkdb remo
+dkdb remote --get-url
+excit
+file /usr/bin/thunderbird 
+find * -maxdepth 0 -type d
+find -iname "*pico*"
+find -type f -iname "*redelonghi*"
+get_ddifs 
+git commit -a 
+git commit -m "update 202403112_2303__mdb"
+git commit -m "update 20240313_0737_mdb"
+grep -i 'yts_' ~/majstaf/seznami/* | less
+grep -i family ~/majstaf/majmedia/_DOWNLOADS.txt 
+grep -i fzf ~/majstaf/majrcs/aliases_muadib
+grep -i yts ~/majstaf/seznami/* | less
+grep -ir yts ~/majstaf/seznami/*
+grep -ir yts ~/majstaf/seznami/* | less
+grep -l 'gitconfig' *
+grep COMMANDS *
+grep xargs ~/majstaf/majrcs/aliases_muadib
+grepc -l 'gitconfig' *
+grepc -l 'gitconfig' * | less
+grepc -nH 'gitconfig' *
+grepc -nH 'gitconfig' * | less
+grepc -r 'yts_' ~/majstaf/seznami/* | less
+grepc HOME ~/majstaf/majrcs/aliases_muadib
+grepc dvol ~/majstaf/majrcs/aliases_muadib
+grepc mdb ~/majstaf/majrcs/aliases_muadib
+l1
+less _DOWNLOADS.txt 
+mkdir 20240226
+mkdir 20240329_02
+mkdir 20240409
+mkdir 20240817
+mkdir __SUBS-MUST-BE-CORRECTED__
+mkdir src
+mv ../../../_podnapisi/baby-driver-2017-english-yify-28739.zip .
+mv ../../../_podnapisi/boss-level-2020-english-yify-263846.zip .
+mv ../../../_podnapisi/cyborg-girl-2008-english-yify-326206.zip .
+mv ../../../_podnapisi/drive-2011-english-yify-243642.zip .
+mv Baby\ Driver\ \(2017\)\ \[1080p\]\ \[YTS.MX\]-English.srt English.srt
+mv Boss\ Level\ \(2020\)/ Erased\ \(2012\)/ __SUBS-MUST-BE-CORRECTED__/
+mv Cyborg{\ ,.}Girl.2008.srt 
+mv Drive.2011.720p.BluRay.x264.\ YTS.MX-English.srt English.srt
+mv Gepack.2024.SLOVENIAN.720p.WEBRip.x264.AAC-\[YTS.MX\].mp4 Gepack.2024.mp4 
+mv The\ Fox\ \(2022\)/ __SUBS-MUST-BE-CORRECTED__/
+mv downloads_20240618.txt _DOWNLOADS.txt
+mv substring_withpointers_v1.c src/
+mv {01,staro}_COLLECT_ALL_COMMANDS_from_history_en_dat_to_single_file.onl.txt 
+print256colours 
+r mw
+rename-to-basename-with-new-ext Boss-Level-2020-1080p-WEB-DL-DD5.1-H264-English.srt Boss.Level.2020.mp4 
+rename-to-basename-with-new-ext English.srt Baby.Driver.2017.mp4 
+rename-to-basename-with-new-ext English.srt Drive.2011.mp4 
+rename-to-basename-with-new-ext English.srt The.Union.2024.mp4 
+s2 "TUI from home 20240411" "https://github.com/ArthurSonzogni/FTXUI?tab=readme-ov-file"
+sensors
+stat 01_COLLECT*
+sudo apt --dist upgrade
+sudo apt clean
+sudo autoremove
+sudo dmesg
+sudo dmesg | grepc -i error
+sudo dmesg | grepc -i warn
+tree 202403*
+tree | clm
+un-mount_dev_sd
+uname -a
+uname -r
+unzip boss-level-2020-english-yify-263846.zip 
+unzip cyborg-girl-2008-english-yify-326206.zip 
+valgrind-test ~/majstaf/majbin/rsort-by-tmstmp_c ~/Dropbox/ODPRTO/_C_and_Cpp/ 
+valgrind-test ~/majstaf/majbin/rsort-by-tmstmp_c ~/Dropbox/ODPRTO/_C_and_Cpp/ | grep ^==
+valgrind-test ~/majstaf/majbin/rsort-by-tmstmp_c ~/Dropbox/ODPRTO/_C_and_Cpp/ | less
+vlc Baby.Driver.2017.mp4 &
+vlc Boss.Level.2020.mp4 &
+vlc Drive.2011.mp4 
+vlc Erased.2012.mp4 &
+vlc Fly.Me.To.The.Moon.2024.mp4 &
+vlc Poor.Things.2023.mp4 &
+vlc Restore.Point.2023.
+vlc Restore.Point.2023.mp4 &
+vlc The.Departed.2006.mp4 &
+vlc The.Union.2024.mp4 &
+which thunderbird
+čč
+./nct_01 
+bin/nct_01 
+cat _NEW_MOVIES_2024-03-11_28.txt 
+cp -rn ./* /media/rgregor/EKSFAT/majmedia/Seivom/
+cp -rn ~/majstaf/majmedia/Seivom/* /media/rgregor/1545-AB81/majmedia/Seivom/
+cp nct_01.c nct01.c
+cp ~/majstaf/coding2/testing/c_testing/Makefile .
+dkdb remote -v
+dvol remote -v
+git status 
+makdir bin
+make clean
+mkdir -p 20240410/ncurses_tests_20240410
+mkdir bin
+sudo apt-cache search ncurses
+sudo apt-cache search ncurses | grepc ^libncurses
+sudo apt-cache search ncurses | grepc ^ncurses
+sudo apt-cache search ncurses | grepc ncurses
+sudo efibootmgr -v
+tre
+tree -d
+./RUN-rsync-muadib_WD_5Tb 
+./build_and_run.sh 
+./ncstst-2_movement
+./ncstst-3_attributes
+:q
+ANSM{
+FJL=glog_status 
+PWF
+bin/leap-years-write-to-file_v4 
+bin/substring_withpointers_v1 
+cp -r Knox\ Goes\ Away\ \(2023\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Dune\ Part\ Two\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ Daybreakers\ \(2009\)/ ~/majstaf/majmedia/Seivom/20240409/
+cp -r ~/Downloads/Arthur\ The\ King\ \(2024\)\ \[720p\]\ \[WEBRip\]\ \[YTS.MX\]/ .
+cp glog_status ~/majstaf/mdbgit/majbin_mdb/
+db
+dkdb remote
+dkdb remote --get-url ghkdb
+dkdb remote get-url ghkdb
+dkdb remote get-url ghksb
+find * -maxdepth 0 -name "*YTS*"
+find * -name "*YTS*"
+get_mdb_diffs 
+git branch -m main
+git flog
+git log --name-status
+git remote -v
+grepc status *
+kitty-reload 
+mkdir 20240426
+mv ../Arthur.The.King.2024.mp4 .
+mv ./* ../
+mv Arthur.The.King.2024.mp4 ../
+mv Arthur\ The\ King\ \(2024\)/ ../
+mv Arthur\ The\ King\ \(2024\)/ 20240426/
+pwd
+softlink1-fname-to-ulb glog_status 
+suido reboot
+tree Subs/
+vlc Arthur.The.King.2024.mp4 &
+vlc Cyborg.Girl.2008.mp4 &
+vlc On.Fire.2023.mp4 &
+cp -rn ~/majstaf/majmedia/Seivom/* /media/rgregor/EKSFAT/majmedia/Seivom/
+cp Subs/English.srt .
+duh
+tree 20240*
+bin/app_path 
+bin/sas1_serialize_array_of_structs_v12 
+bin/sas1¸
+bin/sas1¸¸
+bin/sas2_retreive_structs_from_file_v7 
+bin/sas2_retreive_structs_from_file_v7 | less
+bin/substring_withpointers_v3 0 22
+bin/substring_withpointers_v3 15 150
+bin/substring_withpointers_v3 62 3
+bin/substring_withpointers_v3 63 3
+cp ~/majstaf/seznami/* seznami_d/
+dmts add .
+dmts commit -a
+git commit -m "update 20240319_0738_d"
+less DISKS_20191226.txt 
+less MOUNT.txt 
+less ZALA_RUN_backup_rgregor_HP.onl.txt_SEAGATE_1-5Tb
+less backup_
+less backup_rgregor_HP.onl.txt 
+make -f ../Makefile 
+make -f Makefile_test
+make -f Makefile_test clean
+mkdir seznami_d
+./build_and_run.sh 15 15
+bin/ZpPadec_TEST 
+bin/ZpPadec_TEST 302.15 302.45 175.80
+bin/ZpPadec_TEST 302.15 302.45 75.89
+gpd
+mv bin/ZpPadec{,_TEST} 
+sbr
+tree 
+tree bin
+tree bin/
+cat nohup.out 
+SUDO REBOOT
+bin/substring_withpointers_v3 1 22
+bin/substring_withpointers_v3 10 22
+bin/substring_withpointers_v3 15 15
+chmod 755 glog_status 
+dvol status
+git show de9f877
+git sttaus
+gpdpush 
+l c_books/
+less pdtk_20220418.txt 
+pwrf
+s2 "Samsung A71 cloud backup and restore" "Samsung A71 cloud backup and restore"
+dboc
+unzip *.zip
+/home/rgregor/majstaf/majbin/BrthReminder_c/BrthReminder_c_color
+./build_and_run.sh substring_withpointers_v3.c 15 15
+bin/substring_withpointers_v3 
+neww
+dbs
+un-mount_dev_sdcs 
+fm
+tmxns
+/media/rgregor/B1_2_EXT4/RUN-rsync-muadib_SEAGATE_1-5Tb 
+/media/rgregor/EKSFAT/RUN-rsync-muadib_WD_5Tb 
+dmts status
+LL
+db0
+sudo apt autoclean
+dkdb add .
+sudo apt autoremove
+shorten-movie-name 
+glog_status 
+dclean-movie-dname 
+tmxks
+ffn
+sudo apt dist-upgrade
+git add .
+sudo apt upgrade
+git commit -a
+tree
+sudo apt update
+sudo reboot
+make
+ghgl_push_mdn 
+mdbgt_status 
+testing_gtgh_status_mdb 
+mntm
+un-mount_dev_sdbs 
+mdbgt_testpush 
+make clean 
+testing_gtgh_testpush_mdb 
+dkdb status
+ghgl_testpush_mdb 
+git status
+l
+get_mdbdiffs 
+db1
+pwf

@@ -1,0 +1,346 @@
+ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+ sudo apt install plank
+ plank &
+ exit
+ which plank
+ exit
+ sudo apt install arandr
+ exit
+ l
+ cd
+ cd .config/
+ l
+ cd kitty/
+ la -a
+ cd
+ exit
+ sudo apt install dmenu
+ dmenu
+ dmenu-run
+ man dmenu
+ dmenu_run &
+ ls
+ mkdir majstaf
+ mkdir majprogs
+ mkdir majtools
+ mkdir majdoks
+ mkdir majmedia
+ mkdir metsys_muadib
+ mkdir majbin
+ mkdir coding
+ sudo apt install kitty
+ kitty &
+ man kitty
+ cd /usr/share/doc/kitty
+ cd examples/
+ cp kitty.conf ~/.config/kitty/
+ exit
+ exit
+ sudo apt install terminator
+ exit
+ cd .config/kitty/
+ vim
+ sudo apt install vim
+ vim kitty.conf 
+ cd
+ l
+ exit
+ mkdir -p ~/.icons/shadow
+ cd ~/.icons/shadow
+ cp ~/Downloads/shadow-10.0.tar.xz .
+ ./shadowchangecolor.py 
+ cd
+ cd .icons/shadow/
+ rm -r ./*
+ cp ~/Downloads/shadow-10.0.tar.xz .
+ tar
+ tar -xvf shadow-10.0.tar.xz shadow
+ tar -xvJf shadow-10.0.tar.xz 
+ exit
+ sudo apt install vlc
+ df -h
+ sudo dpkg -l
+ sudo dpkg -l parole
+ sudo apt purge parole
+ sudo apt autoremove
+ sudo apt install kodi
+ exit
+ sudo cp -r /home/rgregor/.icons/* ~/.icons/
+ exit
+ sudo cp -r /home/rgregor/.icons/* .
+ sudo chown -R tadeja: ./*
+ exit
+ sudo apt-cache search double-commander
+ sudo apt-cache search double commander
+ sudo apt install doublecmd-gtk doublecmd-plugins
+ mc
+ sudo apt install mc
+ sudo mc
+ ll /home/tadeja/
+ sudo ls -l /home/tadeja/
+ exit
+ df
+ mkdir ~/.fonts
+ cp -r /media/rgregor/B1_2_EXT4/backup_jbez0rg/home/rgregor/Downloads/ttf-iosevka-11.* .
+ mv ttf-iosevka-11.* .fonts/
+ cd .fonts/
+ rm ttf-iosevka-11.3.0_NERD.zip 
+ sudo fc-cache -f
+ exit
+ cd /media/rgregor/B1_2_EXT4/backup_jbez0rg/home/rgregor/
+ find -type d -iname "*iosev*"
+ l
+ ls
+ exit
+ l
+ exit
+ l
+ exit
+ cd majstaf/majprogs/
+ cd javafx-sdk-11.0.2/
+ cd ..
+ cd st-0.8.4_
+ cd st-0.8.4_Dracula/
+ ./st
+ cd ..
+ cd -
+ l
+ vim config.def.h
+ sudo apt-cache search mononoki
+ sudo apt install fonts-mononoki
+ st
+ ./st 
+ cd ..
+ cd st-0.8.4_Nord/
+ ./st
+ l
+ exit
+ cd .config/kitty/
+ nano kitty.conf 
+ vim kitty.conf
+ exit
+ cd .config/kitty/
+ vim kitty.conf 
+ exit
+ l
+ exit
+ mkdir -p .config/kitty/kitty-themes/themes
+ rmdir .config/kitty/kitty-themes/themes
+ git clone --depth 1 https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
+ sudo apt install git
+ git clone --depth 1 https://github.com/dexpota/kitty-themes.git ~/.config/kitty/kitty-themes
+ cd .config/kitty/kitty-themes/
+ cd themes/
+ cd
+ cd .config/kitty/
+ ln -s ./kitty-themes/themes/S ~/.config/kitty/theme.conf
+ ln -s ./kitty-themes/themes/Dracula.conf ~/.config/kitty/theme.conf
+ ln -snf ./kitty-themes/themes/Dracula.conf ~/.config/kitty/theme.conf
+ vim kitty.conf 
+ xit
+ exit
+ l
+ la
+ l
+ ls | column -c $(tput cols)
+ exit
+ sudo poweroff
+ exit
+ l
+ ls
+ ls -l
+ ls -l
+ ln -s ~/majstaf/coding/C_Cpp_d/c_d_testing ~/C_and_Cpp_testing
+ ls -l
+ ln -s ~/majstaf/coding/PYTHON_d/PYTHON_d_testing/ ~/PYTHON_d_testing
+ ln -s ~/majstaf/coding/JAVA_d/JAVA_d_testing/ ~/JAVA_d_testing
+ ls -l
+ cd C_and_Cpp_testing
+ l
+ cd cd088_BrthReminder-02_20221222/
+ ./BrthReminder 
+ cd ..
+ l
+ cd cd087_unicode-table-chars_20221218/
+ tree
+ ./Build_And_Run.sh 
+ tree
+ cd
+ exit
+ l
+ mkdir majsettings
+ l
+ sudo apt-cache searcj java
+ sudo apt-cache search java
+ sudo apt-cache search java | grep --color ^java
+ sudo apt-cache search openjdk
+ sudo apt-cache search openjdk-11
+ sudo apt-cache search openjdk-11 | grepc openjdk-11
+ sudo apt-cache search openjdk-11 | grep --color openjdk-11
+ sudo apt install openjdk-11-jdk
+ sudo apt-cache search build essential
+ sudo apt-cache search build essential | grep --color build
+ sudo apt-cache search build essential | grep --color ^build
+ sudo apt install build-essential
+ java --version
+ javac --version
+ gcc --version
+ py
+ python
+ python3
+ which python3
+ file /usr/bin/python3
+ type /usr/bin/python3
+ file /usr/bin/python3
+ cd /usr/bin/
+ ls p*
+ ls py*
+ ll py*
+ cd
+ java
+ cd majstaf/coding/JAVA_d/JAVA_d_testing/
+ l
+ cd jd077_rsort-by-datestamp_20220129/
+ ./RsortByEnddate_run
+ ./RsortByEnddate_run FAJLS/
+ cd ..
+ cd
+ go
+ majstaf/majprogs/go/bin/go
+ majstaf/majprogs/go/bin/go --version
+ majstaf/majprogs/go/bin/go version
+ apt-cache search go
+ apt-cache search go-lang
+ apt-cache search go-lang | grep --color go-lang
+ apt-cache search go-lang | grep --color ^go
+ apt-cache search go | grep --color ^go
+ apt-cache search 'go[ -_]' | grep --color ^go
+ d
+ cd
+ l
+ df -h
+ cd
+ cd
+ l
+ ls -l
+ cd
+ exit
+ cd C_and_Cpp_testing/
+ l
+ cd cd086_is_prime_20221208/
+ l
+ tree
+ ./test.sh 
+ make clean
+ tree
+ make
+ tree
+ bin/eulers_prime_generating_polynomial 
+ cd
+ mkdir majbashrc
+ exit
+ apt-cache search 'go[ -_]' | grep --color ^go
+ d
+ df -h
+ ls -l
+ exit
+ cd C_and_Cpp_testing/
+ cd cd086_is_prime_20221208/
+ tree
+ ./test.sh 
+ make clean
+ tree
+ make
+ tree
+ bin/eulers_prime_generating_polynomial 
+ mkdir majbashrc
+ exit
+ vim .bashrc
+ cd majstaf/majbashrc/
+ cd ..
+ mv majbashrc/ majrcs
+ cd majrcs/
+ cp /media/rgregor/B1_2_EXT4/backup_jbez0rg/home/rgregor/majstaf/forallusers/* .
+ cd ..
+ vim .bashrc
+ cd ..
+ vim .bashrc
+ . .bashrc
+ sbr
+ l
+ java
+ java -version
+ go version
+ cd majstaf/majrcs/
+ grep -r go ./*
+ grep -r GO ./*
+ cd 
+ c majstaf/
+ mkdir drpbx_muadib
+ cd .config/kitty/
+ cd
+ cp /media/rgregor/B1_2_EXT4/backup_jbez0rg/home/rgregor/.vimrc .
+ vim
+ cp -r /media/rgregor/B1_2_EXT4/backup_jbez0rg/home/rgregor/.vim/ .
+ vim .vimrc
+ vim .vimrc
+ la
+ ls
+ vim .vimrc
+ cd majstaf/majprogs/
+ cd st-0.8.4_Dracula/
+ st
+ ./st
+ cd ..
+ sudo ln -s ~/majstaf/majprogs/st-0.8.4_Dracula/st /usr/local/bin/std
+ std
+ sudo ln -s ~/majstaf/majprogs/st-0.8.4_Nord/st /usr/local/bin/stn
+ cd .config/kitty/
+ vim kitty.conf 
+ vim .config/kitty/kitty.conf 
+ vim .vimrc
+ cd majstaf/majprogs/
+ cd st-0.8.4_Dracula/
+ st
+ ./st
+ sudo ln -s ~/majstaf/majprogs/st-0.8.4_Dracula/st /usr/local/bin/std
+ std
+ sudo ln -s ~/majstaf/majprogs/st-0.8.4_Nord/st /usr/local/bin/stn
+ vim kitty.conf 
+ vim .config/kitty/kitty.conf 
+ cd .config/kitty/
+ vim theme.conf 
+ cd kitty-themes/
+ mv .git dot_git
+ cd themes/
+ cd ..
+ l
+ cd
+ vim .vimrc
+ cd .config/kitty/
+ vim kitty.conf 
+ sudo apt-cache search alacritty
+ man alacritty
+ cp -r /media/rgregor/B1_2_EXT4/backup_jbez0rg/home/rgregor/.config/alacritty ~/.config/
+ vim .config/alacritty/alacritty.yml
+ vim .config/alacritty/dracula_custom-1.yml 
+ cp -r /media/rgregor/B1_2_EXT4/backup_jbez0rg/home/rgregor/.config/alacritty ~/.config/
+ vim .config/alacritty/alacritty.yml
+ vim .config/alacritty/dracula_custom-1.yml 
+ vim .vimrc
+ cd /media/rgregor/B1_2_EXT4/backup_jbez0rg/home/rgregor/
+ cd majstaf/metsys/
+ ls | grep fzf
+ sudo apt install fzf
+ cat fzf_install-and-setup-history-search_20220907.txt 
+ vim ~/majstaf/majrcs/bashrc_forall 
+ cd
+ sudo apt install wget apt-transport-https gnupg2 software-properties-common
+ sudo add-apt-repository ppa:aslatter/ppa
+ sudo apt update
+ sudo apt install alacritty
+ sudo apt-get install konsole
+ cd majstaf/
+ ll
+ mkdir seznami
+ history > seznami/hstl_muadib_202301407.txt
