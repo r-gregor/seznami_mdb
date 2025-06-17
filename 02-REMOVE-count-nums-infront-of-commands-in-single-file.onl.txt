@@ -1,0 +1,1 @@
+FJL=COMMANDS-muadib-from-XXXXXXXX-till-$(date +"%Y%m%d").txt; cat ${FJL} | cut -b 9- > ${FJL}-2.txt
